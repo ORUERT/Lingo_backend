@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.example.lingo.mapper.TUserMemoryMapper">
+  <resultMap id="BaseResultMap" type="com.example.lingo.model.TUserMemory">
+    <id column="user_id" jdbcType="BIGINT" property="userId" />
+    <id column="table_id" jdbcType="BIGINT" property="tableId" />
+    <result column="word_id" jdbcType="BIGINT" property="wordId" />
+  </resultMap>
+  <insert id="insert" parameterType="com.example.lingo.model.TUserMemory">
+    insert into t_user_memory (user_id, table_id, word_id
+      )
+    values (#{userId,jdbcType=BIGINT}, #{tableId,jdbcType=BIGINT}, #{wordId,jdbcType=BIGINT}
+      )
+    on duplicate key update word_id = #{wordId,jdbcType=BIGINT}
+  </insert>
+  <select id="selectAll" resultMap="BaseResultMap">
+    select user_id, table_id, word_id
+    from t_user_memory
+  </select>
+  <select id="selectByUserId"  parameterType="java.lang.Long" resultType="java.lang.Long">
+    select word_id
+    from t_user_memory
+    where user_id = #{userId,jdbcType=BIGINT}
+    </select>
+  <update id="updateByPrimaryKey" parameterType="com.example.lingo.model.TUserMemory">
+    update t_user_memory
+    set word_id = #{wordId,jdbcType=BIGINT}
+    where user_id = #{userId,jdbcType=BIGINT}
+      and table_id = #{tableId,jdbcType=BIGINT}
+  </update>
+</mapper>

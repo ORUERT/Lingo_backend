@@ -1,0 +1,6642 @@
+[
+    {
+        "word": "私",
+        "pron": "わたし",
+        "definition": "我",
+        "prompt2": "私は学生です。毎日、大学に行って勉強しています。",
+        "phrase_explain": "我是学生。每天都去大学学习。",
+        "prompt3": "I am a student. I go to university to study every day."
+    },
+    {
+        "word": "わたしたち",
+        "pron": "わたしたち",
+        "definition": "我们",
+        "prompt2": "わたしたちは友達です。一緒に遊んだり、おしゃべりしたりします。",
+        "phrase_explain": "我们是朋友。一起玩耍，聊天。",
+        "prompt3": "We are friends. We play and chat together."
+    },
+    {
+        "word": "あなた",
+        "pron": "あなた",
+        "definition": "你，妳",
+        "prompt2": "あなたは新しい先生ですか？初めまして、私は〇〇と申します。",
+        "phrase_explain": "您是新老师吗？初次见面，我叫〇〇。",
+        "prompt3": "Are you a new teacher? Nice to meet you, my name is 〇〇."
+    },
+    {
+        "word": "あの人",
+        "pron": "あのひと",
+        "definition": "他，她，那个人",
+        "prompt2": "あの人は有名な歌手です。彼の曲はいつも人気があります。",
+        "phrase_explain": "那个人是著名歌手。他的歌曲总是很受欢迎。",
+        "prompt3": "That person is a famous singer. His songs are always popular."
+    },
+    {
+        "word": "皆さん",
+        "pron": "みなさん",
+        "definition": "各位，大家",
+        "prompt2": "皆さん、お元気ですか？今日は会議がありますので、お願いします。",
+        "phrase_explain": "大家好吗？今天有会议，请多关照。",
+        "prompt3": "How is everyone? We have a meeting today, please take care of me."
+    },
+    {
+        "word": "～さん",
+        "pron": "～さん",
+        "definition": "～先生，～小姐，～女士",
+        "prompt2": "山田さんは優しい人です。いつも助けてくれます。",
+        "phrase_explain": "山田先生是个温柔的人。总是帮助我。",
+        "prompt3": "Mr. Yamada is a gentle person. He always helps me."
+    },
+    {
+        "word": "～ちゃん",
+        "pron": "～ちゃん",
+        "definition": "用于小孩的名字后",
+        "prompt2": "さくらちゃんは元気な女の子です。いつも笑顔でいることが多いです。",
+        "phrase_explain": "小樱是个活泼的女孩。经常笑容满面。",
+        "prompt3": "Sakura is a lively girl. She often has a smiling face."
+    },
+    {
+        "word": "～君",
+        "pron": "～くん",
+        "definition": "～君（用于男孩的名字后）",
+        "prompt2": "彼は田中君と呼ばれています。",
+        "phrase_explain": "他被称为田中君。",
+        "prompt3": "He is called Tanaka-kun."
+    },
+    {
+        "word": "～じん",
+        "pron": "～じん",
+        "definition": "～人（表国籍）",
+        "prompt2": "中国人の友達がいます。彼は日本語も上手に話します。",
+        "phrase_explain": "我有个中国朋友。他也能流利地说日语。",
+        "prompt3": "I have a Chinese friend. He can also speak Japanese fluently."
+    },
+    {
+        "word": "先生",
+        "pron": "せんせい",
+        "definition": "老师，教导者",
+        "prompt2": "彼は優れた先生です。",
+        "phrase_explain": "他是一位出色的老师。",
+        "prompt3": "He is an excellent teacher."
+    },
+    {
+        "word": "教師",
+        "pron": "きょうし",
+        "definition": "教师",
+        "prompt2": "私の夢は教師になることです。子供たちと一緒に成長できる仕事です。",
+        "phrase_explain": "我的梦想是成为一名教师。这是一份能与孩子们一起成长的工作。",
+        "prompt3": "My dream is to become a teacher. It is a job where I can grow together with children."
+    },
+    {
+        "word": "学生",
+        "pron": "がくせい",
+        "definition": "学生",
+        "prompt2": "私たちは一緒に勉強する学生です。困ったことがあれば助け合いましょう。",
+        "phrase_explain": "我们是一起学习的学生。如果遇到困难，我们互相帮助。",
+        "prompt3": "We are students who study together. If we encounter difficulties, we help each other."
+    },
+    {
+        "word": "会社員",
+        "pron": "かいしゃいん",
+        "definition": "公司职员",
+        "prompt2": "父は会社員です。毎日早朝から晩まで仕事をしています。",
+        "phrase_explain": "父亲是公司职员。每天从早到晚都在工作。",
+        "prompt3": "My father is a company employee. He works from morning till night every day."
+    },
+    {
+        "word": "社員",
+        "pron": "しゃいん",
+        "definition": "～公司的职员（和公司名称一起使用）",
+        "prompt2": "新しい社員が入社しました。彼はとても頭が良く、仕事も早いです。",
+        "phrase_explain": "公司迎来了新员工。他非常聪明，工作也很快。",
+        "prompt3": "The company has welcomed a new employee. He is very smart and works quickly."
+    },
+    {
+        "word": "銀行員",
+        "pron": "ぎんこういん",
+        "definition": "银行员",
+        "prompt2": "銀行員のお姉さんはいつも笑顔で対応してくれます。",
+        "phrase_explain": "银行职员姐姐总是面带微笑地对待我们。",
+        "prompt3": "The bank staff sister always treats us with a smile."
+    },
+    {
+        "word": "医者",
+        "pron": "いしゃ",
+        "definition": "医生",
+        "prompt2": "医者のおばあさんはいつも私たちを元気づけてくれます。",
+        "phrase_explain": "医生奶奶总是鼓励我们。",
+        "prompt3": "Grandma doctor always encourages us."
+    },
+    {
+        "word": "研究者",
+        "pron": "けんきゅうしゃ",
+        "definition": "研究人员",
+        "prompt2": "私の友達は研究者です。彼は新しい発見をするために毎日研究しています。",
+        "phrase_explain": "我的朋友是研究员。他每天都在研究以寻找新的发现。",
+        "prompt3": "My friend is a researcher. He researches every day to find new discoveries."
+    },
+    {
+        "word": "エンジニア",
+        "pron": "エンジニア",
+        "definition": "工程师",
+        "prompt2": "兄はエンジニアです。彼はコンピューターソフトウェアの開発に携わっています。",
+        "phrase_explain": "我哥哥是工程师。他从事计算机软件开发。",
+        "prompt3": "My brother is an engineer. He is engaged in computer software development."
+    },
+    {
+        "word": "大学",
+        "pron": "だいがく",
+        "definition": "大学",
+        "prompt2": "私は大学生です。大学でたくさんの友達を作り、勉強に励んでいます。",
+        "phrase_explain": "我是大学生。在大学里交了很多朋友，努力学习。",
+        "prompt3": "I am a college student. I have made many friends and study hard in college."
+    },
+    {
+        "word": "病院",
+        "pron": "びょういん",
+        "definition": "医院",
+        "prompt2": "病院へ行くと、いつもドキドキします。でも先生たちが優しくしてくれます。",
+        "phrase_explain": "去医院时，总是紧张。但医生们对我很温柔。",
+        "prompt3": "I am always nervous when going to the hospital. But the doctors are very gentle with me."
+    },
+    {
+        "word": "電気",
+        "pron": "でんき",
+        "definition": "电，电灯",
+        "prompt2": "電気がないと生活が不便ですね。電気は現代社会に欠かせないものです。",
+        "phrase_explain": "没有电会不方便生活呢。电力是现代社会必不可少的东西。",
+        "prompt3": "Life would be inconvenient without electricity. Electricity is essential in modern society."
+    },
+    {
+        "word": "だれ（どなた）",
+        "pron": "だれ（どなた）",
+        "definition": "谁（哪位）（“どなた”是“だれ”的礼貌形）",
+        "prompt2": "あの方はだれですか？初めまして、私は〇〇と申します。",
+        "phrase_explain": "那位是谁？初次见面，我叫〇〇。",
+        "prompt3": "Who is that? Nice to meet you, my name is 〇〇."
+    },
+    {
+        "word": "…歳",
+        "pron": "…さい",
+        "definition": "…岁",
+        "prompt2": "彼は20歳です。若くてもとても優秀です。",
+        "phrase_explain": "他20岁。年轻但非常优秀。",
+        "prompt3": "He is 20 years old. Young but very excellent."
+    },
+    {
+        "word": "何歳",
+        "pron": "なんさい",
+        "definition": "几岁（おいくつ）（“おいくつ”是“なんさい”的礼貌形）",
+        "prompt2": "おいくつですか？失礼ですか、お年を伺ってもよろしいですか？",
+        "phrase_explain": "您多大了？打扰了，可以问一下您的年龄吗？",
+        "prompt3": "How old are you? Sorry to bother you, may I ask your age?"
+    },
+    {
+        "word": "はい",
+        "pron": "はい",
+        "definition": "是，对",
+        "prompt2": "はい、分かりました。すぐに対応いたします。",
+        "phrase_explain": "好的，我明白了。我会立即处理。",
+        "prompt3": "Okay, I understand. I will handle it immediately."
+    },
+    {
+        "word": "いいえ",
+        "pron": "いいえ",
+        "definition": "不，不是",
+        "prompt2": "いいえ、大丈夫です。ありがとうございます。",
+        "phrase_explain": "不，没关系。谢谢。",
+        "prompt3": "No, it's okay. Thank you."
+    },
+    {
+        "word": "失礼ですが",
+        "pron": "しつれいですが",
+        "definition": "冒昧请教一下",
+        "prompt2": "失礼ですが、お名前を教えていただけますか？",
+        "phrase_explain": "打扰了，您能告诉我您的名字吗？",
+        "prompt3": "Excuse me, can you tell me your name?"
+    },
+    {
+        "word": "お名前は？",
+        "pron": "おなまえは？",
+        "definition": "您贵姓？",
+        "prompt2": "初めまして、私は〇〇と申します。お名前は何とおっしゃいますか？",
+        "phrase_explain": "初次见面，我叫〇〇。您怎么称呼？",
+        "prompt3": "Nice to meet you, my name is 〇〇. What should I call you?"
+    },
+    {
+        "word": "初めまして。",
+        "pron": "はじめまして。",
+        "definition": "初次见面。（第一次见面时的寒喧）",
+        "prompt2": "初めまして、私は〇〇と申します。どうぞよろしくお願いします。",
+        "phrase_explain": "初次见面，我叫〇〇。请多多关照。",
+        "prompt3": "Nice to meet you, my name is 〇〇. Please take care of me."
+    },
+    {
+        "word": "どうぞよろしく［お願いします］。",
+        "pron": "どうぞよろしく［おねがいします］。",
+        "definition": "请多关照。（第一次见面的问候语）",
+        "prompt2": "こちらこそ、どうぞよろしくお願いします。",
+        "phrase_explain": "我也是，请多多关照。",
+        "prompt3": "Nice to meet you too, please take care of me."
+    },
+    {
+        "word": "こちらは～さんです。",
+        "pron": "こちらは～さんです。",
+        "definition": "这位是～先生/小姐。",
+        "prompt2": "こちらは田中さんです。彼は私の友達です。",
+        "phrase_explain": "这位是田中先生。他是我的朋友。",
+        "prompt3": "This is Mr. Tanaka. He is my friend."
+    },
+    {
+        "word": "～から来ました。",
+        "pron": "～からきました。",
+        "definition": "我从～來。",
+        "prompt2": "私は日本から来ました。日本の文化や言語に興味があります。",
+        "phrase_explain": "我来自日本。对日本的文化和语言很感兴趣。",
+        "prompt3": "I am from Japan. I am very interested in Japanese culture and language."
+    },
+    {
+        "word": "これ",
+        "pron": "これ",
+        "definition": "这（事物近己方）",
+        "prompt2": "これは私の本です。大切にしています。",
+        "phrase_explain": "这是我的书。我非常珍惜。",
+        "prompt3": "This is my book. I treasure it very much."
+    },
+    {
+        "word": "それ",
+        "pron": "それ",
+        "definition": "那（事物近对方）",
+        "prompt2": "それは彼のカバンです。大きくて重そうですね。",
+        "phrase_explain": "那是他的书包。看起来又大又重。",
+        "prompt3": "That is his backpack. It looks big and heavy."
+    },
+    {
+        "word": "あれ",
+        "pron": "あれ",
+        "definition": "那（事物在远方）",
+        "prompt2": "あれは何ですか？見たことがない物ですね。",
+        "phrase_explain": "那是什么？好像是我没见过的东西。",
+        "prompt3": "What is that? It seems to be something I haven't seen before."
+    },
+    {
+        "word": "この～",
+        "pron": "この～",
+        "definition": "这（近己方）",
+        "prompt2": "このノートは私のです。大事なメモがたくさん書いてあります。",
+        "phrase_explain": "这个笔记本是我的。写了很多重要的备忘录。",
+        "prompt3": "This notebook is mine. It contains many important memos."
+    },
+    {
+        "word": "その～",
+        "pron": "その～",
+        "definition": "那（近对方）",
+        "prompt2": "その本はとても面白そうですね。読んでみたいです。",
+        "phrase_explain": "那本书看起来很有趣。我想读一下。",
+        "prompt3": "That book looks interesting. I want to read it."
+    },
+    {
+        "word": "あの～",
+        "pron": "あの～",
+        "definition": "那（远方）",
+        "prompt2": "あの人は誰ですか？初めて見る顔ですね。",
+        "phrase_explain": "那个人是谁？是我第一次见到的面孔。",
+        "prompt3": "Who is that person? It's the first time I've seen that face."
+    },
+    {
+        "word": "本",
+        "pron": "ほん",
+        "definition": "书本，书籍",
+        "prompt2": "私は本が好きです。毎晩、寝る前に本を読んでいます。",
+        "phrase_explain": "我喜欢书。每天晚上睡觉前都会读书。",
+        "prompt3": "I like books. I read books every night before going to bed."
+    },
+    {
+        "word": "辞書",
+        "pron": "じしょ",
+        "definition": "词典",
+        "prompt2": "辞書を使って新しい単語を学びます。",
+        "phrase_explain": "我会用词典学习新单词。",
+        "prompt3": "I will learn new words with a dictionary."
+    },
+    {
+        "word": "雑誌",
+        "pron": "ざっし",
+        "definition": "杂志",
+        "prompt2": "雑誌には最新のトレンドが載っています。",
+        "phrase_explain": "杂志上刊载了最新的潮流。",
+        "prompt3": "The latest trends are featured in the magazine."
+    },
+    {
+        "word": "新聞",
+        "pron": "しんぶん",
+        "definition": "报纸",
+        "prompt2": "新聞で毎日のニュースをチェックしています。",
+        "phrase_explain": "我会通过报纸每天了解新闻。",
+        "prompt3": "I stay informed with daily news through newspapers."
+    },
+    {
+        "word": "ノート",
+        "pron": "ノート",
+        "definition": "笔记本",
+        "prompt2": "ノートには大事なメモがたくさん書いてあります。",
+        "phrase_explain": "笔记本上有很多重要的备忘录。",
+        "prompt3": "There are many important notes in the notebook."
+    },
+    {
+        "word": "手帳",
+        "pron": "てちょう",
+        "definition": "记事本",
+        "prompt2": "手帳でスケジュールを管理しています。",
+        "phrase_explain": "我用日程表来管理日程。",
+        "prompt3": "I use a schedule to manage my daily plans."
+    },
+    {
+        "word": "名刺",
+        "pron": "めいし",
+        "definition": "名片",
+        "prompt2": "名刺を交換しましょう。連絡先を教えてください。",
+        "phrase_explain": "让我们交换名片。请告诉我您的联系方式。",
+        "prompt3": "Let's exchange business cards. Please tell me your contact information."
+    },
+    {
+        "word": "カード",
+        "pron": "カード",
+        "definition": "卡片",
+        "prompt2": "カードで買い物をするのが便利ですね。",
+        "phrase_explain": "用卡购物很方便，不是吗？",
+        "prompt3": "It's convenient to shop with cards, isn't it?"
+    },
+    {
+        "word": "鉛筆",
+        "pron": "えんぴつ",
+        "definition": "铅笔",
+        "prompt2": "鉛筆で絵を描くのが好きです。",
+        "phrase_explain": "我喜欢用铅笔画画。",
+        "prompt3": "I like to draw with pencils."
+    },
+    {
+        "word": "ボールペン",
+        "pron": "ボールペン",
+        "definition": "原子笔",
+        "prompt2": "ボールペンは書くのがスムーズですね。",
+        "phrase_explain": "用圆珠笔写起来很顺畅。",
+        "prompt3": "Writing with a ballpoint pen is smooth."
+    },
+    {
+        "word": "シャープペンシル",
+        "pron": "シャープペンシル",
+        "definition": "自动铅笔",
+        "prompt2": "シャープペンシルは芯が折れにくいです。",
+        "phrase_explain": "自动铅笔的芯不容易折断。",
+        "prompt3": "The lead of mechanical pencils is not easily broken."
+    },
+    {
+        "word": "かぎ",
+        "pron": "かぎ",
+        "definition": "钥匙",
+        "prompt2": "かぎを忘れてしまいました。どうしましょう。",
+        "phrase_explain": "我忘记带钥匙了。怎么办呢？",
+        "prompt3": "I forgot to bring the keys. What should I do?"
+    },
+    {
+        "word": "時計",
+        "pron": "とけい",
+        "definition": "钟表",
+        "prompt2": "時計を見ると、時間を忘れてしまいます。",
+        "phrase_explain": "看了时钟就会忘记时间。",
+        "prompt3": "I forget the time when I look at the clock."
+    },
+    {
+        "word": "傘",
+        "pron": "かさ",
+        "definition": "伞",
+        "prompt2": "傘を持っていなかったので、雨に濡れてしまいました。",
+        "phrase_explain": "由于没有带伞，所以淋湿了。",
+        "prompt3": "I got wet because I didn't bring an umbrella."
+    },
+    {
+        "word": "かばん",
+        "pron": "かばん",
+        "definition": "书包，手提包，皮包",
+        "prompt2": "かばんの中には大切な書類が入っています。",
+        "phrase_explain": "包里有重要的文件。",
+        "prompt3": "There are important documents in the bag."
+    },
+    {
+        "word": "テープ",
+        "pron": "テープ",
+        "definition": "录音带",
+        "prompt2": "テープで箱をしっかりと閉めましょう。",
+        "phrase_explain": "用胶带把盒子牢牢封闭起来。",
+        "prompt3": "Seal the box tightly with adhesive tape."
+    },
+    {
+        "word": "テープレコーダー",
+        "pron": "テープレコーダー",
+        "definition": "录音机",
+        "prompt2": "テープレコーダーで音声を録音することができます。",
+        "phrase_explain": "可以用录音机录制音频。",
+        "prompt3": "You can record audio with a tape recorder."
+    },
+    {
+        "word": "テレビ",
+        "pron": "テレビ",
+        "definition": "电视",
+        "prompt2": "テレビで好きなドラマを見るのが楽しみです。",
+        "phrase_explain": "我喜欢在电视上看喜欢的剧集。",
+        "prompt3": "I like watching my favorite TV series on television."
+    },
+    {
+        "word": "ラジオ",
+        "pron": "ラジオ",
+        "definition": "收音机",
+        "prompt2": "ラジオで音楽を聴くのが好きです。",
+        "phrase_explain": "我喜欢在收音机上听音乐。",
+        "prompt3": "I like listening to music on the radio."
+    },
+    {
+        "word": "カメラ",
+        "pron": "カメラ",
+        "definition": "照相机",
+        "prompt2": "カメラで旅行の思い出をたくさん撮りました。",
+        "phrase_explain": "我用相机拍了很多旅行的回忆。",
+        "prompt3": "I captured many travel memories with a camera."
+    },
+    {
+        "word": "コンピューター",
+        "pron": "コンピューター",
+        "definition": "电脑",
+        "prompt2": "コンピューターでインターネットを楽しんでいます。",
+        "phrase_explain": "我喜欢在电脑上上网。",
+        "prompt3": "I enjoy browsing the internet on the computer."
+    },
+    {
+        "word": "自動車",
+        "pron": "じどうしゃ",
+        "definition": "汽车",
+        "prompt2": "自動車で遠出するのが楽しいですね。",
+        "phrase_explain": "开车出远门很有趣，不是吗？",
+        "prompt3": "It's fun to go on a long drive, isn't it?"
+    },
+    {
+        "word": "机",
+        "pron": "つくえ",
+        "definition": "桌子",
+        "prompt2": "机の上には教科書やノートが散らかっています。",
+        "phrase_explain": "桌子上散乱着教科书和笔记。",
+        "prompt3": "Textbooks and notes are scattered on the table."
+    },
+    {
+        "word": "いす",
+        "pron": "いす",
+        "definition": "椅子",
+        "prompt2": "いすに座って、ゆっくり休みましょう。",
+        "phrase_explain": "坐在椅子上，慢慢休息吧。",
+        "prompt3": "Sit on the chair and take a rest slowly."
+    },
+    {
+        "word": "チョコレート",
+        "pron": "チョコレート",
+        "definition": "巧克力",
+        "prompt2": "チョコレートは甘いお菓子です。好きな味は何ですか？",
+        "phrase_explain": "巧克力是甜食。你喜欢什么口味？",
+        "prompt3": "Chocolate is a sweet treat. What flavor do you like?"
+    },
+    {
+        "word": "コーヒー",
+        "pron": "コーヒー",
+        "definition": "咖啡",
+        "prompt2": "コーヒーを飲むと目が覚めますね。",
+        "phrase_explain": "喝咖啡会提神，不是吗？",
+        "prompt3": "Drinking coffee can refresh you, right?"
+    },
+    {
+        "word": "英語",
+        "pron": "えいご",
+        "definition": "英语",
+        "prompt2": "英語が話せると世界中でコミュニケーションができます。",
+        "phrase_explain": "如果会说英语，就可以在世界各地进行交流。",
+        "prompt3": "If you can speak English, you can communicate all over the world."
+    },
+    {
+        "word": "日本語",
+        "pron": "にほんご",
+        "definition": "日语",
+        "prompt2": "日本語を勉強しています。日本旅行に行きたいです。",
+        "phrase_explain": "我在学习日语。我想去日本旅行。",
+        "prompt3": "I am learning Japanese. I want to travel to Japan."
+    },
+    {
+        "word": "～語",
+        "pron": "～ご",
+        "definition": "～语",
+        "prompt2": "スペイン語を勉強しています。将来、スペインに行きたいです。",
+        "phrase_explain": "我在学习西班牙语。将来想去西班牙。",
+        "prompt3": "I am learning Spanish. I want to go to Spain in the future."
+    },
+    {
+        "word": "何",
+        "pron": "なん",
+        "definition": "什么",
+        "prompt2": "何が食べたいですか？",
+        "phrase_explain": "你想吃什么？",
+        "prompt3": "What do you want to eat?"
+    },
+    {
+        "word": "そう",
+        "pron": "そう",
+        "definition": "是的",
+        "prompt2": "そうですか、分かりました。",
+        "phrase_explain": "是这样吗，我明白了。",
+        "prompt3": "Is that so? I understand."
+    },
+    {
+        "word": "違います。",
+        "pron": "ちがいます。",
+        "definition": "不对。/不是。",
+        "prompt2": "違います、申し訳ありませんでした。",
+        "phrase_explain": "不，非常抱歉。",
+        "prompt3": "No, I'm very sorry."
+    },
+    {
+        "word": "そうですか。",
+        "pron": "そうですか。",
+        "definition": "我了解了/是吗？",
+        "prompt2": "そうですか、興味深いですね。",
+        "phrase_explain": "是吗，很有趣呢。",
+        "prompt3": "Is that so? It's very interesting."
+    },
+    {
+        "word": "あのう",
+        "pron": "あのう",
+        "definition": "嗯（用于表示躊躇）",
+        "prompt2": "あのう、ちょっと質問があるのですが…",
+        "phrase_explain": "那个，我有一个问题……",
+        "prompt3": "Um, I have a question..."
+    },
+    {
+        "word": "ほんのきもちです。",
+        "pron": "ほんのきもちです。",
+        "definition": "小意思。/只是一点心意。ほんの気持ちです。",
+        "prompt2": "ほんのきもちですが、プレゼントです。",
+        "phrase_explain": "只是一点心意，这是礼物。",
+        "prompt3": "Just a little something, it's a gift."
+    },
+    {
+        "word": "どうぞ。",
+        "pron": "どうぞ。",
+        "definition": "请。/给你",
+        "prompt2": "どうぞ、お召し上がりください。",
+        "phrase_explain": "请享用。",
+        "prompt3": "Please enjoy."
+    },
+    {
+        "word": "どうも。",
+        "pron": "どうも。",
+        "definition": "谢了。",
+        "prompt2": "どうも、ありがとうございます。",
+        "phrase_explain": "非常感谢。",
+        "prompt3": "Thank you very much."
+    },
+    {
+        "word": "［どうも］ありがとう［ございます］。",
+        "pron": "［どうも］ありがとう［ございます］。",
+        "definition": "（非常）谢谢你。",
+        "prompt2": "［どうも］ありがとう［ございます］。助かりました。",
+        "phrase_explain": "非常感谢。帮了大忙。",
+        "prompt3": "Thank you very much. You've been a great help."
+    },
+    {
+        "word": "ここ",
+        "pron": "ここ",
+        "definition": "这里，这个地方",
+        "prompt2": "ここが私の部屋です。静かで落ち着く場所です。",
+        "phrase_explain": "这是我的房间。是个安静舒适的地方。",
+        "prompt3": "This is my room. It's a quiet and comfortable place."
+    },
+    {
+        "word": "そこ",
+        "pron": "そこ",
+        "definition": "那里，那个地方",
+        "prompt2": "そこに座ってください。お待ちいただけますか？",
+        "phrase_explain": "请在那边坐下。可以等一下吗？",
+        "prompt3": "Please have a seat over there. Can you wait for a moment?"
+    },
+    {
+        "word": "あそこ",
+        "pron": "あそこ",
+        "definition": "那里，那个地方",
+        "prompt2": "あそこには美しい公園があります。",
+        "phrase_explain": "那边有个美丽的公园。",
+        "prompt3": "There is a beautiful park over there."
+    },
+    {
+        "word": "どこ",
+        "pron": "どこ",
+        "definition": "哪里，哪个地方",
+        "prompt2": "どこから来ましたか？興味深い場所ですね。",
+        "phrase_explain": "你从哪里来的？这个地方很有趣。",
+        "prompt3": "Where are you from? This place is interesting."
+    },
+    {
+        "word": "こちら",
+        "pron": "こちら",
+        "definition": "这边（“ここ”的礼貌形）",
+        "prompt2": "こちらにはたくさんの美味しいレストランがあります。",
+        "phrase_explain": "这边有很多美味的餐厅。",
+        "prompt3": "There are many delicious restaurants here."
+    },
+    {
+        "word": "そちら",
+        "pron": "そちら",
+        "definition": "那边（“そこ”的礼貌形）",
+        "prompt2": "そちらのお国はどうですか？",
+        "phrase_explain": "你们那边的国家怎么样？",
+        "prompt3": "How is your country over there?"
+    },
+    {
+        "word": "あちら",
+        "pron": "あちら",
+        "definition": "那边（“あちら”的礼貌形）",
+        "prompt2": "あちらには大きなショッピングモールがあります。",
+        "phrase_explain": "那边有个大型购物中心。",
+        "prompt3": "There is a large shopping center over there."
+    },
+    {
+        "word": "どちら",
+        "pron": "どちら",
+        "definition": "哪边（“どこ”的礼貌形）",
+        "prompt2": "どちらのレストランに行きますか？",
+        "phrase_explain": "你要去哪家餐厅？",
+        "prompt3": "Which restaurant do you want to go to?"
+    },
+    {
+        "word": "教室",
+        "pron": "きょうしつ",
+        "definition": "教室",
+        "prompt2": "教室では生徒たちが真剣に勉強しています。",
+        "phrase_explain": "教室里学生们认真学习。",
+        "prompt3": "Students study hard in the classroom."
+    },
+    {
+        "word": "食堂",
+        "pron": "しょくどう",
+        "definition": "餐厅，食堂",
+        "prompt2": "食堂で美味しいランチを食べましょう。",
+        "phrase_explain": "让我们在食堂吃美味的午餐。",
+        "prompt3": "Let's have a delicious lunch in the cafeteria."
+    },
+    {
+        "word": "事務所",
+        "pron": "じむしょ",
+        "definition": "办公室",
+        "prompt2": "事務所にはたくさんの書類があります。",
+        "phrase_explain": "办公室里有很多文件。",
+        "prompt3": "There are many documents in the office."
+    },
+    {
+        "word": "会議室",
+        "pron": "かいぎしつ",
+        "definition": "会议室",
+        "prompt2": "会議室で重要な話し合いが行われています。",
+        "phrase_explain": "正在会议室进行重要的讨论。",
+        "prompt3": "An important discussion is taking place in the meeting room."
+    },
+    {
+        "word": "受付",
+        "pron": "うけつけ",
+        "definition": "传达室，接待",
+        "prompt2": "受付でお名前をお伺いします。",
+        "phrase_explain": "我会在接待处询问您的名字。",
+        "prompt3": "I will ask for your name at the reception."
+    },
+    {
+        "word": "ロビー",
+        "pron": "ロビー",
+        "definition": "大厅，休息室",
+        "prompt2": "ロビーで友達と待ち合わせをしましょう。待ち時間も楽しく過ごせます。",
+        "phrase_explain": "让我们在大堂和朋友约会。等待时间也可以愉快度过。",
+        "prompt3": "Let's meet with friends in the lobby. Waiting time can also be enjoyable."
+    },
+    {
+        "word": "部屋",
+        "pron": "へや",
+        "definition": "房间",
+        "prompt2": "私の部屋はきれいで広いです。",
+        "phrase_explain": "我的房间又干净又宽敞。",
+        "prompt3": "My room is clean and spacious."
+    },
+    {
+        "word": "トイレ（お手洗い）",
+        "pron": "トイレ（おてあらい）",
+        "definition": "厕所（洗手间）",
+        "prompt2": "トイレに行く前に手を洗ってください。",
+        "phrase_explain": "在去洗手间之前请洗手。",
+        "prompt3": "Please wash your hands before going to the restroom."
+    },
+    {
+        "word": "階段",
+        "pron": "かいだん",
+        "definition": "楼梯",
+        "prompt2": "毎日階段を使って運動しています。",
+        "phrase_explain": "我每天都会用楼梯锻炼身体。",
+        "prompt3": "I exercise by taking the stairs every day."
+    },
+    {
+        "word": "エレベーター",
+        "pron": "エレベーター",
+        "definition": "电梯",
+        "prompt2": "忙しい時はエレベーターを使います。",
+        "phrase_explain": "忙的时候我会乘电梯。",
+        "prompt3": "I take the elevator when I'm busy."
+    },
+    {
+        "word": "［お］国",
+        "pron": "［お］くに",
+        "definition": "贵国",
+        "prompt2": "私は日本のお国が大好きです。",
+        "phrase_explain": "我非常喜欢日本这个国家。",
+        "prompt3": "I really like Japan as a country."
+    },
+    {
+        "word": "会社",
+        "pron": "かいしゃ",
+        "definition": "公司",
+        "prompt2": "毎日会社に通って働いています。",
+        "phrase_explain": "我每天都去公司工作。",
+        "prompt3": "I go to work at the company every day."
+    },
+    {
+        "word": "うち",
+        "pron": "うち",
+        "definition": "家，房子",
+        "prompt2": "うちに帰ると、家族が待っています。",
+        "phrase_explain": "回到家，家人在等待着。",
+        "prompt3": "When I return home, my family is waiting."
+    },
+    {
+        "word": "電話",
+        "pron": "でんわ",
+        "definition": "电话，电话呼叫",
+        "prompt2": "友達に電話して予定を確認しましょう。",
+        "phrase_explain": "给朋友打电话确认计划。",
+        "prompt3": "Call a friend to confirm the plans."
+    },
+    {
+        "word": "靴",
+        "pron": "くつ",
+        "definition": "鞋子",
+        "prompt2": "新しい靴を買いたいです。",
+        "phrase_explain": "我想买双新鞋。",
+        "prompt3": "I want to buy a new pair of shoes."
+    },
+    {
+        "word": "ネクタイ",
+        "pron": "ネクタイ",
+        "definition": "领带",
+        "prompt2": "彼はいつもネクタイを身に着けています。",
+        "phrase_explain": "他总是系着领带。",
+        "prompt3": "He always wears a tie."
+    },
+    {
+        "word": "ワイン",
+        "pron": "ワイン",
+        "definition": "葡萄酒",
+        "prompt2": "特別な日にはワインを飲みます。",
+        "phrase_explain": "在特别的日子里，我会喝酒。",
+        "prompt3": "On special occasions, I drink alcohol."
+    },
+    {
+        "word": "たばこ",
+        "pron": "たばこ",
+        "definition": "香烟",
+        "prompt2": "健康のためにたばこをやめましょう。",
+        "phrase_explain": "为了健康，让我们戒烟吧。",
+        "prompt3": "Let's quit smoking for our health."
+    },
+    {
+        "word": "売り場",
+        "pron": "うりば",
+        "definition": "柜台，卖场",
+        "prompt2": "売り場でお買い物を楽しんでいます。",
+        "phrase_explain": "我很喜欢在商场购物。",
+        "prompt3": "I really enjoy shopping at the mall."
+    },
+    {
+        "word": "地下",
+        "pron": "ちか",
+        "definition": "地下",
+        "prompt2": "地下にはお店やレストランがたくさんあります。",
+        "phrase_explain": "地下有很多商店和餐馆。",
+        "prompt3": "There are many shops and restaurants underground."
+    },
+    {
+        "word": "…階",
+        "pron": "…かい",
+        "definition": "…楼",
+        "prompt2": "彼のオフィスは10階にあります。",
+        "phrase_explain": "他的办公室在十楼。",
+        "prompt3": "His office is on the tenth floor."
+    },
+    {
+        "word": "何階",
+        "pron": "なんがい",
+        "definition": "几楼",
+        "prompt2": "お兄さん、あなたのオフィスは何階ですか？",
+        "phrase_explain": "哥哥，你的办公室在几楼？",
+        "prompt3": "Brother, which floor is your office on?"
+    },
+    {
+        "word": "…円",
+        "pron": "…えん",
+        "definition": "?日元",
+        "prompt2": "この本は500円です。",
+        "phrase_explain": "这本书是500日元。",
+        "prompt3": "This book is 500 yen."
+    },
+    {
+        "word": "いくら",
+        "pron": "いくら",
+        "definition": "多少钱",
+        "prompt2": "この宝石はいくらですか？",
+        "phrase_explain": "这块宝石多少钱？",
+        "prompt3": "How much does this gem cost?"
+    },
+    {
+        "word": "百",
+        "pron": "ひゃく",
+        "definition": "百",
+        "prompt2": "100円は1百円です。",
+        "phrase_explain": "100日元是1百日元。",
+        "prompt3": "100 yen is 1 hundred yen."
+    },
+    {
+        "word": "千",
+        "pron": "せん",
+        "definition": "千",
+        "prompt2": "1千円は1000円です。",
+        "phrase_explain": "1000日元是1千日元。",
+        "prompt3": "1000 yen is 1 thousand yen."
+    },
+    {
+        "word": "万",
+        "pron": "まん",
+        "definition": "万",
+        "prompt2": "1万円は10000円です。",
+        "phrase_explain": "1万日元是10000日元。",
+        "prompt3": "10,000 yen is 10000 yen."
+    },
+    {
+        "word": "起きます",
+        "pron": "おきます",
+        "definition": "起床，起来",
+        "prompt2": "毎朝早く起きることができます。",
+        "phrase_explain": "我每天早上都能早起。",
+        "prompt3": "I can wake up early every morning."
+    },
+    {
+        "word": "寝ます",
+        "pron": "ねます",
+        "definition": "睡觉，就寝",
+        "prompt2": "疲れたら早く寝ましょう。",
+        "phrase_explain": "累了就早点睡。",
+        "prompt3": "If you're tired, go to bed early."
+    },
+    {
+        "word": "働きます",
+        "pron": "はたらきます",
+        "definition": "工作",
+        "prompt2": "彼は真面目に働いています。",
+        "phrase_explain": "他工作很认真。",
+        "prompt3": "He works very seriously."
+    },
+    {
+        "word": "休みます",
+        "pron": "やすみます",
+        "definition": "休息",
+        "prompt2": "明日は休みなのでゆっくり過ごしたいです。",
+        "phrase_explain": "明天是休息日，想要悠闲度过。",
+        "prompt3": "Tomorrow is a day off, I want to spend it leisurely."
+    },
+    {
+        "word": "勉強します",
+        "pron": "べんきょうします",
+        "definition": "念书，用功",
+        "prompt2": "毎日一生懸命勉強しています。",
+        "phrase_explain": "我每天都很努力地学习。",
+        "prompt3": "I study hard every day."
+    },
+    {
+        "word": "終わります",
+        "pron": "おわります",
+        "definition": "结束",
+        "prompt2": "仕事が終わったら、友達と遊びに行きます。",
+        "phrase_explain": "工作结束后，我会和朋友去玩。",
+        "prompt3": "After work, I will go out and have fun with friends."
+    },
+    {
+        "word": "デパート",
+        "pron": "デパート",
+        "definition": "百货公司",
+        "prompt2": "デパートでお買い物が楽しいです。",
+        "phrase_explain": "在百货商店购物很有趣。",
+        "prompt3": "Shopping at department stores is interesting."
+    },
+    {
+        "word": "銀行",
+        "pron": "ぎんこう",
+        "definition": "银行",
+        "prompt2": "お金を引き出しに銀行に行きます。",
+        "phrase_explain": "我要去银行取钱。",
+        "prompt3": "I want to go to the bank to withdraw money."
+    },
+    {
+        "word": "郵便局",
+        "pron": "ゆうびんきょく",
+        "definition": "邮局",
+        "prompt2": "手紙を送るために郵便局に行きます。",
+        "phrase_explain": "我要去邮局寄信。",
+        "prompt3": "I want to go to the post office to send a letter."
+    },
+    {
+        "word": "図書館",
+        "pron": "としょかん",
+        "definition": "图书馆",
+        "prompt2": "静かな図書館で本を読むのが好きです。",
+        "phrase_explain": "我喜欢在安静的图书馆读书。",
+        "prompt3": "I like reading books in a quiet library."
+    },
+    {
+        "word": "美術館",
+        "pron": "びじゅつかん",
+        "definition": "美术馆",
+        "prompt2": "美術館で素敵な絵を見ることができます。",
+        "phrase_explain": "我可以在美术馆看到美丽的画作。",
+        "prompt3": "I can see beautiful paintings in the art gallery."
+    },
+    {
+        "word": "今",
+        "pron": "いま",
+        "definition": "现在",
+        "prompt2": "今、友達とランチに行く予定です。",
+        "phrase_explain": "我计划和朋友一起去吃午餐。",
+        "prompt3": "I plan to have lunch with friends."
+    },
+    {
+        "word": "…時",
+        "pron": "…じ",
+        "definition": "…点（钟）",
+        "prompt2": "今は3時です。",
+        "phrase_explain": "现在是3点。",
+        "prompt3": "It's 3 o'clock now."
+    },
+    {
+        "word": "…分",
+        "pron": "…ふん（…ぷん）",
+        "definition": "…分（钟）",
+        "prompt2": "電車は10分後に出発します。",
+        "phrase_explain": "电车将在10分钟后出发。",
+        "prompt3": "The tram will depart in 10 minutes."
+    },
+    {
+        "word": "半",
+        "pron": "はん",
+        "definition": "半",
+        "prompt2": "12時半に会いましょう。",
+        "phrase_explain": "我们12点半见面吧。",
+        "prompt3": "Let's meet at 12:30."
+    },
+    {
+        "word": "何時",
+        "pron": "なんじ",
+        "definition": "几点",
+        "prompt2": "すみません、今何時ですか？",
+        "phrase_explain": "对不起，现在几点了？",
+        "prompt3": "Sorry, what time is it now?"
+    },
+    {
+        "word": "何分",
+        "pron": "なんぷん",
+        "definition": "几分",
+        "prompt2": "電車は何分後に来ますか？",
+        "phrase_explain": "火车还有几分钟到？",
+        "prompt3": "How many minutes until the train arrives?"
+    },
+    {
+        "word": "午前；早晨",
+        "pron": "ごぜん",
+        "definition": "上午",
+        "prompt2": "午前中は家で仕事をしています。",
+        "phrase_explain": "上午在家工作。",
+        "prompt3": "I work at home in the morning."
+    },
+    {
+        "word": "午後",
+        "pron": "ごご",
+        "definition": "下午",
+        "prompt2": "午後から友達と映画を見に行きます。",
+        "phrase_explain": "下午和朋友去看电影。",
+        "prompt3": "I'm going to the movies with friends in the afternoon."
+    },
+    {
+        "word": "朝",
+        "pron": "あさ",
+        "definition": "早上",
+        "prompt2": "朝は早起きして運動をしています。",
+        "phrase_explain": "早上起床并进行锻炼。",
+        "prompt3": "I wake up in the morning and exercise."
+    },
+    {
+        "word": "昼",
+        "pron": "ひる",
+        "definition": "白天，中午",
+        "prompt2": "昼ごはんはいつも外で食べます。",
+        "phrase_explain": "午餐通常在外面吃。",
+        "prompt3": "Lunch is usually eaten outside."
+    },
+    {
+        "word": "晩（夜）",
+        "pron": "ばん（よる）",
+        "definition": "晚上，夜晚",
+        "prompt2": "晩は家族と一緒に夕食を楽しみます。",
+        "phrase_explain": "晚上和家人一起享受晚餐。",
+        "prompt3": "I enjoy dinner with my family in the evening."
+    },
+    {
+        "word": "おととい",
+        "pron": "おととい",
+        "definition": "前天",
+        "prompt2": "おとといは友達と遊びに行きました。",
+        "phrase_explain": "前天和朋友一起出去玩。",
+        "prompt3": "I went out to play with friends the day before yesterday."
+    },
+    {
+        "word": "きのう",
+        "pron": "きのう",
+        "definition": "昨天",
+        "prompt2": "昨日は忙しくて疲れました。",
+        "phrase_explain": "昨天很忙，累了。",
+        "prompt3": "I was busy and tired yesterday."
+    },
+    {
+        "word": "きょう",
+        "pron": "きょう",
+        "definition": "今天",
+        "prompt2": "きょうは晴れていて気持ちがいいです。",
+        "phrase_explain": "今天晴天，感觉很好。",
+        "prompt3": "It's sunny today and I feel good."
+    },
+    {
+        "word": "あした",
+        "pron": "あした",
+        "definition": "明天",
+        "prompt2": "あしたは早く起きて勉強します。",
+        "phrase_explain": "明天早起学习。",
+        "prompt3": "I will wake up early to study tomorrow."
+    },
+    {
+        "word": "あさって",
+        "pron": "あさって",
+        "definition": "后天",
+        "prompt2": "あさっては友達と旅行に行きます。",
+        "phrase_explain": "后天和朋友一起旅行。",
+        "prompt3": "I will travel with friends the day after tomorrow."
+    },
+    {
+        "word": "けさ",
+        "pron": "けさ",
+        "definition": "今天早上",
+        "prompt2": "けさは朝ごはんを作りました。",
+        "phrase_explain": "早上做了早餐。",
+        "prompt3": "I made breakfast in the morning."
+    },
+    {
+        "word": "今晩",
+        "pron": "こんばん",
+        "definition": "今天晚上",
+        "prompt2": "今晩は友達と食事に行く予定です。",
+        "phrase_explain": "今晚计划和朋友一起出去吃饭。",
+        "prompt3": "I plan to go out for dinner with friends tonight."
+    },
+    {
+        "word": "休み",
+        "pron": "やすみ",
+        "definition": "休息，休假",
+        "prompt2": "週末はゆっくり休みたいです。",
+        "phrase_explain": "周末想要悠闲地休息。",
+        "prompt3": "I want to relax leisurely on the weekend."
+    },
+    {
+        "word": "昼休み",
+        "pron": "ひるやすみ",
+        "definition": "午休",
+        "prompt2": "昼休みに公園で散歩します。",
+        "phrase_explain": "午休在公园散步。",
+        "prompt3": "I take a walk in the park during the lunch break."
+    },
+    {
+        "word": "毎朝",
+        "pron": "まいあさ",
+        "definition": "每天早上",
+        "prompt2": "毎朝、ジョギングをしています。",
+        "phrase_explain": "每天早上慢跑。",
+        "prompt3": "I go jogging every morning."
+    },
+    {
+        "word": "毎晩",
+        "pron": "まいばん",
+        "definition": "每天晚上",
+        "prompt2": "毎晩、お風呂に入ってリラックスします。",
+        "phrase_explain": "每晚洗澡放松。",
+        "prompt3": "I take a bath to relax every night."
+    },
+    {
+        "word": "毎日",
+        "pron": "まいにち",
+        "definition": "每天",
+        "prompt2": "毎日、おいしいご飯を食べます。",
+        "phrase_explain": "每天吃美味的饭菜。",
+        "prompt3": "I eat delicious food every day."
+    },
+    {
+        "word": "月曜日",
+        "pron": "げつようび",
+        "definition": "星期一",
+        "prompt2": "月曜日は仕事が忙しいです。",
+        "phrase_explain": "星期一工作很忙。",
+        "prompt3": "I'm busy with work on Monday."
+    },
+    {
+        "word": "火曜日",
+        "pron": "かようび",
+        "definition": "星期二",
+        "prompt2": "火曜日は友達とカフェで会います。",
+        "phrase_explain": "星期二和朋友在咖啡店见面。",
+        "prompt3": "I meet friends at the coffee shop on Tuesday."
+    },
+    {
+        "word": "水曜日",
+        "pron": "すいようび",
+        "definition": "星期三",
+        "prompt2": "水曜日はスポーツクラブに行きます。",
+        "phrase_explain": "星期三去运动俱乐部。",
+        "prompt3": "I go to the sports club on Wednesday."
+    },
+    {
+        "word": "木曜日",
+        "pron": "もくようび",
+        "definition": "星期四",
+        "prompt2": "木曜日は美術館に行きます。",
+        "phrase_explain": "星期四去美术馆。",
+        "prompt3": "I go to the art gallery on Thursday."
+    },
+    {
+        "word": "金曜日",
+        "pron": "きんようび",
+        "definition": "星期五",
+        "prompt2": "金曜日は仕事が終わったら飲みに行きます。",
+        "phrase_explain": "星期五下班后去喝酒。",
+        "prompt3": "I go for a drink after work on Friday."
+    },
+    {
+        "word": "土曜日",
+        "pron": "どようび",
+        "definition": "星期六",
+        "prompt2": "土曜日は家族と遊びに行きます。",
+        "phrase_explain": "星期六和家人一起出去玩。",
+        "prompt3": "I go out with my family on Saturday."
+    },
+    {
+        "word": "日曜日",
+        "pron": "にちようび",
+        "definition": "星期天",
+        "prompt2": "日曜日はゆっくり寝て過ごします。",
+        "phrase_explain": "星期天悠闲地休息。",
+        "prompt3": "I rest leisurely on Sunday."
+    },
+    {
+        "word": "何曜日",
+        "pron": "なんようび",
+        "definition": "星期几",
+        "prompt2": "今日は何曜日ですか？",
+        "phrase_explain": "今天星期几？",
+        "prompt3": "What day of the week is it today?"
+    },
+    {
+        "word": "番号",
+        "pron": "ばんごう",
+        "definition": "号码",
+        "prompt2": "電話番号を教えてください。",
+        "phrase_explain": "请告诉我电话号码。",
+        "prompt3": "Please tell me the phone number."
+    },
+    {
+        "word": "何番",
+        "pron": "なんばん",
+        "definition": "几号",
+        "prompt2": "お兄さん、あなたの部屋は何番ですか？",
+        "phrase_explain": "哥哥，你的房间是几号？",
+        "prompt3": "Brother, what is your room number?"
+    },
+    {
+        "word": "～から",
+        "pron": "～から",
+        "definition": "从～",
+        "prompt2": "友達からプレゼントをもらいました。",
+        "phrase_explain": "我收到了朋友的礼物。",
+        "prompt3": "I received a gift from a friend."
+    },
+    {
+        "word": "～まで",
+        "pron": "～まで",
+        "definition": "到～",
+        "prompt2": "9時から5時まで仕事をしています。",
+        "phrase_explain": "我从早上9点到下午5点工作。",
+        "prompt3": "I work from 9 a.m. to 5 p.m."
+    },
+    {
+        "word": "～と～",
+        "pron": "～と～",
+        "definition": "和（用于连接名词）",
+        "prompt2": "友達と映画を見に行きました。",
+        "phrase_explain": "和朋友一起去看电影。",
+        "prompt3": "I'm going to the movies with a friend."
+    },
+    {
+        "word": "大変ですね。",
+        "pron": "たいへんですね。",
+        "definition": "够呛。/（表示同情和慰问对方的心情）",
+        "prompt2": "大変ですね、お手伝いしましょうか？",
+        "phrase_explain": "很辛苦呢，需要我帮忙吗？",
+        "prompt3": "It's tough, do you need any help?"
+    },
+    {
+        "word": "え―と",
+        "pron": "え―と",
+        "definition": "嗯，我看看",
+        "prompt2": "え―と、それはどういう意味ですか？",
+        "phrase_explain": "那个，那是什么意思？",
+        "prompt3": "Um, what does that mean?"
+    },
+    {
+        "word": "行きます",
+        "pron": "いきます",
+        "definition": "去",
+        "prompt2": "明日、友達の家に行きます。",
+        "phrase_explain": "明天去朋友家。",
+        "prompt3": "I'm going to my friend's house tomorrow."
+    },
+    {
+        "word": "来ます",
+        "pron": "きます",
+        "definition": "来",
+        "prompt2": "彼は今度の週末に遊びに来ます。",
+        "phrase_explain": "他会在下个周末过来玩。",
+        "prompt3": "He will come over to play next weekend."
+    },
+    {
+        "word": "帰ります",
+        "pron": "かえります",
+        "definition": "回家，回去",
+        "prompt2": "今から家に帰ります。",
+        "phrase_explain": "我现在回家。",
+        "prompt3": "I'm going home now."
+    },
+    {
+        "word": "学校",
+        "pron": "がっこう",
+        "definition": "学校",
+        "prompt2": "学校で友達と楽しく過ごしています。",
+        "phrase_explain": "在学校和朋友一起愉快度过。",
+        "prompt3": "I had a great time with friends at school."
+    },
+    {
+        "word": "スーパー",
+        "pron": "スーパー",
+        "definition": "超级市场",
+        "prompt2": "スーパーで食材を買いました。",
+        "phrase_explain": "在超市买了食材。",
+        "prompt3": "I bought ingredients at the supermarket."
+    },
+    {
+        "word": "駅",
+        "pron": "えき",
+        "definition": "车站;火车站",
+        "prompt2": "駅で友達と待ち合わせをしました。",
+        "phrase_explain": "在车站和朋友约好见面。",
+        "prompt3": "I made plans to meet with friends at the train station."
+    },
+    {
+        "word": "飛行機",
+        "pron": "ひこうき",
+        "definition": "飞机",
+        "prompt2": "飛行機で旅行に行きました。",
+        "phrase_explain": "我乘飞机去旅行了。",
+        "prompt3": "I traveled by plane."
+    },
+    {
+        "word": "船",
+        "pron": "ふね",
+        "definition": "船",
+        "prompt2": "船で海を渡りました。",
+        "phrase_explain": "我乘船渡过了海洋。",
+        "prompt3": "I crossed the ocean by ship."
+    },
+    {
+        "word": "電車",
+        "pron": "でんしゃ",
+        "definition": "电车",
+        "prompt2": "電車で毎日通学しています。",
+        "phrase_explain": "我每天乘电车上学。",
+        "prompt3": "I take the tram to school every day."
+    },
+    {
+        "word": "地下鉄",
+        "pron": "ちかてつ",
+        "definition": "地下铁",
+        "prompt2": "地下鉄で都市を移動します。",
+        "phrase_explain": "我乘地铁在城市间移动。",
+        "prompt3": "I travel between cities by subway."
+    },
+    {
+        "word": "新幹線",
+        "pron": "しんかんせん",
+        "definition": "新干线",
+        "prompt2": "新幹線で遠くへ旅行しました。",
+        "phrase_explain": "我乘新干线去远处旅行了。",
+        "prompt3": "I traveled to a distant place by Shinkansen."
+    },
+    {
+        "word": "バス",
+        "pron": "バス",
+        "definition": "公车，巴士",
+        "prompt2": "バスで町を観光しました。",
+        "phrase_explain": "我乘巴士游览了城市。",
+        "prompt3": "I explored the city by bus."
+    },
+    {
+        "word": "タクシー",
+        "pron": "タクシー",
+        "definition": "计程车",
+        "prompt2": "タクシーを使って空港に行きます。",
+        "phrase_explain": "我打车去机场。",
+        "prompt3": "I took a taxi to the airport."
+    },
+    {
+        "word": "自転車",
+        "pron": "じてんしゃ",
+        "definition": "自行车，脚踏车",
+        "prompt2": "自転車で公園に遊びに行きます。",
+        "phrase_explain": "我骑自行车去公园玩。",
+        "prompt3": "I rode a bicycle to the park to play."
+    },
+    {
+        "word": "歩いて",
+        "pron": "あるいて",
+        "definition": "步行",
+        "prompt2": "学校まで毎日歩いて通っています。",
+        "phrase_explain": "我每天步行去学校。",
+        "prompt3": "I walk to school every day."
+    },
+    {
+        "word": "人",
+        "pron": "ひと",
+        "definition": "人",
+        "prompt2": "人々はみんな忙しそうです。",
+        "phrase_explain": "人们看起来都很忙。",
+        "prompt3": "People seem to be busy."
+    },
+    {
+        "word": "友達",
+        "pron": "ともだち",
+        "definition": "朋友",
+        "prompt2": "友達と一緒に遊ぶのが楽しいです。",
+        "phrase_explain": "和朋友一起玩很开心。",
+        "prompt3": "It's fun to play with friends."
+    },
+    {
+        "word": "彼",
+        "pron": "かれ",
+        "definition": "他，男朋友，情人",
+        "prompt2": "彼はとても優しい人です。",
+        "phrase_explain": "他是一个非常温柔的人。",
+        "prompt3": "He is a very gentle person."
+    },
+    {
+        "word": "彼女",
+        "pron": "かのじょ",
+        "definition": "她，女朋友，情人",
+        "prompt2": "彼女は美しい花です。",
+        "phrase_explain": "她是一朵美丽的花。",
+        "prompt3": "She is a beautiful flower."
+    },
+    {
+        "word": "家族",
+        "pron": "かぞく",
+        "definition": "家人，家属",
+        "prompt2": "私は一人で家族がありません。",
+        "phrase_explain": "我一个人，没有家人。",
+        "prompt3": "I'm alone, without family."
+    },
+    {
+        "word": "一人で",
+        "pron": "ひとりで",
+        "definition": "一个人，独自",
+        "prompt2": "彼は一人で家族旅行に行きました。",
+        "phrase_explain": "他独自一人去了家庭旅行。",
+        "prompt3": "He went on a family trip alone."
+    },
+    {
+        "word": "先週",
+        "pron": "せんしゅう",
+        "definition": "上周，上星期",
+        "prompt2": "私は先週友達と映画を見に行きました。",
+        "phrase_explain": "上周我和朋友去看电影了。",
+        "prompt3": "Last week, I went to see a movie with friends."
+    },
+    {
+        "word": "今週",
+        "pron": "こんしゅう",
+        "definition": "本周，这星期",
+        "prompt2": "今週は忙しくてゆっくり休めません。",
+        "phrase_explain": "这周很忙，无法放松休息。",
+        "prompt3": "This week is busy, unable to relax."
+    },
+    {
+        "word": "来週",
+        "pron": "らいしゅう",
+        "definition": "下周，下星期",
+        "prompt2": "来週は友達の結婚式があります。",
+        "phrase_explain": "下周有朋友的婚礼。",
+        "prompt3": "There is a friend's wedding next week."
+    },
+    {
+        "word": "先月",
+        "pron": "せんげつ",
+        "definition": "上个月",
+        "prompt2": "先月は旅行に行って楽しかったです。",
+        "phrase_explain": "上个月去旅行很开心。",
+        "prompt3": "I was happy to travel last month."
+    },
+    {
+        "word": "今月",
+        "pron": "こんげつ",
+        "definition": "这个月",
+        "prompt2": "今月は新しい仕事を始めます。",
+        "phrase_explain": "这个月开始新工作。",
+        "prompt3": "I started a new job this month."
+    },
+    {
+        "word": "来月",
+        "pron": "らいげつ",
+        "definition": "下个月",
+        "prompt2": "来月は誕生日なのでパーティーをします。",
+        "phrase_explain": "下个月是我的生日，我会举办派对。",
+        "prompt3": "Next month is my birthday, I will have a party."
+    },
+    {
+        "word": "去年",
+        "pron": "きょねん",
+        "definition": "去年",
+        "prompt2": "去年の夏は海で泳いだり、バーベキューをしました。",
+        "phrase_explain": "去年夏天我去海边游泳和烧烤。",
+        "prompt3": "Last summer, I went swimming and had a barbecue at the beach."
+    },
+    {
+        "word": "ことし",
+        "pron": "ことし",
+        "definition": "今年",
+        "prompt2": "ことしはお祭りに行きたいです。",
+        "phrase_explain": "今年我想去参加庆祝活动。",
+        "prompt3": "This year, I want to participate in celebratory events."
+    },
+    {
+        "word": "来年",
+        "pron": "らいねん",
+        "definition": "明年",
+        "prompt2": "来年は海外旅行に行く予定です。",
+        "phrase_explain": "明年计划去海外旅行。",
+        "prompt3": "Next year, I plan to travel overseas."
+    },
+    {
+        "word": "何月",
+        "pron": "なんがつ",
+        "definition": "几月",
+        "prompt2": "今日は何月ですか？",
+        "phrase_explain": "今天是几月？",
+        "prompt3": "What month is it today?"
+    },
+    {
+        "word": "1日",
+        "pron": "ついたち",
+        "definition": "1日，1号",
+        "prompt2": "1日は友達の誕生日です。",
+        "phrase_explain": "1号是朋友的生日。",
+        "prompt3": "It's my friend's birthday on the 1st."
+    },
+    {
+        "word": "2日",
+        "pron": "ふつか",
+        "definition": "2日，2号",
+        "prompt2": "2日はお休みです。",
+        "phrase_explain": "2号是休息日。",
+        "prompt3": "The 2nd is a day off."
+    },
+    {
+        "word": "3日",
+        "pron": "みっか",
+        "definition": "3日，3号",
+        "prompt2": "3日は晴れの日でした。",
+        "phrase_explain": "3号是晴天。",
+        "prompt3": "It's sunny on the 3rd."
+    },
+    {
+        "word": "4日",
+        "pron": "よっか",
+        "definition": "4日，4号",
+        "prompt2": "4日は家族とピクニックに行きました。",
+        "phrase_explain": "4号我们和家人去野餐了。",
+        "prompt3": "We went on a picnic with family on the 4th."
+    },
+    {
+        "word": "5日",
+        "pron": "いつか",
+        "definition": "5日，5号",
+        "prompt2": "5日は友達と映画を見に行きました。",
+        "phrase_explain": "5号我们和朋友去看电影了。",
+        "prompt3": "We went to see a movie with friends on the 5th."
+    },
+    {
+        "word": "6日",
+        "pron": "むいか",
+        "definition": "6日，6号",
+        "prompt2": "6日はお店で買い物をしました。",
+        "phrase_explain": "6号我们在商店购物了。",
+        "prompt3": "We went shopping at the store on the 6th."
+    },
+    {
+        "word": "7日",
+        "pron": "なのか",
+        "definition": "7日，7号",
+        "prompt2": "7日はゆっくり過ごしました。",
+        "phrase_explain": "7号我们悠闲地度过了。",
+        "prompt3": "We had a leisurely day on the 7th."
+    },
+    {
+        "word": "8日",
+        "pron": "ようか",
+        "definition": "8日，8号",
+        "prompt2": "8日は友達とテニスをしました。",
+        "phrase_explain": "8号我们和朋友打了网球。",
+        "prompt3": "We played tennis with friends on the 8th."
+    },
+    {
+        "word": "9日",
+        "pron": "ここのか",
+        "definition": "9日，9号",
+        "prompt2": "9日は雨でしたので家で過ごしました。",
+        "phrase_explain": "9号因为下雨，我们在家里度过了。",
+        "prompt3": "We stayed at home on the 9th because of the rain."
+    },
+    {
+        "word": "10日",
+        "pron": "とおか",
+        "definition": "10日，10号",
+        "prompt2": "10日は忙しくて何もする時間がありませんでした。",
+        "phrase_explain": "10号因为忙碌，没有时间做任何事。",
+        "prompt3": "I didn't have time to do anything on the 10th."
+    },
+    {
+        "word": "14日",
+        "pron": "じゅうよっか",
+        "definition": "14日，14号",
+        "prompt2": "14日はデートに行きました。",
+        "phrase_explain": "14号我们去约会了。",
+        "prompt3": "We went on a date on the 14th."
+    },
+    {
+        "word": "20日",
+        "pron": "はつか",
+        "definition": "20日，20号",
+        "prompt2": "20日は友達とランチをしました。",
+        "phrase_explain": "20号我们和朋友一起吃了午餐。",
+        "prompt3": "We had lunch with friends on the 20th."
+    },
+    {
+        "word": "24日",
+        "pron": "にじゅうよっか",
+        "definition": "24日，24号",
+        "prompt2": "24日は友達とディナーをしました。",
+        "phrase_explain": "24号我们和朋友一起吃了晚餐。",
+        "prompt3": "We had dinner with friends on the 24th."
+    },
+    {
+        "word": "何日",
+        "pron": "なんにち",
+        "definition": "几日，几号",
+        "prompt2": "今日は何日ですか？",
+        "phrase_explain": "今天是几号？",
+        "prompt3": "What is the date today?"
+    },
+    {
+        "word": "いつ",
+        "pron": "いつ",
+        "definition": "什么时候",
+        "prompt2": "いつ彼に会えますか？",
+        "phrase_explain": "我什么时候能见到他？",
+        "prompt3": "When can I meet him?"
+    },
+    {
+        "word": "誕生日",
+        "pron": "たんじょうび",
+        "definition": "生日",
+        "prompt2": "私の誕生日は来週です。",
+        "phrase_explain": "我的生日是下个星期。",
+        "prompt3": "My birthday is next week."
+    },
+    {
+        "word": "普通",
+        "pron": "ふつう",
+        "definition": "普通车",
+        "prompt2": "普通の日は何も特別なことはありません。",
+        "phrase_explain": "平常的日子没有什么特别的事情。",
+        "prompt3": "There is nothing special happening on ordinary days."
+    },
+    {
+        "word": "急行",
+        "pron": "きゅうこう",
+        "definition": "快车",
+        "prompt2": "急行の電車に乗って旅行しました。",
+        "phrase_explain": "我乘坐快速列车去旅行了。",
+        "prompt3": "I traveled by express train."
+    },
+    {
+        "word": "次の",
+        "pron": "つぎの",
+        "definition": "下一个，下一次",
+        "prompt2": "次の日は雨が降りました。",
+        "phrase_explain": "第二天下雨了。",
+        "prompt3": "It rained the next day."
+    },
+    {
+        "word": "食べます",
+        "pron": "たべます",
+        "definition": "吃",
+        "prompt2": "私は毎日おいしいご飯を食べます。",
+        "phrase_explain": "我每天吃美味的饭菜。",
+        "prompt3": "I eat delicious meals every day."
+    },
+    {
+        "word": "飲みます",
+        "pron": "のみます",
+        "definition": "喝，饮，服用",
+        "prompt2": "私はコーヒーを飲みます。",
+        "phrase_explain": "我喝咖啡。",
+        "prompt3": "I drink coffee."
+    },
+    {
+        "word": "吸います",
+        "pron": "すいます",
+        "definition": "吸（烟）［たばこを～］",
+        "prompt2": "タバコを吸わないでください。",
+        "phrase_explain": "请不要吸烟。",
+        "prompt3": "Please do not smoke."
+    },
+    {
+        "word": "見ます",
+        "pron": "みます",
+        "definition": "看",
+        "prompt2": "昨日は映画を見ました。",
+        "phrase_explain": "昨天看了电影。",
+        "prompt3": "I watched a movie yesterday."
+    },
+    {
+        "word": "聞きます",
+        "pron": "ききます",
+        "definition": "听",
+        "prompt2": "音楽を聞くのが好きです。",
+        "phrase_explain": "我喜欢听音乐。",
+        "prompt3": "I like listening to music."
+    },
+    {
+        "word": "読みます",
+        "pron": "よみます",
+        "definition": "阅读",
+        "prompt2": "毎晩本を読みます。",
+        "phrase_explain": "我每晚读书。",
+        "prompt3": "I read books every night."
+    },
+    {
+        "word": "書きます",
+        "pron": "かきます",
+        "definition": "书写",
+        "prompt2": "手紙を書くのが苦手です。",
+        "phrase_explain": "我不擅长写信。",
+        "prompt3": "I am not good at writing letters."
+    },
+    {
+        "word": "買います",
+        "pron": "かいます",
+        "definition": "购买",
+        "prompt2": "新しい服を買いました。",
+        "phrase_explain": "我买了新衣服。",
+        "prompt3": "I bought new clothes."
+    },
+    {
+        "word": "撮ります",
+        "pron": "とります",
+        "definition": "拍（照），（摄影）［しゃしんを～］［写真を～］",
+        "prompt2": "旅行の写真を撮りました。",
+        "phrase_explain": "我拍了旅行的照片。",
+        "prompt3": "I took photos during the trip."
+    },
+    {
+        "word": "します",
+        "pron": "します",
+        "definition": "做",
+        "prompt2": "友達と遊ぶ予定です。",
+        "phrase_explain": "我计划和朋友一起玩。",
+        "prompt3": "I plan to hang out with friends."
+    },
+    {
+        "word": "会います",
+        "pron": "あいます",
+        "definition": "遇见，碰见（朋友）［ともだちに～］［友達に～］",
+        "prompt2": "彼に会う約束をしました。",
+        "phrase_explain": "我约定见他。",
+        "prompt3": "I have an appointment to meet him."
+    },
+    {
+        "word": "ごはん",
+        "pron": "ごはん",
+        "definition": "餐，米饭",
+        "prompt2": "ごはんは何が食べたいですか？",
+        "phrase_explain": "你想吃什么饭菜？",
+        "prompt3": "What kind of meal do you want to eat?"
+    },
+    {
+        "word": "朝ごはん",
+        "pron": "あさごはん",
+        "definition": "早餐",
+        "prompt2": "朝ごはんにはパンと卵が食べたいです。",
+        "phrase_explain": "早餐我想吃面包和鸡蛋。",
+        "prompt3": "I want to have bread and eggs for breakfast."
+    },
+    {
+        "word": "昼ごはん",
+        "pron": "ひるごはん",
+        "definition": "中餐",
+        "prompt2": "昼ごはんにはお弁当を食べました。",
+        "phrase_explain": "午餐我吃了便当。",
+        "prompt3": "I had a bento box for lunch."
+    },
+    {
+        "word": "晩ごはん",
+        "pron": "ばんごはん",
+        "definition": "晚餐",
+        "prompt2": "晩ごはんには肉と野菜を食べました。",
+        "phrase_explain": "晚餐我吃了肉和蔬菜。",
+        "prompt3": "I had meat and vegetables for dinner."
+    },
+    {
+        "word": "パン",
+        "pron": "パン",
+        "definition": "面包",
+        "prompt2": "朝食にはパンがおすすめです。",
+        "phrase_explain": "早餐推荐吃面包。",
+        "prompt3": "Bread is recommended for breakfast."
+    },
+    {
+        "word": "卵",
+        "pron": "たまご",
+        "definition": "鸡蛋",
+        "prompt2": "卵は栄養が豊富です。",
+        "phrase_explain": "鸡蛋富含营养。",
+        "prompt3": "Eggs are nutritious."
+    },
+    {
+        "word": "肉",
+        "pron": "にく",
+        "definition": "肉",
+        "prompt2": "ステーキが好きなので肉を食べます。",
+        "phrase_explain": "我喜欢牛排所以吃肉。",
+        "prompt3": "I like steak, so I eat meat."
+    },
+    {
+        "word": "魚",
+        "pron": "さかな",
+        "definition": "鱼",
+        "prompt2": "魚は健康に良いです。",
+        "phrase_explain": "鱼对健康有益。",
+        "prompt3": "Fish is beneficial for health."
+    },
+    {
+        "word": "野菜",
+        "pron": "やさい",
+        "definition": "蔬菜",
+        "prompt2": "野菜をたくさん食べるようにしています。",
+        "phrase_explain": "我尽量多吃蔬菜。",
+        "prompt3": "I try to eat more vegetables."
+    },
+    {
+        "word": "果物",
+        "pron": "くだもの",
+        "definition": "水果",
+        "prompt2": "果物は甘くて美味しいです。",
+        "phrase_explain": "水果又甜又好吃。",
+        "prompt3": "Fruits are sweet and tasty."
+    },
+    {
+        "word": "水",
+        "pron": "みず",
+        "definition": "水",
+        "prompt2": "水を飲むのは大切です。",
+        "phrase_explain": "喝水很重要。",
+        "prompt3": "Drinking water is important."
+    },
+    {
+        "word": "お茶",
+        "pron": "おちゃ",
+        "definition": "茶",
+        "prompt2": "日本ではお茶が日常的に飲まれます。",
+        "phrase_explain": "在日本，茶是日常饮品。",
+        "prompt3": "In Japan, tea is a daily beverage."
+    },
+    {
+        "word": "紅茶",
+        "pron": "こうちゃ",
+        "definition": "红茶",
+        "prompt2": "紅茶にはカフェインが含まれています。",
+        "phrase_explain": "红茶含有咖啡因。",
+        "prompt3": "Black tea contains caffeine."
+    },
+    {
+        "word": "牛乳",
+        "pron": "ぎゅうにゅう",
+        "definition": "牛奶（ミルク）",
+        "prompt2": "牛乳は骨を強くします。",
+        "phrase_explain": "牛奶有助于骨骼健康。",
+        "prompt3": "Milk helps maintain healthy bones."
+    },
+    {
+        "word": "ジュース",
+        "pron": "ジュース",
+        "definition": "果汁",
+        "prompt2": "ジュースは甘くておいしいです。",
+        "phrase_explain": "果汁又甜又好喝。",
+        "prompt3": "Fruit juice is sweet and tasty."
+    },
+    {
+        "word": "ビール",
+        "pron": "ビール",
+        "definition": "啤酒",
+        "prompt2": "ビールは飲み過ぎに注意が必要です。",
+        "phrase_explain": "啤酒需要注意不要喝太多。",
+        "prompt3": "Beer should be consumed in moderation."
+    },
+    {
+        "word": "［お］酒",
+        "pron": "［お］さけ",
+        "definition": "酒类，日本酒",
+        "prompt2": "お酒は適量で楽しむべきです。",
+        "phrase_explain": "应该适量享受饮酒。",
+        "prompt3": "Alcohol should be enjoyed in moderation."
+    },
+    {
+        "word": "ビデオ",
+        "pron": "ビデオ",
+        "definition": "录影带，录影机",
+        "prompt2": "映画をビデオで借りました。",
+        "phrase_explain": "我租了录像带的电影。",
+        "prompt3": "I rented a movie on video tape."
+    },
+    {
+        "word": "映画",
+        "pron": "えいが",
+        "definition": "电影",
+        "prompt2": "最新の映画を見に行きたいです。",
+        "phrase_explain": "我想去看最新的电影。",
+        "prompt3": "I want to go see the latest movie."
+    },
+    {
+        "word": "CD",
+        "pron": "CD",
+        "definition": "CD，雷射唱盘",
+        "prompt2": "CDを聞くのが好きです。",
+        "phrase_explain": "我喜欢听CD。",
+        "prompt3": "I like listening to CDs."
+    },
+    {
+        "word": "手紙",
+        "pron": "てがみ",
+        "definition": "信",
+        "prompt2": "手紙を書くのは楽しいです。",
+        "phrase_explain": "写信很有趣。",
+        "prompt3": "Writing letters is interesting."
+    },
+    {
+        "word": "レポート",
+        "pron": "レポート",
+        "definition": "报告",
+        "prompt2": "レポートの提出期限が迫っています。",
+        "phrase_explain": "报告的截止日期逼近。",
+        "prompt3": "The deadline for the report is approaching."
+    },
+    {
+        "word": "写真",
+        "pron": "しゃしん",
+        "definition": "相片",
+        "prompt2": "写真を撮るのが好きです。",
+        "phrase_explain": "我喜欢拍照。",
+        "prompt3": "I enjoy taking photos."
+    },
+    {
+        "word": "店",
+        "pron": "みせ",
+        "definition": "商店",
+        "prompt2": "お店でお買い物をしました。",
+        "phrase_explain": "我在商店购物了。",
+        "prompt3": "I went shopping at the store."
+    },
+    {
+        "word": "レストラン",
+        "pron": "レストラン",
+        "definition": "餐厅",
+        "prompt2": "友達とレストランで食事をしました。",
+        "phrase_explain": "我和朋友在餐厅吃饭了。",
+        "prompt3": "I had dinner with my friends at a restaurant."
+    },
+    {
+        "word": "庭",
+        "pron": "にわ",
+        "definition": "院子",
+        "prompt2": "庭でバーベキューをしました。",
+        "phrase_explain": "我在花园里烧烤了。",
+        "prompt3": "I had a barbecue in the garden."
+    },
+    {
+        "word": "宿題",
+        "pron": "しゅくだい",
+        "definition": "作业（～をします：做作业）",
+        "prompt2": "宿題を忘れないようにしましょう。",
+        "phrase_explain": "别忘了作业。",
+        "prompt3": "Don't forget about the homework."
+    },
+    {
+        "word": "テニス",
+        "pron": "テニス",
+        "definition": "网球（～をします：打网球）",
+        "prompt2": "週末にテニスをする予定です。",
+        "phrase_explain": "我打算在周末打网球。",
+        "prompt3": "I plan to play tennis on the weekend."
+    },
+    {
+        "word": "サッカー",
+        "pron": "サッカー",
+        "definition": "足球（～をします：踢足球）",
+        "prompt2": "サッカーの試合を見に行きました。",
+        "phrase_explain": "我去看了足球比赛。",
+        "prompt3": "I went to watch a football match."
+    },
+    {
+        "word": "［お］花見",
+        "pron": "［お］はなみ",
+        "definition": "赏花（～をします：去赏花）",
+        "prompt2": "お花見の季節になりました。",
+        "phrase_explain": "进入赏花的季节了。",
+        "prompt3": "It's the season for flower viewing."
+    },
+    {
+        "word": "いっしょに",
+        "pron": "いっしょに",
+        "definition": "一起",
+        "prompt2": "一緒に遊びましょう。",
+        "phrase_explain": "我们一起玩吧。",
+        "prompt3": "Let's play together."
+    },
+    {
+        "word": "ちょっと",
+        "pron": "ちょっと",
+        "definition": "一下子，稍",
+        "prompt2": "ちょっと待ってください。",
+        "phrase_explain": "请稍等。",
+        "prompt3": "Please wait a moment."
+    },
+    {
+        "word": "いつも",
+        "pron": "いつも",
+        "definition": "总是",
+        "prompt2": "いつもありがとう。",
+        "phrase_explain": "谢谢你一直以来的帮助。",
+        "prompt3": "Thank you for your continuous help."
+    },
+    {
+        "word": "時々",
+        "pron": "ときどき",
+        "definition": "时常，有时",
+        "prompt2": "時々旅行に行きます。",
+        "phrase_explain": "有时候我会去旅行。",
+        "prompt3": "Sometimes I go traveling."
+    },
+    {
+        "word": "それから",
+        "pron": "それから",
+        "definition": "然后",
+        "prompt2": "それから、どうしましたか？",
+        "phrase_explain": "然后，你怎么样了？",
+        "prompt3": "And then, how about you?"
+    },
+    {
+        "word": "ええ",
+        "pron": "ええ",
+        "definition": "是，嗯（表赞同）",
+        "prompt2": "ええ、それはいいですね。",
+        "phrase_explain": "嗯，那很不错。",
+        "prompt3": "Well, that's great."
+    },
+    {
+        "word": "いいですね。",
+        "pron": "いいですね。",
+        "definition": "好呀。",
+        "prompt2": "いいですね。それをするのは素晴らしいアイデアです。",
+        "phrase_explain": "很好。这是一个很棒的主意。",
+        "prompt3": "Very good. That's a great idea."
+    },
+    {
+        "word": "わかりました。",
+        "pron": "わかりました。",
+        "definition": "我明白了。/我知道了。",
+        "prompt2": "わかりました。ご協力ありがとうございます。",
+        "phrase_explain": "知道了。非常感谢您的合作。",
+        "prompt3": "Got it. Thank you very much for your cooperation."
+    },
+    {
+        "word": "切ります",
+        "pron": "きります",
+        "definition": "剪，切",
+        "prompt2": "切りますか？",
+        "phrase_explain": "需要切吗？",
+        "prompt3": "Do you need it to be sliced?"
+    },
+    {
+        "word": "送ります",
+        "pron": "おくります",
+        "definition": "寄送",
+        "prompt2": "手紙を送ります。",
+        "phrase_explain": "我会寄信。",
+        "prompt3": "I will send a letter."
+    },
+    {
+        "word": "あげます",
+        "pron": "あげます",
+        "definition": "给，送",
+        "prompt2": "プレゼントをあげます。",
+        "phrase_explain": "我会送礼物。",
+        "prompt3": "I will give a gift."
+    },
+    {
+        "word": "もらいます",
+        "pron": "もらいます",
+        "definition": "接受，得到",
+        "prompt2": "お土産をもらいました。",
+        "phrase_explain": "我收到了礼物。",
+        "prompt3": "I received a gift."
+    },
+    {
+        "word": "貸します",
+        "pron": "かします",
+        "definition": "借（出）",
+        "prompt2": "友達に本を貸しました。",
+        "phrase_explain": "我借书给朋友。",
+        "prompt3": "I lent a book to my friend."
+    },
+    {
+        "word": "借ります",
+        "pron": "かります",
+        "definition": "借（入）",
+        "prompt2": "図書館から本を借ります。",
+        "phrase_explain": "我从图书馆借书。",
+        "prompt3": "I borrowed a book from the library."
+    },
+    {
+        "word": "教えます",
+        "pron": "おしえます",
+        "definition": "教",
+        "prompt2": "新しい言葉を教えてください。",
+        "phrase_explain": "请告诉我一个新词。",
+        "prompt3": "Please tell me a new word."
+    },
+    {
+        "word": "習います",
+        "pron": "ならいます",
+        "definition": "学习",
+        "prompt2": "私は新しい言語を習います。",
+        "phrase_explain": "我正在学习一门新语言。",
+        "prompt3": "I am learning a new language."
+    },
+    {
+        "word": "かけます",
+        "pron": "かけます",
+        "definition": "打（电话）［でんわを～］［电話を～］",
+        "prompt2": "彼は電話で友達にかけます。",
+        "phrase_explain": "他给朋友打电话。",
+        "prompt3": "He called his friend."
+    },
+    {
+        "word": "手",
+        "pron": "て",
+        "definition": "手",
+        "prompt2": "彼は手で絵を描きます。",
+        "phrase_explain": "他用手画画。",
+        "prompt3": "He drew with his hand."
+    },
+    {
+        "word": "はし",
+        "pron": "はし",
+        "definition": "筷子",
+        "prompt2": "私ははしで寿司を食べます。",
+        "phrase_explain": "我用筷子吃寿司。",
+        "prompt3": "I eat sushi with chopsticks."
+    },
+    {
+        "word": "スプーン",
+        "pron": "スプーン",
+        "definition": "汤匙",
+        "prompt2": "彼女はスプーンでスープを飲みます。",
+        "phrase_explain": "她用勺子喝汤。",
+        "prompt3": "She drinks soup with a spoon."
+    },
+    {
+        "word": "ナイフ",
+        "pron": "ナイフ",
+        "definition": "小刀",
+        "prompt2": "彼はナイフで肉を切ります。",
+        "phrase_explain": "他用刀切肉。",
+        "prompt3": "He cuts the meat with a knife."
+    },
+    {
+        "word": "フォーク",
+        "pron": "フォーク",
+        "definition": "叉子",
+        "prompt2": "彼女はフォークでサラダを食べます。",
+        "phrase_explain": "她用叉子吃沙拉。",
+        "prompt3": "She eats salad with a fork."
+    },
+    {
+        "word": "はさみ",
+        "pron": "はさみ",
+        "definition": "剪刀",
+        "prompt2": "子供ははさみで紙を切ります。",
+        "phrase_explain": "孩子们用剪刀剪纸。",
+        "prompt3": "The children cut paper with scissors."
+    },
+    {
+        "word": "ファクス",
+        "pron": "ファクス",
+        "definition": "传真",
+        "prompt2": "会社でファクスを送ります。",
+        "phrase_explain": "我会在公司传真。",
+        "prompt3": "I will fax it at the company."
+    },
+    {
+        "word": "ワープロ",
+        "pron": "ワープロ",
+        "definition": "文字处理机",
+        "prompt2": "彼はワープロでレポートを書きます。",
+        "phrase_explain": "他用打字机写报告。",
+        "prompt3": "He writes reports with a typewriter."
+    },
+    {
+        "word": "パソコン",
+        "pron": "パソコン",
+        "definition": "个人电脑",
+        "prompt2": "私はパソコンでメールを送ります。",
+        "phrase_explain": "我会用电脑发邮件。",
+        "prompt3": "I will send emails with a computer."
+    },
+    {
+        "word": "パンチ",
+        "pron": "パンチ",
+        "definition": "打孔机",
+        "prompt2": "彼はパンチで穴を開けます。",
+        "phrase_explain": "他用打孔机打孔。",
+        "prompt3": "He punches holes with a hole puncher."
+    },
+    {
+        "word": "ホッチキス",
+        "pron": "ホッチキス",
+        "definition": "订书机",
+        "prompt2": "彼女はホッチキスで書類をとじます。",
+        "phrase_explain": "她用订书机装订文件。",
+        "prompt3": "She binds documents with a stapler."
+    },
+    {
+        "word": "セロテープ",
+        "pron": "セロテープ",
+        "definition": "透明胶带",
+        "prompt2": "私はセロテープでプレゼントを包みます。",
+        "phrase_explain": "我会用胶带包装礼物。",
+        "prompt3": "I will wrap the gift with tape."
+    },
+    {
+        "word": "消しゴム",
+        "pron": "けしゴム",
+        "definition": "橡皮擦",
+        "prompt2": "彼は消しゴムで間違いを消します。",
+        "phrase_explain": "他用橡皮擦错误。",
+        "prompt3": "He erases the mistake with an eraser."
+    },
+    {
+        "word": "紙",
+        "pron": "かみ",
+        "definition": "纸",
+        "prompt2": "彼女は紙に手紙を書きます。",
+        "phrase_explain": "她在纸上写信。",
+        "prompt3": "She writes a letter on the paper."
+    },
+    {
+        "word": "花",
+        "pron": "はな",
+        "definition": "花",
+        "prompt2": "彼は花を庭に植えます。",
+        "phrase_explain": "他在花园里种花。",
+        "prompt3": "He plants flowers in the garden."
+    },
+    {
+        "word": "シャツ",
+        "pron": "シャツ",
+        "definition": "衬衫",
+        "prompt2": "私は新しいシャツを買います。",
+        "phrase_explain": "我会买件新衬衫。",
+        "prompt3": "I will buy a new shirt."
+    },
+    {
+        "word": "プレゼント",
+        "pron": "プレゼント",
+        "definition": "礼物",
+        "prompt2": "彼女は友達にプレゼントをあげます。",
+        "phrase_explain": "她会给朋友送礼物。",
+        "prompt3": "She will give a gift to her friend."
+    },
+    {
+        "word": "荷物",
+        "pron": "にもつ",
+        "definition": "行李",
+        "prompt2": "彼は荷物を持って空港に行きます。",
+        "phrase_explain": "他带着行李去机场。",
+        "prompt3": "He goes to the airport with luggage."
+    },
+    {
+        "word": "お金",
+        "pron": "おかね",
+        "definition": "钱",
+        "prompt2": "私はお金を貯めます。",
+        "phrase_explain": "我会存钱。",
+        "prompt3": "I will save money."
+    },
+    {
+        "word": "切符",
+        "pron": "きっぷ",
+        "definition": "票",
+        "prompt2": "彼は切符を買って列車に乗ります。",
+        "phrase_explain": "他买票坐火车。",
+        "prompt3": "He buys a ticket and takes the train."
+    },
+    {
+        "word": "クリスマス",
+        "pron": "クリスマス",
+        "definition": "圣诞节",
+        "prompt2": "家族と一緒にクリスマスを祝います。",
+        "phrase_explain": "与家人一起庆祝圣诞节。",
+        "prompt3": "Celebrate Christmas with family."
+    },
+    {
+        "word": "父",
+        "pron": "ちち",
+        "definition": "家父",
+        "prompt2": "私の父は頑張って働きます。",
+        "phrase_explain": "我的父亲努力工作。",
+        "prompt3": "My father works hard."
+    },
+    {
+        "word": "母",
+        "pron": "はは",
+        "definition": "家母",
+        "prompt2": "私の母は料理が上手です。",
+        "phrase_explain": "我的母亲擅长烹饪。",
+        "prompt3": "My mother is good at cooking."
+    },
+    {
+        "word": "お父さん",
+        "pron": "おとうさん",
+        "definition": "（他人的）父亲",
+        "prompt2": "お父さんは毎日新聞を読みます。",
+        "phrase_explain": "爸爸每天都看报。",
+        "prompt3": "Dad reads the newspaper every day."
+    },
+    {
+        "word": "お母さん",
+        "pron": "おかあさん",
+        "definition": "（他人的）母亲",
+        "prompt2": "お母さんは庭で花を育てます。",
+        "phrase_explain": "妈妈在花园里种花。",
+        "prompt3": "Mom plants flowers in the garden."
+    },
+    {
+        "word": "もう",
+        "pron": "もう",
+        "definition": "已经",
+        "prompt2": "もう寝る時間です。",
+        "phrase_explain": "已经是睡觉的时间了。",
+        "prompt3": "It's time to sleep."
+    },
+    {
+        "word": "まだ",
+        "pron": "まだ",
+        "definition": "尚未，还没有",
+        "prompt2": "まだ食べ終わっていません。",
+        "phrase_explain": "还没有吃完。",
+        "prompt3": "I haven't finished eating yet."
+    },
+    {
+        "word": "これから",
+        "pron": "これから",
+        "definition": "从现在起，这就",
+        "prompt2": "これから友達と映画に行きます。",
+        "phrase_explain": "接下来要和朋友去看电影。",
+        "prompt3": "Next, I will go to the movies with friends."
+    },
+    {
+        "word": "「～、」すてきですね。",
+        "pron": "「～、」すてきですね。",
+        "definition": "〔～〕，好棒哟！",
+        "prompt2": "彼の新しい車、すてきですね。",
+        "phrase_explain": "他的新车真棒。",
+        "prompt3": "His new car is awesome."
+    },
+    {
+        "word": "ハンサム［な］",
+        "pron": "ハンサム［な］",
+        "definition": "英俊〔的〕",
+        "prompt2": "彼はとてもハンサムです。",
+        "phrase_explain": "他很帅。",
+        "prompt3": "He is handsome."
+    },
+    {
+        "word": "きれい［な］",
+        "pron": "きれい［な］",
+        "definition": "美丽（的），干净（的）",
+        "prompt2": "彼女はきれいなドレスを着ています。",
+        "phrase_explain": "她穿着漂亮的裙子。",
+        "prompt3": "She is wearing a beautiful dress."
+    },
+    {
+        "word": "静か［な］",
+        "pron": "しずか［な］",
+        "definition": "安静（的）",
+        "prompt2": "この部屋は静かです。",
+        "phrase_explain": "这个房间很安静。",
+        "prompt3": "This room is quiet."
+    },
+    {
+        "word": "にぎやか［な］",
+        "pron": "にぎやか［な］",
+        "definition": "热闹的",
+        "prompt2": "街はにぎやかです。",
+        "phrase_explain": "街道很热闹。",
+        "prompt3": "The street is lively."
+    },
+    {
+        "word": "有名［な］",
+        "pron": "ゆうめい［な］",
+        "definition": "有名〔的〕",
+        "prompt2": "このレストランは有名です。",
+        "phrase_explain": "这个餐厅很有名。",
+        "prompt3": "This restaurant is famous."
+    },
+    {
+        "word": "親切［な］",
+        "pron": "しんせつ［な］",
+        "definition": "亲切（的）",
+        "prompt2": "彼はとても親切です。",
+        "phrase_explain": "他很友善。",
+        "prompt3": "He is friendly."
+    },
+    {
+        "word": "元気［な］",
+        "pron": "げんき［な］",
+        "definition": "身体好（的）",
+        "prompt2": "彼はいつも元気です。",
+        "phrase_explain": "他总是很精神。",
+        "prompt3": "He is always energetic."
+    },
+    {
+        "word": "暇［な］",
+        "pron": "ひま［な］",
+        "definition": "空闲（的）",
+        "prompt2": "彼は暇な時に本を読みます。",
+        "phrase_explain": "他闲暇时会读书。",
+        "prompt3": "He reads books in his free time."
+    },
+    {
+        "word": "便利［な］",
+        "pron": "べんり［な］",
+        "definition": "方便〔的〕",
+        "prompt2": "このアプリはとても便利です。",
+        "phrase_explain": "这个应用很方便。",
+        "prompt3": "This app is convenient."
+    },
+    {
+        "word": "すてき［な］",
+        "pron": "すてき［な］",
+        "definition": "很好〔的〕，很棒〔的〕",
+        "prompt2": "彼女のドレス、すてきですね。",
+        "phrase_explain": "她的裙子真漂亮。",
+        "prompt3": "Her dress is really beautiful."
+    },
+    {
+        "word": "大きい",
+        "pron": "おおきい",
+        "definition": "大",
+        "prompt2": "この部屋は大きいです。",
+        "phrase_explain": "这个房间很大。",
+        "prompt3": "This room is big."
+    },
+    {
+        "word": "小さい",
+        "pron": "ちいさい",
+        "definition": "小",
+        "prompt2": "彼の犬は小さいです。",
+        "phrase_explain": "他的狗很小。",
+        "prompt3": "His dog is small."
+    },
+    {
+        "word": "新しい",
+        "pron": "あたらしい",
+        "definition": "新",
+        "prompt2": "私は新しい靴を買いました。",
+        "phrase_explain": "我买了新鞋。",
+        "prompt3": "I bought new shoes."
+    },
+    {
+        "word": "古い",
+        "pron": "ふるい",
+        "definition": "旧",
+        "prompt2": "この車は古いです。",
+        "phrase_explain": "这辆车很旧。",
+        "prompt3": "This car is old."
+    },
+    {
+        "word": "いい（よい）",
+        "pron": "いい（よい）",
+        "definition": "好",
+        "prompt2": "彼はいい人です。",
+        "phrase_explain": "他是个好人。",
+        "prompt3": "He is a good person."
+    },
+    {
+        "word": "悪い",
+        "pron": "わるい",
+        "definition": "坏",
+        "prompt2": "天気が悪いです。",
+        "phrase_explain": "天气不好。",
+        "prompt3": "The weather is bad."
+    },
+    {
+        "word": "暑い、熱い",
+        "pron": "あつい",
+        "definition": "热",
+        "prompt2": "夏は暑いです。",
+        "phrase_explain": "夏天很热。",
+        "prompt3": "Summer is hot."
+    },
+    {
+        "word": "寒い",
+        "pron": "さむい",
+        "definition": "寒冷",
+        "prompt2": "冬は寒いです。",
+        "phrase_explain": "冬天很冷。",
+        "prompt3": "Winter is cold."
+    },
+    {
+        "word": "冷たい",
+        "pron": "つめたい",
+        "definition": "凉",
+        "prompt2": "冷たい水を飲みます。",
+        "phrase_explain": "喝冷水。",
+        "prompt3": "Drink cold water."
+    },
+    {
+        "word": "難しい",
+        "pron": "むずかしい",
+        "definition": "难",
+        "prompt2": "この問題は難しいです。",
+        "phrase_explain": "这个问题很难。",
+        "prompt3": "This question is difficult."
+    },
+    {
+        "word": "易しい",
+        "pron": "やさしい",
+        "definition": "简单",
+        "prompt2": "簡単な問題は易しいです。",
+        "phrase_explain": "简单的问题很容易。",
+        "prompt3": "Simple questions are easy."
+    },
+    {
+        "word": "高い",
+        "pron": "たかい",
+        "definition": "高，贵",
+        "prompt2": "このビルは高いです。",
+        "phrase_explain": "这座建筑很高。",
+        "prompt3": "This building is tall."
+    },
+    {
+        "word": "安い",
+        "pron": "やすい",
+        "definition": "便宜",
+        "prompt2": "このシャツは安いです。",
+        "phrase_explain": "这件衬衫很便宜。",
+        "prompt3": "This shirt is cheap."
+    },
+    {
+        "word": "低い",
+        "pron": "ひくい",
+        "definition": "低，矮",
+        "prompt2": "テーブルは低いです。",
+        "phrase_explain": "桌子很低。",
+        "prompt3": "The table is low."
+    },
+    {
+        "word": "おもしろい",
+        "pron": "おもしろい",
+        "definition": "有趣，有意思",
+        "prompt2": "その映画はおもしろいです。",
+        "phrase_explain": "那部电影很有趣。",
+        "prompt3": "That movie is interesting."
+    },
+    {
+        "word": "おいしい",
+        "pron": "おいしい",
+        "definition": "美味，好吃",
+        "prompt2": "この料理はおいしいです。",
+        "phrase_explain": "这道菜很美味。",
+        "prompt3": "This dish is delicious."
+    },
+    {
+        "word": "忙しい",
+        "pron": "いそがしい",
+        "definition": "忙碌",
+        "prompt2": "彼は忙しいです。",
+        "phrase_explain": "他很忙。",
+        "prompt3": "He is busy."
+    },
+    {
+        "word": "楽しい",
+        "pron": "たのしい",
+        "definition": "愉快，高兴",
+        "prompt2": "パーティーは楽しかったです。",
+        "phrase_explain": "派对很有趣。",
+        "prompt3": "The party is fun."
+    },
+    {
+        "word": "白い",
+        "pron": "しろい",
+        "definition": "白色的",
+        "prompt2": "雪は白いです。",
+        "phrase_explain": "雪是白色的。",
+        "prompt3": "Snow is white."
+    },
+    {
+        "word": "黒い",
+        "pron": "くろい",
+        "definition": "黑色的",
+        "prompt2": "彼の髪は黒いです。",
+        "phrase_explain": "他的头发是黑色的。",
+        "prompt3": "His hair is black."
+    },
+    {
+        "word": "赤い",
+        "pron": "あかい",
+        "definition": "红色的",
+        "prompt2": "彼女は赤いドレスを着ています。",
+        "phrase_explain": "她穿着红色的裙子。",
+        "prompt3": "She is wearing a red dress."
+    },
+    {
+        "word": "青い",
+        "pron": "あおい",
+        "definition": "蓝色的",
+        "prompt2": "空は青いです。",
+        "phrase_explain": "天空是蓝色的。",
+        "prompt3": "The sky is blue."
+    },
+    {
+        "word": "桜",
+        "pron": "さくら",
+        "definition": "櫻花",
+        "prompt2": "春に桜が咲きます。",
+        "phrase_explain": "春天樱花开放。",
+        "prompt3": "Cherry blossoms bloom in spring."
+    },
+    {
+        "word": "山",
+        "pron": "やま",
+        "definition": "山",
+        "prompt2": "彼は山に登ります。",
+        "phrase_explain": "他爬山。",
+        "prompt3": "He climbs mountains."
+    },
+    {
+        "word": "町",
+        "pron": "まち",
+        "definition": "城市，城镇",
+        "prompt2": "私は町で友達と会います。",
+        "phrase_explain": "我在城里和朋友会面。",
+        "prompt3": "I meet friends in the city."
+    },
+    {
+        "word": "食べ物",
+        "pron": "たべもの",
+        "definition": "食物",
+        "prompt2": "彼はおいしい食べ物を作ります。",
+        "phrase_explain": "他做出美味的食物。",
+        "prompt3": "He makes delicious food."
+    },
+    {
+        "word": "車",
+        "pron": "くるま",
+        "definition": "汽车",
+        "prompt2": "彼は新しい車を買います。",
+        "phrase_explain": "他买了一辆新车。",
+        "prompt3": "He bought a new car."
+    },
+    {
+        "word": "所",
+        "pron": "ところ",
+        "definition": "场所，地方",
+        "prompt2": "私は図書館で本を借ります。",
+        "phrase_explain": "我在图书馆借书。",
+        "prompt3": "I borrow books from the library."
+    },
+    {
+        "word": "寮",
+        "pron": "りょう",
+        "definition": "宿舍",
+        "prompt2": "大学生は寮に住みます。",
+        "phrase_explain": "大学生住在宿舍里。",
+        "prompt3": "College students live in dormitories."
+    },
+    {
+        "word": "勉強",
+        "pron": "べんきょう",
+        "definition": "学习，用功",
+        "prompt2": "私は毎日勉強します。",
+        "phrase_explain": "我每天学习。",
+        "prompt3": "I study every day."
+    },
+    {
+        "word": "生活",
+        "pron": "せいかつ",
+        "definition": "生活",
+        "prompt2": "彼は健康的な生活を送ります。",
+        "phrase_explain": "他过着健康的生活。",
+        "prompt3": "He leads a healthy life."
+    },
+    {
+        "word": "［お］仕事",
+        "pron": "［お］しごと",
+        "definition": "工作，职业（～をします：工作）",
+        "prompt2": "彼は忙しい仕事をしています。",
+        "phrase_explain": "他在忙碌的工作。",
+        "prompt3": "He is busy with work."
+    },
+    {
+        "word": "どう",
+        "pron": "どう",
+        "definition": "怎样",
+        "prompt2": "彼女は元気ですか。",
+        "phrase_explain": "她好吗？",
+        "prompt3": "How is she?"
+    },
+    {
+        "word": "どんな～",
+        "pron": "どんな～",
+        "definition": "什么样的～",
+        "prompt2": "どんな映画が好きですか。",
+        "phrase_explain": "你喜欢什么样的电影？",
+        "prompt3": "What kind of movies do you like?"
+    },
+    {
+        "word": "どれ",
+        "pron": "どれ",
+        "definition": "哪个",
+        "prompt2": "どれが一番好きですか。",
+        "phrase_explain": "你最喜欢哪一个？",
+        "prompt3": "Which one do you like the most?"
+    },
+    {
+        "word": "とても",
+        "pron": "とても",
+        "definition": "很，非常",
+        "prompt2": "彼はとても優しい人です。",
+        "phrase_explain": "他是一个非常温柔的人。",
+        "prompt3": "He is a very gentle person."
+    },
+    {
+        "word": "あまり",
+        "pron": "あまり",
+        "definition": "不太（用于否定句）",
+        "prompt2": "彼女はあまり食べません。",
+        "phrase_explain": "她吃得不多。",
+        "prompt3": "She doesn't eat much."
+    },
+    {
+        "word": "そして",
+        "pron": "そして",
+        "definition": "而且，还用（用于接续句子）",
+        "prompt2": "私は勉強して、そして休みます。",
+        "phrase_explain": "我学习然后休息。",
+        "prompt3": "I study and then rest."
+    },
+    {
+        "word": "～が、～",
+        "pron": "～が、～",
+        "definition": "～，但是～",
+        "prompt2": "彼は頭が良いが、運動は苦手です。",
+        "phrase_explain": "他很聪明，但运动不擅长。",
+        "prompt3": "He is smart but not good at sports."
+    },
+    {
+        "word": "お元気ですか。",
+        "pron": "おげんきですか。",
+        "definition": "你好吗？",
+        "prompt2": "お元気ですか、久しぶりですね。",
+        "phrase_explain": "你好吗，好久不见。",
+        "prompt3": "How are you? Long time no see."
+    },
+    {
+        "word": "そうですね。",
+        "pron": "そうですね。",
+        "definition": "是呀（用于思考回答时）。",
+        "prompt2": "その意見には同意ですね。",
+        "phrase_explain": "我同意那个意见。",
+        "prompt3": "I agree with that opinion."
+    },
+    {
+        "word": "わかります",
+        "pron": "わかります",
+        "definition": "了解，明白，懂",
+        "prompt2": "私はあなたの気持ちがわかります。",
+        "phrase_explain": "我能理解你的感受。",
+        "prompt3": "I can understand your feelings."
+    },
+    {
+        "word": "あります",
+        "pron": "あります",
+        "definition": "有",
+        "prompt2": "本棚にたくさんの本があります。",
+        "phrase_explain": "书架上有很多书。",
+        "prompt3": "There are many books on the bookshelf."
+    },
+    {
+        "word": "好き［な］",
+        "pron": "すき［な］",
+        "definition": "喜欢（的），爱好（的）",
+        "prompt2": "私は音楽が好きです。",
+        "phrase_explain": "我喜欢音乐。",
+        "prompt3": "I like music."
+    },
+    {
+        "word": "嫌い［な］",
+        "pron": "きらい［な］",
+        "definition": "讨厌（的），不喜欢（的）",
+        "prompt2": "彼は虫が嫌いです。",
+        "phrase_explain": "他讨厌虫子。",
+        "prompt3": "He hates insects."
+    },
+    {
+        "word": "上手［な］",
+        "pron": "じょうず［な］",
+        "definition": "好（的），高明（的）",
+        "prompt2": "彼はピアノが上手です。",
+        "phrase_explain": "他擅长弹钢琴。",
+        "prompt3": "He is good at playing the piano."
+    },
+    {
+        "word": "下手［な］",
+        "pron": "へた［な］",
+        "definition": "不行〔的〕，笨拙〔的〕",
+        "prompt2": "彼女は絵が下手です。",
+        "phrase_explain": "她不擅长画画。",
+        "prompt3": "She is not good at drawing."
+    },
+    {
+        "word": "料理",
+        "pron": "りょうり",
+        "definition": "料理，菜",
+        "prompt2": "私は料理が得意です。",
+        "phrase_explain": "我擅长烹饪。",
+        "prompt3": "I am good at cooking."
+    },
+    {
+        "word": "飲み物",
+        "pron": "のみもの",
+        "definition": "饮料",
+        "prompt2": "彼はコーヒーが好きな飲み物です。",
+        "phrase_explain": "他喜欢喝咖啡。",
+        "prompt3": "He likes to drink coffee."
+    },
+    {
+        "word": "スポーツ",
+        "pron": "スポーツ",
+        "definition": "运动，体育（～をします：做运动）",
+        "prompt2": "友達と一緒にスポーツをするのが好きです。",
+        "phrase_explain": "我喜欢和朋友一起运动。",
+        "prompt3": "I like to exercise with friends."
+    },
+    {
+        "word": "野球",
+        "pron": "やきゅう",
+        "definition": "棒球（～をします：打棒球）",
+        "prompt2": "私は子供の頃、野球チームに所属していました。",
+        "phrase_explain": "我在小时候参加了棒球队。",
+        "prompt3": "I joined a baseball team when I was a child."
+    },
+    {
+        "word": "ダンス",
+        "pron": "ダンス",
+        "definition": "跳舞，舞蹈（～をします：跳舞）",
+        "prompt2": "毎週ダンスのレッスンに通っています。",
+        "phrase_explain": "我每周上舞蹈课。",
+        "prompt3": "I take dance lessons every week."
+    },
+    {
+        "word": "音楽",
+        "pron": "おんがく",
+        "definition": "音乐",
+        "prompt2": "音楽を聴くことが私の癒しです。",
+        "phrase_explain": "听音乐是我的治愈。",
+        "prompt3": "Listening to music is my healing."
+    },
+    {
+        "word": "歌",
+        "pron": "うた",
+        "definition": "歌曲，歌",
+        "prompt2": "カラオケで友達と一緒に歌うのが楽しいです。",
+        "phrase_explain": "和朋友一起在卡拉OK唱歌很有趣。",
+        "prompt3": "It's fun to sing karaoke with friends."
+    },
+    {
+        "word": "クラシック",
+        "pron": "クラシック",
+        "definition": "古典音乐",
+        "prompt2": "クラシック音楽は心を落ち着かせてくれます。",
+        "phrase_explain": "古典音乐让心情平静下来。",
+        "prompt3": "Classical music calms the mood."
+    },
+    {
+        "word": "ジャズ",
+        "pron": "ジャズ",
+        "definition": "爵士乐",
+        "prompt2": "ジャズのリズムに身を任せて踊りたいです。",
+        "phrase_explain": "我想随着爵士乐的节奏跳舞。",
+        "prompt3": "I want to dance to the rhythm of jazz."
+    },
+    {
+        "word": "コンサート",
+        "pron": "コンサート",
+        "definition": "音乐会，演奏会",
+        "prompt2": "コンサートで生の音楽を楽しむのが好きです。",
+        "phrase_explain": "我喜欢在音乐会上享受现场音乐。",
+        "prompt3": "I enjoy live music at concerts."
+    },
+    {
+        "word": "カラオケ",
+        "pron": "カラオケ",
+        "definition": "卡拉OK",
+        "prompt2": "週末に友達とカラオケに行きます。",
+        "phrase_explain": "周末我和朋友去卡拉OK。",
+        "prompt3": "I go to karaoke with friends on weekends."
+    },
+    {
+        "word": "歌舞伎",
+        "pron": "かぶき",
+        "definition": "歌舞伎(日本的传统戏剧）",
+        "prompt2": "歌舞伎の舞台は迫力があります。",
+        "phrase_explain": "歌舞伎舞台很有气势。",
+        "prompt3": "The Kabuki stage is impressive."
+    },
+    {
+        "word": "絵",
+        "pron": "え",
+        "definition": "画",
+        "prompt2": "絵を描くことは私の趣味です。",
+        "phrase_explain": "画画是我的爱好。",
+        "prompt3": "Drawing is my hobby."
+    },
+    {
+        "word": "字",
+        "pron": "じ",
+        "definition": "字",
+        "prompt2": "きれいな字を書くのが得意です。",
+        "phrase_explain": "我擅长写漂亮的字。",
+        "prompt3": "I am good at writing beautiful characters."
+    },
+    {
+        "word": "漢字",
+        "pron": "かんじ",
+        "definition": "汉字",
+        "prompt2": "日本の漢字は難しいですが、美しいです。",
+        "phrase_explain": "日本的汉字很难，但很美。",
+        "prompt3": "Japanese kanji is difficult but beautiful."
+    },
+    {
+        "word": "ひらがな",
+        "pron": "ひらがな",
+        "definition": "平假名",
+        "prompt2": "ひらがなで書かれた文章を読むのが楽しいです。",
+        "phrase_explain": "读平假名写的文章很有趣。",
+        "prompt3": "Reading articles written in hiragana is interesting."
+    },
+    {
+        "word": "かたかな",
+        "pron": "かたかな",
+        "definition": "片假名",
+        "prompt2": "かたかなは歴史的な文字です。",
+        "phrase_explain": "片仮名是一种历史悠久的文字。",
+        "prompt3": "Katakana is a historically significant script."
+    },
+    {
+        "word": "ローマ字",
+        "pron": "ローマじ",
+        "definition": "罗马拼音",
+        "prompt2": "ローマ字で書かれた日本語もよく使われます。",
+        "phrase_explain": "用罗马字写的日语也经常被使用。",
+        "prompt3": "Romaji is also frequently used to write Japanese."
+    },
+    {
+        "word": "細かい(お金)",
+        "pron": "こまかい(おかね)",
+        "definition": "零钱",
+        "prompt2": "細かいお金を持ち歩くのは面倒です。",
+        "phrase_explain": "随身携带零钱很麻烦。",
+        "prompt3": "Carrying loose change is troublesome."
+    },
+    {
+        "word": "チケット",
+        "pron": "チケット",
+        "definition": "票",
+        "prompt2": "コンサートのチケットを手に入れました。",
+        "phrase_explain": "我得到了音乐会的门票。",
+        "prompt3": "I got the tickets for the concert."
+    },
+    {
+        "word": "時間",
+        "pron": "じかん",
+        "definition": "时间",
+        "prompt2": "時間を守ることは大切です。",
+        "phrase_explain": "守时很重要。",
+        "prompt3": "Punctuality is important."
+    },
+    {
+        "word": "用事",
+        "pron": "ようじ",
+        "definition": "（必须办的）事情，工作",
+        "prompt2": "用事があるので、今日は早く帰らないといけません。",
+        "phrase_explain": "因为有事，今天必须早点回家。",
+        "prompt3": "I have to go back early today because I have something to do."
+    },
+    {
+        "word": "約束",
+        "pron": "やくそく",
+        "definition": "约定，承诺",
+        "prompt2": "友達との約束を守ることは信頼の証です。",
+        "phrase_explain": "遵守与朋友的约定是信任的证明。",
+        "prompt3": "Keeping the promises with friends is a proof of trust."
+    },
+    {
+        "word": "ご主人",
+        "pron": "ごしゅじん",
+        "definition": "（他人的）丈夫",
+        "prompt2": "ご主人は優しくて頼りになる人です。",
+        "phrase_explain": "您的丈夫是温柔可靠的人。",
+        "prompt3": "Your husband is a gentle and reliable person."
+    },
+    {
+        "word": "夫／主人",
+        "pron": "おっと／しゅじん",
+        "definition": "（自己的）丈夫",
+        "prompt2": "私の夫は忙しいけれど頼りになる人です。",
+        "phrase_explain": "我的丈夫虽然很忙但可靠。",
+        "prompt3": "Although my husband is busy, he is reliable."
+    },
+    {
+        "word": "奥さん",
+        "pron": "おくさん",
+        "definition": "（他人的）妻子",
+        "prompt2": "奥さんは家族の絆を大切にする人です。",
+        "phrase_explain": "夫人是重视家庭纽带的人。",
+        "prompt3": "Madam is a person who values family ties."
+    },
+    {
+        "word": "妻／家内",
+        "pron": "つま／かない",
+        "definition": "（自己的）妻子",
+        "prompt2": "私の妻は私の支えであり、最高のパートナーです。",
+        "phrase_explain": "我的妻子是我的支持者，最好的伴侣。",
+        "prompt3": "My wife is my supporter and the best partner."
+    },
+    {
+        "word": "子ども",
+        "pron": "こども",
+        "definition": "小孩",
+        "prompt2": "子どもたちは元気いっぱいで可愛いです。",
+        "phrase_explain": "孩子们活泼可爱。",
+        "prompt3": "The children are lively and lovely."
+    },
+    {
+        "word": "よく",
+        "pron": "よく",
+        "definition": "很，十分",
+        "prompt2": "よく勉強することは成果につながります。",
+        "phrase_explain": "努力学习会带来成果。",
+        "prompt3": "Hard work in studying will bring results."
+    },
+    {
+        "word": "だいたい",
+        "pron": "だいたい",
+        "definition": "大致，大概",
+        "prompt2": "だいたいのことは分かりました。",
+        "phrase_explain": "大致明白了。",
+        "prompt3": "I roughly understand."
+    },
+    {
+        "word": "たくさん",
+        "pron": "たくさん",
+        "definition": "很多",
+        "prompt2": "たくさんの友達がいます。",
+        "phrase_explain": "有很多朋友。",
+        "prompt3": "I have many friends."
+    },
+    {
+        "word": "少し",
+        "pron": "すこし",
+        "definition": "少，稍微",
+        "prompt2": "少しの時間でも有効に使いたいです。",
+        "phrase_explain": "希望能有效利用一点时间。",
+        "prompt3": "I hope to make effective use of a little time."
+    },
+    {
+        "word": "全然",
+        "pron": "ぜんぜん",
+        "definition": "完全，一点也（用于否定句）",
+        "prompt2": "全然分かりませんでした。",
+        "phrase_explain": "完全不懂。",
+        "prompt3": "I don't understand at all."
+    },
+    {
+        "word": "早く、速く",
+        "pron": "はやく",
+        "definition": "早些，快些",
+        "prompt2": "早く寝たいです。",
+        "phrase_explain": "想早点睡觉。",
+        "prompt3": "I want to sleep early."
+    },
+    {
+        "word": "残念です［ね］",
+        "pron": "ざんねんです［ね］。",
+        "definition": "真遗憾（呀）。",
+        "prompt2": "試合に負けてしまって残念です。",
+        "phrase_explain": "输掉比赛感到遗憾。",
+        "prompt3": "I feel regretful for losing the game."
+    },
+    {
+        "word": "すみません。",
+        "pron": "すみません。",
+        "definition": "很抱歉。",
+        "prompt2": "すみませんが、お手洗いはどこですか？",
+        "phrase_explain": "不好意思，请问洗手间在哪里？",
+        "prompt3": "Excuse me, where is the restroom?"
+    },
+    {
+        "word": "います",
+        "pron": "います",
+        "definition": "有，在（表示生物的存在）",
+        "prompt2": "家にはペットの犬がいます。",
+        "phrase_explain": "家里有一只宠物狗。",
+        "prompt3": "There is a pet dog at home."
+    },
+    {
+        "word": "いろいろ〔な〕",
+        "pron": "いろいろ〔な〕",
+        "definition": "各式各样〔的〕",
+        "prompt2": "いろいろな選択肢があります。",
+        "phrase_explain": "有各种选择。",
+        "prompt3": "There are various choices."
+    },
+    {
+        "word": "ひと男の人",
+        "pron": "おとこの",
+        "definition": "男子",
+        "prompt2": "駅で見かけたひと男の人が怪しい人でした。",
+        "phrase_explain": "在车站看到的那个男人很可疑。",
+        "prompt3": "The man I saw at the station was suspicious."
+    },
+    {
+        "word": "ひと女の人",
+        "pron": "おんなの",
+        "definition": "女子",
+        "prompt2": "ひと女の人が私に道を教えてくれました。",
+        "phrase_explain": "一个女人告诉我路。",
+        "prompt3": "A woman told me the way."
+    },
+    {
+        "word": "こ男の子",
+        "pron": "おとこの",
+        "definition": "男孩",
+        "prompt2": "公園で元気なこ男の子が遊んでいました。",
+        "phrase_explain": "公园里有一个活泼的男孩在玩耍。",
+        "prompt3": "There is a lively boy playing in the park."
+    },
+    {
+        "word": "こ女の子",
+        "pron": "おんなの",
+        "definition": "女孩",
+        "prompt2": "こ女の子はとてもかわいらしいです。",
+        "phrase_explain": "这个女孩非常可爱。",
+        "prompt3": "This girl is very cute."
+    },
+    {
+        "word": "犬",
+        "pron": "いぬ",
+        "definition": "狗",
+        "prompt2": "私の家には愛らしい犬がいます。",
+        "phrase_explain": "我家有一只可爱的狗。",
+        "prompt3": "I have a lovely dog at home."
+    },
+    {
+        "word": "猫",
+        "pron": "ねこ",
+        "definition": "猫",
+        "prompt2": "猫は私の癒しです。",
+        "phrase_explain": "猫是我的慰藉。",
+        "prompt3": "Cats are my solace."
+    },
+    {
+        "word": "木",
+        "pron": "き",
+        "definition": "树，木头",
+        "prompt2": "公園には大きな木がたくさんあります。",
+        "phrase_explain": "公园里有很多大树。",
+        "prompt3": "There are many big trees in the park."
+    },
+    {
+        "word": "物",
+        "pron": "もの",
+        "definition": "物品，东西",
+        "prompt2": "物の価値よりも大切なのは人間関係です。",
+        "phrase_explain": "比物品价值更重要的是人际关系。",
+        "prompt3": "Interpersonal relationships are more important than material value."
+    },
+    {
+        "word": "フィルム",
+        "pron": "フィルム",
+        "definition": "底片，胶卷",
+        "prompt2": "写真を撮るためにフィルムを買いました。",
+        "phrase_explain": "为了拍照买了胶卷。",
+        "prompt3": "Bought film to take photos."
+    },
+    {
+        "word": "電池",
+        "pron": "でんち",
+        "definition": "电池",
+        "prompt2": "リモコンの電池が切れているようです。",
+        "phrase_explain": "遥控器的电池好像没电了。",
+        "prompt3": "The remote control seems to be out of battery."
+    },
+    {
+        "word": "箱",
+        "pron": "はこ",
+        "definition": "盒子",
+        "prompt2": "大きな箱にはたくさんの荷物が入っています。",
+        "phrase_explain": "大箱子里装满了很多物品。",
+        "prompt3": "The big box is filled with many items."
+    },
+    {
+        "word": "スイッチ",
+        "pron": "スイッチ",
+        "definition": "开关",
+        "prompt2": "スイッチを入れると電気がつきます。",
+        "phrase_explain": "打开开关就会通电。",
+        "prompt3": "Electricity will be connected when the switch is turned on."
+    },
+    {
+        "word": "冷蔵庫",
+        "pron": "れいぞうこ",
+        "definition": "冰箱",
+        "prompt2": "冷蔵庫には食材がたくさん入っています。",
+        "phrase_explain": "冰箱里装满了食材。",
+        "prompt3": "The refrigerator is filled with ingredients."
+    },
+    {
+        "word": "テーブル",
+        "pron": "テーブル",
+        "definition": "餐桌",
+        "prompt2": "テーブルの上にはおいしい料理が並んでいます。",
+        "phrase_explain": "桌子上摆满了美味的菜肴。",
+        "prompt3": "The table is filled with delicious dishes."
+    },
+    {
+        "word": "べッド",
+        "pron": "べッド",
+        "definition": "床",
+        "prompt2": "べッドでゆっくり休むのが好きです。",
+        "phrase_explain": "我喜欢在床上慢慢休息。",
+        "prompt3": "I like to rest slowly on the bed."
+    },
+    {
+        "word": "棚",
+        "pron": "たな",
+        "definition": "架子",
+        "prompt2": "棚にはたくさんの本が並んでいます。",
+        "phrase_explain": "书架上摆满了很多书。",
+        "prompt3": "The bookshelf is filled with many books."
+    },
+    {
+        "word": "ドア",
+        "pron": "ドア",
+        "definition": "门",
+        "prompt2": "ドアを開けると外の風が入ってきます。",
+        "phrase_explain": "打开门时会进来外面的风。",
+        "prompt3": "The wind from outside comes in when the door is opened."
+    },
+    {
+        "word": "窓",
+        "pron": "まど",
+        "definition": "窗戶",
+        "prompt2": "窓からはきれいな景色が見えます。",
+        "phrase_explain": "从窗户可以看到美丽的景色。",
+        "prompt3": "Beautiful scenery can be seen from the window."
+    },
+    {
+        "word": "ポスト",
+        "pron": "ポスト",
+        "definition": "邮筒，信箱",
+        "prompt2": "手紙をポストに投函しました。",
+        "phrase_explain": "把信投递到邮箱里了。",
+        "prompt3": "Delivered the mail into the mailbox."
+    },
+    {
+        "word": "ビル",
+        "pron": "ビル",
+        "definition": "大厦，大楼",
+        "prompt2": "ビルの上には高いビルが立ち並んでいます。",
+        "phrase_explain": "高楼大厦林立在建筑物的上方。",
+        "prompt3": "Tall buildings stand above the structures."
+    },
+    {
+        "word": "公園",
+        "pron": "こうえん",
+        "definition": "公园",
+        "prompt2": "公園で友達とピクニックを楽しみました。",
+        "phrase_explain": "在公园与朋友一起享受野餐。",
+        "prompt3": "Enjoyed a picnic with friends in the park."
+    },
+    {
+        "word": "喫茶店",
+        "pron": "きっさてん",
+        "definition": "咖啡馆",
+        "prompt2": "喫茶店で美味しいコーヒーをいただきました。",
+        "phrase_explain": "在咖啡店里品尝了美味的咖啡。",
+        "prompt3": "Tasted delicious coffee in the coffee shop."
+    },
+    {
+        "word": "本屋",
+        "pron": "ほんや",
+        "definition": "书店",
+        "prompt2": "本屋で新しい本を買いました。",
+        "phrase_explain": "在书店买了新书。",
+        "prompt3": "Bought a new book in the bookstore."
+    },
+    {
+        "word": "～屋",
+        "pron": "～や",
+        "definition": "～店",
+        "prompt2": "花屋できれいな花を買いました。",
+        "phrase_explain": "在花店买了美丽的花。",
+        "prompt3": "Bought beautiful flowers in the flower shop."
+    },
+    {
+        "word": "乗り場",
+        "pron": "のりば",
+        "definition": "搭乘火车、计程车等交通工具的场所",
+        "prompt2": "バスの乗り場はどこですか？",
+        "phrase_explain": "公交车站在哪里？",
+        "prompt3": "Where is the bus stop?"
+    },
+    {
+        "word": "県",
+        "pron": "けん",
+        "definition": "县",
+        "prompt2": "私は東京都に住んでいます。",
+        "phrase_explain": "我住在东京都。",
+        "prompt3": "I live in Tokyo."
+    },
+    {
+        "word": "上",
+        "pron": "うえ",
+        "definition": "上，上面",
+        "prompt2": "山の上からの景色は素晴らしいです。",
+        "phrase_explain": "从山上的景色非常美丽。",
+        "prompt3": "The scenery from the mountain top is very beautiful."
+    },
+    {
+        "word": "下",
+        "pron": "した",
+        "definition": "下，下面",
+        "prompt2": "階段を下りて地下に降りました。",
+        "phrase_explain": "下楼梯来到了地下。",
+        "prompt3": "Went downstairs and arrived underground."
+    },
+    {
+        "word": "前",
+        "pron": "まえ",
+        "definition": "前，前面",
+        "prompt2": "前に進むことは大切です。",
+        "phrase_explain": "向前迈进是重要的。",
+        "prompt3": "Moving forward is important."
+    },
+    {
+        "word": "うしろ",
+        "pron": "うしろ",
+        "definition": "后，后面",
+        "prompt2": "後ろには誰もいませんでした。",
+        "phrase_explain": "后面没有人。",
+        "prompt3": "There is no one behind."
+    },
+    {
+        "word": "右",
+        "pron": "みぎ",
+        "definition": "右（边）",
+        "prompt2": "右に曲がってください。",
+        "phrase_explain": "请向右转。",
+        "prompt3": "Please turn right."
+    },
+    {
+        "word": "左",
+        "pron": "ひだり",
+        "definition": "左（边）",
+        "prompt2": "左に行くと公園があります。",
+        "phrase_explain": "往左走有一个公园。",
+        "prompt3": "There is a park to the left."
+    },
+    {
+        "word": "中",
+        "pron": "なか",
+        "definition": "里面，中间",
+        "prompt2": "中にはたくさんの人がいます。",
+        "phrase_explain": "里面有很多人。",
+        "prompt3": "There are many people inside."
+    },
+    {
+        "word": "外",
+        "pron": "そと",
+        "definition": "外面",
+        "prompt2": "外は雨が降っています。",
+        "phrase_explain": "外面正在下雨。",
+        "prompt3": "It is raining outside."
+    },
+    {
+        "word": "隣",
+        "pron": "となり",
+        "definition": "隔壁，旁边",
+        "prompt2": "隣の家の子どもたちと仲良く遊んでいます。",
+        "phrase_explain": "和隔壁家的孩子们玩得很好。",
+        "prompt3": "Played well with the children next door."
+    },
+    {
+        "word": "近く",
+        "pron": "ちかく",
+        "definition": "附近",
+        "prompt2": "近くのスーパーマーケットで買い物をします。",
+        "phrase_explain": "去附近的超市购物。",
+        "prompt3": "Went shopping at the nearby supermarket."
+    },
+    {
+        "word": "間",
+        "pron": "あいだ",
+        "definition": "之间，中间",
+        "prompt2": "部屋の間にはドアがあります。",
+        "phrase_explain": "房间之间有门。",
+        "prompt3": "There are doors between the rooms."
+    },
+    {
+        "word": "～や～〔など〕",
+        "pron": "～や～〔など〕",
+        "definition": "～啦～〔等〕",
+        "prompt2": "果物や野菜を買いました。",
+        "phrase_explain": "买了水果和蔬菜。",
+        "prompt3": "Bought fruits and vegetables."
+    },
+    {
+        "word": "いちばん～",
+        "pron": "いちばん～",
+        "definition": "最～（いちばんうえ：最上面，最高)",
+        "prompt2": "いちばん好きな食べ物は寿司です。",
+        "phrase_explain": "我最喜欢的食物是寿司。",
+        "prompt3": "My favorite food is sushi."
+    },
+    {
+        "word": "…段目",
+        "pron": "…だんめ",
+        "definition": "第…层（架子的第…层）",
+        "prompt2": "本棚の3段目には小説があります。",
+        "phrase_explain": "书架的第三层有小说。",
+        "prompt3": "There are novels on the third shelf of the bookcase."
+    },
+    {
+        "word": "かかります",
+        "pron": "かかります",
+        "definition": "花费（金钱或时间）",
+        "prompt2": "電車に乗るまでに時間がかかります。",
+        "phrase_explain": "需要花一些时间才能上电车。",
+        "prompt3": "It takes some time to catch the train."
+    },
+    {
+        "word": "1つ",
+        "pron": "ひとつ",
+        "definition": "一个（用于计算物品）",
+        "prompt2": "1つの問題が解決しました。",
+        "phrase_explain": "一个问题已经解决了。",
+        "prompt3": "One problem has been solved."
+    },
+    {
+        "word": "2つ",
+        "pron": "ふたつ",
+        "definition": "二个",
+        "prompt2": "2つの選択肢があります。",
+        "phrase_explain": "有两个选择。",
+        "prompt3": "There are two options."
+    },
+    {
+        "word": "3つ",
+        "pron": "みっつ",
+        "definition": "三个",
+        "prompt2": "3つの質問があります。",
+        "phrase_explain": "有三个问题。",
+        "prompt3": "There are three problems."
+    },
+    {
+        "word": "4つ",
+        "pron": "よっつ",
+        "definition": "四个",
+        "prompt2": "4つの部屋があります。",
+        "phrase_explain": "有四个房间。",
+        "prompt3": "There are four rooms."
+    },
+    {
+        "word": "5つ",
+        "pron": "いつつ",
+        "definition": "五个",
+        "prompt2": "5つのリンゴを買いました。",
+        "phrase_explain": "买了五个苹果。",
+        "prompt3": "Bought five apples."
+    },
+    {
+        "word": "6つ",
+        "pron": "むっつ",
+        "definition": "六个",
+        "prompt2": "6つの問題に取り組む必要があります。",
+        "phrase_explain": "需要解决六个问题。",
+        "prompt3": "Six problems need to be solved."
+    },
+    {
+        "word": "7つ",
+        "pron": "ななつ",
+        "definition": "七个",
+        "prompt2": "7つの大陸があります。",
+        "phrase_explain": "有七个大陆。",
+        "prompt3": "There are seven continents."
+    },
+    {
+        "word": "8つ",
+        "pron": "やっつ",
+        "definition": "八个",
+        "prompt2": "8つの色があります。",
+        "phrase_explain": "有八种颜色。",
+        "prompt3": "There are eight colors."
+    },
+    {
+        "word": "9つ",
+        "pron": "ここのつ",
+        "definition": "九个",
+        "prompt2": "彼は9つのりんごを買いました。",
+        "phrase_explain": "他买了九个苹果。",
+        "prompt3": "He bought nine apples."
+    },
+    {
+        "word": "10つ",
+        "pron": "とお",
+        "definition": "十个",
+        "prompt2": "彼女は10つのみかんを食べました。",
+        "phrase_explain": "她吃了十个橙子。",
+        "prompt3": "She ate ten oranges."
+    },
+    {
+        "word": "いくつ",
+        "pron": "いくつ",
+        "definition": "几个",
+        "prompt2": "彼らはいくつのサンドイッチを注文しますか？",
+        "phrase_explain": "他们要点多少个三明治？",
+        "prompt3": "How many sandwiches do they want to order?"
+    },
+    {
+        "word": "1人",
+        "pron": "ひとり",
+        "definition": "一个人",
+        "prompt2": "彼は1人で映画を見に行きました。",
+        "phrase_explain": "他一个人去看电影了。",
+        "prompt3": "He went to watch a movie alone."
+    },
+    {
+        "word": "2人",
+        "pron": "ふたり",
+        "definition": "二个人",
+        "prompt2": "私たちは2人でレストランに行きました。",
+        "phrase_explain": "我们两个人去了餐厅。",
+        "prompt3": "The two of us went to a restaurant."
+    },
+    {
+        "word": "…人",
+        "pron": "…にん",
+        "definition": "…个人",
+        "prompt2": "パーティーにはたくさんの人が参加しました。",
+        "phrase_explain": "有很多人参加了派对。",
+        "prompt3": "Many people attended the party."
+    },
+    {
+        "word": "…だい",
+        "pron": "…だい",
+        "definition": "…台（用于计算机械、车辆等机械类时）",
+        "prompt2": "彼は…だいの切手を集めています。",
+        "phrase_explain": "他正在收集大量的邮票。",
+        "prompt3": "He is collecting a large number of stamps."
+    },
+    {
+        "word": "…まい",
+        "pron": "…まい",
+        "definition": "…枚（用于计算纸张、邮票等薄的物品时）",
+        "prompt2": "彼女は…まいのはがきを送りました。",
+        "phrase_explain": "她寄了每张明信片。",
+        "prompt3": "She sent each postcard."
+    },
+    {
+        "word": "…回",
+        "pron": "…かい",
+        "definition": "…次",
+        "prompt2": "私は週に3回ジョギングをします。",
+        "phrase_explain": "我每周跑步三次。",
+        "prompt3": "I run three times a week."
+    },
+    {
+        "word": "りんご",
+        "pron": "りんご",
+        "definition": "苹果",
+        "prompt2": "彼女はりんごを食べるのが大好きです。",
+        "phrase_explain": "她非常喜欢吃苹果。",
+        "prompt3": "She really likes to eat apples."
+    },
+    {
+        "word": "みかん",
+        "pron": "みかん",
+        "definition": "桔子",
+        "prompt2": "彼はみかんを買って家に帰りました。",
+        "phrase_explain": "他买了橘子回家了。",
+        "prompt3": "He bought oranges and went home."
+    },
+    {
+        "word": "サンドイッチ",
+        "pron": "サンドイッチ",
+        "definition": "三明治",
+        "prompt2": "私はサンドイッチをランチに食べました。",
+        "phrase_explain": "我午餐吃了三明治。",
+        "prompt3": "I had a sandwich for lunch."
+    },
+    {
+        "word": "カレー［ライス］",
+        "pron": "カレー［ライス］",
+        "definition": "咖哩〔饭〕",
+        "prompt2": "彼はカレー［ライス］を注文しました。",
+        "phrase_explain": "他点了咖喱饭。",
+        "prompt3": "He ordered curry rice."
+    },
+    {
+        "word": "アイスクリーム",
+        "pron": "アイスクリーム",
+        "definition": "冰淇淋",
+        "prompt2": "暑い日にアイスクリームが食べたいです。",
+        "phrase_explain": "在炎热的日子里我想吃冰淇淋。",
+        "prompt3": "I want to eat ice cream on hot days."
+    },
+    {
+        "word": "切手",
+        "pron": "きって",
+        "definition": "邮票",
+        "prompt2": "彼は切手を集めています。",
+        "phrase_explain": "他在收集邮票。",
+        "prompt3": "He is collecting stamps."
+    },
+    {
+        "word": "はがき",
+        "pron": "はがき",
+        "definition": "明信片",
+        "prompt2": "彼女は友達にはがきを送りました。",
+        "phrase_explain": "她给朋友寄了明信片。",
+        "prompt3": "She sent postcards to her friends."
+    },
+    {
+        "word": "封筒",
+        "pron": "ふうとう",
+        "definition": "信封",
+        "prompt2": "私は封筒に手紙を入れて送りました。",
+        "phrase_explain": "我把信放在信封里寄出去了。",
+        "prompt3": "I put the letter in an envelope and sent it."
+    },
+    {
+        "word": "速達",
+        "pron": "そくたつ",
+        "definition": "限时信",
+        "prompt2": "彼は速達で手紙を送りました。",
+        "phrase_explain": "他用特快专递寄了信。",
+        "prompt3": "He sent the letter by express delivery."
+    },
+    {
+        "word": "書留",
+        "pron": "かきとめ",
+        "definition": "挂号信",
+        "prompt2": "彼女は大切な書類を書留で送りました。",
+        "phrase_explain": "她用挂号信寄了重要文件。",
+        "prompt3": "She sent important documents by registered mail."
+    },
+    {
+        "word": "エアメール",
+        "pron": "エアメール",
+        "definition": "航空邮件，航空信（こうくうびん）（航空便）",
+        "prompt2": "私は海外にエアメールを送りました。",
+        "phrase_explain": "我寄了一封航空信到海外。",
+        "prompt3": "I sent an airmail to overseas."
+    },
+    {
+        "word": "船便",
+        "pron": "ふなびん",
+        "definition": "船运",
+        "prompt2": "彼は大きな荷物を船便で送りました。",
+        "phrase_explain": "他用海运寄了一个大包裹。",
+        "prompt3": "He sent a large package by sea."
+    },
+    {
+        "word": "両親",
+        "pron": "りょうしん",
+        "definition": "双亲",
+        "prompt2": "彼は両親と一緒に旅行に行きました。",
+        "phrase_explain": "他和父母一起去旅行了。",
+        "prompt3": "He traveled with his parents."
+    },
+    {
+        "word": "兄弟",
+        "pron": "きょうだい",
+        "definition": "兄弟姐妹",
+        "prompt2": "彼は兄弟と一緒に遊びました。",
+        "phrase_explain": "他和兄弟一起玩了。",
+        "prompt3": "He played with his brother."
+    },
+    {
+        "word": "兄",
+        "pron": "あに",
+        "definition": "（我）哥哥",
+        "prompt2": "彼は兄と一緒に釣りに行きました。",
+        "phrase_explain": "他和哥哥一起去钓鱼了。",
+        "prompt3": "He went fishing with his brother."
+    },
+    {
+        "word": "お兄さん",
+        "pron": "おにいさん",
+        "definition": "（他人的）哥哥",
+        "prompt2": "彼はお兄さんにプレゼントをあげました。",
+        "phrase_explain": "他给哥哥送了礼物。",
+        "prompt3": "He gave a gift to his brother."
+    },
+    {
+        "word": "姉",
+        "pron": "あね",
+        "definition": "（我）姐姐",
+        "prompt2": "彼女は姉と買い物に行きました。",
+        "phrase_explain": "她和姐姐一起去购物了。",
+        "prompt3": "She went shopping with her sister."
+    },
+    {
+        "word": "お姉さん",
+        "pron": "おねえさん",
+        "definition": "（他人的）姐姐",
+        "prompt2": "彼女はお姉さんに手紙を書きました。",
+        "phrase_explain": "她给姐姐写了信。",
+        "prompt3": "She wrote a letter to her sister."
+    },
+    {
+        "word": "弟",
+        "pron": "おとうと",
+        "definition": "（我）弟弟",
+        "prompt2": "彼は弟とサッカーをしました。",
+        "phrase_explain": "他和弟弟一起踢足球了。",
+        "prompt3": "He played soccer with his younger brother."
+    },
+    {
+        "word": "弟さん",
+        "pron": "おとうとさん",
+        "definition": "（他人的）弟弟",
+        "prompt2": "彼は弟さんと一緒に遊びました。",
+        "phrase_explain": "他和弟弟一起玩了。",
+        "prompt3": "He played with his younger brother."
+    },
+    {
+        "word": "妹",
+        "pron": "いもうと",
+        "definition": "（我）妹妹",
+        "prompt2": "彼女は妹と遊園地に行きました。",
+        "phrase_explain": "她和妹妹一起去游乐园了。",
+        "prompt3": "She went to the amusement park with her younger sister."
+    },
+    {
+        "word": "妹さん",
+        "pron": "いもうとさん",
+        "definition": "（他人的）妹妹",
+        "prompt2": "彼女は妹さんと一緒に映画を見ました。",
+        "phrase_explain": "她和妹妹一起看电影了。",
+        "prompt3": "She watched a movie with her younger sister."
+    },
+    {
+        "word": "外国",
+        "pron": "がいこく",
+        "definition": "外国",
+        "prompt2": "彼は外国に旅行に行きました。",
+        "phrase_explain": "他去了国外旅行。",
+        "prompt3": "He traveled abroad."
+    },
+    {
+        "word": "…時間",
+        "pron": "…じかん",
+        "definition": "…小时",
+        "prompt2": "彼は…時間勉強しました。",
+        "phrase_explain": "他学习了...时间。",
+        "prompt3": "He studied for...time."
+    },
+    {
+        "word": "…週間",
+        "pron": "…しゅうかん",
+        "definition": "…星期",
+        "prompt2": "私は…週間休暇を取ります。",
+        "phrase_explain": "我休了...个星期的假。",
+        "prompt3": "I took a vacation for...weeks."
+    },
+    {
+        "word": "…か月",
+        "pron": "…かげつ",
+        "definition": "…个月",
+        "prompt2": "彼女は…か月間留学します。",
+        "phrase_explain": "她将留学...个月。",
+        "prompt3": "She will study abroad for...months."
+    },
+    {
+        "word": "…年",
+        "pron": "…ねん",
+        "definition": "…年",
+        "prompt2": "私は…年前に日本に来ました。",
+        "phrase_explain": "我...年前来到了日本。",
+        "prompt3": "I came to Japan...years ago."
+    },
+    {
+        "word": "～ぐらい",
+        "pron": "～ぐらい",
+        "definition": "～左右",
+        "prompt2": "彼女は1時間ぐらい寝ました。",
+        "phrase_explain": "她睡了大约1小时。",
+        "prompt3": "She slept for about 1 hour."
+    },
+    {
+        "word": "どのぐらい",
+        "pron": "どのぐらい",
+        "definition": "多久",
+        "prompt2": "彼はどのぐらい勉強しましたか？",
+        "phrase_explain": "他学了多久？",
+        "prompt3": "How long did he study?"
+    },
+    {
+        "word": "全部で",
+        "pron": "ぜんぶで",
+        "definition": "一共",
+        "prompt2": "私たちは全部で10人です。",
+        "phrase_explain": "我们一共有10个人。",
+        "prompt3": "We have a total of 10 people."
+    },
+    {
+        "word": "みんな",
+        "pron": "みんな",
+        "definition": "全部，全体",
+        "prompt2": "みんな元気ですか？",
+        "phrase_explain": "大家都好吗？",
+        "prompt3": "How is everyone?"
+    },
+    {
+        "word": "～だけ",
+        "pron": "～だけ",
+        "definition": "只～，仅～",
+        "prompt2": "彼は日本語だけ話せます。",
+        "phrase_explain": "他只会说日语。",
+        "prompt3": "He only speaks Japanese."
+    },
+    {
+        "word": "いらっしゃいませ。",
+        "pron": "いらっしゃいませ。",
+        "definition": "欢迎光临（商店、行号在顾客光临时用）",
+        "prompt2": "いらっしゃいませ。何かお探しですか？",
+        "phrase_explain": "欢迎光临。您要找什么？",
+        "prompt3": "Welcome. What are you looking for?"
+    },
+    {
+        "word": "簡単［な］",
+        "pron": "かんたん［な］",
+        "definition": "简单，单纯",
+        "prompt2": "この料理はとても簡単です。",
+        "phrase_explain": "这道菜很简单。",
+        "prompt3": "This dish is very simple."
+    },
+    {
+        "word": "近い",
+        "pron": "ちかい",
+        "definition": "近",
+        "prompt2": "私の家は駅から近いです。",
+        "phrase_explain": "我的家离车站很近。",
+        "prompt3": "My house is very close to the train station."
+    },
+    {
+        "word": "遠い",
+        "pron": "とおい",
+        "definition": "远",
+        "prompt2": "彼の家は学校から遠いです。",
+        "phrase_explain": "他的家离学校很远。",
+        "prompt3": "His house is very far from the school."
+    },
+    {
+        "word": "速い、早い",
+        "pron": "はやい",
+        "definition": "快，早",
+        "prompt2": "彼の車は速いです。",
+        "phrase_explain": "他的车速度很快。",
+        "prompt3": "His car is very fast."
+    },
+    {
+        "word": "遅い",
+        "pron": "おそい",
+        "definition": "慢，晚",
+        "prompt2": "彼女はいつも遅いです。",
+        "phrase_explain": "她总是迟到。",
+        "prompt3": "She is always late."
+    },
+    {
+        "word": "多い",
+        "pron": "おおい",
+        "definition": "〔人〕多，多［ひとが～］［人が～］",
+        "prompt2": "この町にはたくさんの人が住んでいます。",
+        "phrase_explain": "这个城市有很多人居住。",
+        "prompt3": "Many people live in this city."
+    },
+    {
+        "word": "少ない",
+        "pron": "すくない",
+        "definition": "〔人〕少，少［ひとが～］［人が～］",
+        "prompt2": "この店の在庫は少ないです。",
+        "phrase_explain": "这家店的库存很少。",
+        "prompt3": "This store has very little inventory."
+    },
+    {
+        "word": "暖かい、温かい",
+        "pron": "あたたかい",
+        "definition": "温暖，温热",
+        "prompt2": "今日は暖かいですね。",
+        "phrase_explain": "今天很暖和。",
+        "prompt3": "Today is warm."
+    },
+    {
+        "word": "涼しい",
+        "pron": "すずしい",
+        "definition": "凉",
+        "prompt2": "夜は涼しい風が吹いています。",
+        "phrase_explain": "晚上有凉爽的风。",
+        "prompt3": "There is a cool breeze in the evening."
+    },
+    {
+        "word": "甘い",
+        "pron": "あまい",
+        "definition": "甜",
+        "prompt2": "彼は甘いお菓子が好きです。",
+        "phrase_explain": "他喜欢甜食。",
+        "prompt3": "He likes sweet food."
+    },
+    {
+        "word": "辛い",
+        "pron": "からい",
+        "definition": "辣，咸",
+        "prompt2": "この料理は辛すぎます。",
+        "phrase_explain": "这道菜太辣了。",
+        "prompt3": "This dish is too spicy."
+    },
+    {
+        "word": "重い",
+        "pron": "おもい",
+        "definition": "重",
+        "prompt2": "その荷物はとても重いです。",
+        "phrase_explain": "那个行李很重。",
+        "prompt3": "That luggage is very heavy."
+    },
+    {
+        "word": "軽い",
+        "pron": "かるい",
+        "definition": "轻",
+        "prompt2": "このバッグは軽くて持ちやすいです。",
+        "phrase_explain": "这个包包很轻便易携带。",
+        "prompt3": "This bag is lightweight and easy to carry."
+    },
+    {
+        "word": "いい",
+        "pron": "いい",
+        "definition": "好（咖啡）［コーヒーが～］",
+        "prompt2": "この本はとても面白いです。",
+        "phrase_explain": "这本书很有趣。",
+        "prompt3": "This book is interesting."
+    },
+    {
+        "word": "季節",
+        "pron": "きせつ",
+        "definition": "季节",
+        "prompt2": "春は花が咲く季節です。",
+        "phrase_explain": "春天是花开的季节。",
+        "prompt3": "Spring is the season of blooming flowers."
+    },
+    {
+        "word": "春",
+        "pron": "はる",
+        "definition": "春",
+        "prompt2": "春には桜が咲きます。",
+        "phrase_explain": "春天樱花开放。",
+        "prompt3": "Cherry blossoms bloom in spring."
+    },
+    {
+        "word": "夏",
+        "pron": "なつ",
+        "definition": "夏",
+        "prompt2": "夏は海に行くのが楽しいです。",
+        "phrase_explain": "夏天去海边很有趣。",
+        "prompt3": "It's fun to go to the beach in summer."
+    },
+    {
+        "word": "秋",
+        "pron": "あき",
+        "definition": "秋",
+        "prompt2": "秋は紅葉が美しい季節です。",
+        "phrase_explain": "秋天是红叶美丽的季节。",
+        "prompt3": "Autumn is the season of beautiful fall foliage."
+    },
+    {
+        "word": "冬",
+        "pron": "ふゆ",
+        "definition": "冬",
+        "prompt2": "冬は雪が降って寒いです。",
+        "phrase_explain": "冬天下雪很冷。",
+        "prompt3": "It is cold when it snows in winter."
+    },
+    {
+        "word": "天気",
+        "pron": "てんき",
+        "definition": "天气",
+        "prompt2": "今日の天気は晴れです。",
+        "phrase_explain": "今天的天气晴朗。",
+        "prompt3": "The weather is sunny today."
+    },
+    {
+        "word": "雨",
+        "pron": "あめ",
+        "definition": "雨，下雨",
+        "prompt2": "外は雨が降っています。",
+        "phrase_explain": "外面正在下雨。",
+        "prompt3": "It is raining outside."
+    },
+    {
+        "word": "雪",
+        "pron": "ゆき",
+        "definition": "雪，下雪",
+        "prompt2": "雪が積もってきれいです。",
+        "phrase_explain": "积雪很美丽。",
+        "prompt3": "The snow is beautiful."
+    },
+    {
+        "word": "曇り",
+        "pron": "くもり",
+        "definition": "阴天",
+        "prompt2": "今日は曇っていて寒いです。",
+        "phrase_explain": "今天多云而且很冷。",
+        "prompt3": "Today is cloudy and very cold."
+    },
+    {
+        "word": "ホテル",
+        "pron": "ホテル",
+        "definition": "饭店，旅馆",
+        "prompt2": "私たちはホテルに泊まりました。",
+        "phrase_explain": "我们住在了酒店里。",
+        "prompt3": "We stayed at a hotel."
+    },
+    {
+        "word": "空港",
+        "pron": "くうこう",
+        "definition": "机场",
+        "prompt2": "彼は空港で友達を迎えました。",
+        "phrase_explain": "他在机场接朋友。",
+        "prompt3": "He is picking up a friend at the airport."
+    },
+    {
+        "word": "海",
+        "pron": "うみ",
+        "definition": "海",
+        "prompt2": "夏休みには海に行きたいです。",
+        "phrase_explain": "放暑假时我想去海边。",
+        "prompt3": "I want to go to the beach during summer vacation."
+    },
+    {
+        "word": "世界",
+        "pron": "せかい",
+        "definition": "世界",
+        "prompt2": "彼は世界中を旅行しています。",
+        "phrase_explain": "他正在环游世界。",
+        "prompt3": "He is traveling around the world."
+    },
+    {
+        "word": "パーティー",
+        "pron": "パーティー",
+        "definition": "舞会，餐会（～をします：办舞会）",
+        "prompt2": "彼女はパーティーに招待されました。",
+        "phrase_explain": "她被邀请参加聚会。",
+        "prompt3": "She was invited to a party."
+    },
+    {
+        "word": "［お］祭り",
+        "pron": "［お］まつり",
+        "definition": "节庆，庆典",
+        "prompt2": "この町のお祭りはとても賑やかです。",
+        "phrase_explain": "这个城市的祭典很热闹。",
+        "prompt3": "The festival in this city is lively."
+    },
+    {
+        "word": "試験",
+        "pron": "しけん",
+        "definition": "考试",
+        "prompt2": "彼は試験の勉強をしています。",
+        "phrase_explain": "他正在备考。",
+        "prompt3": "He is studying for an exam."
+    },
+    {
+        "word": "すき焼き",
+        "pron": "すきやき",
+        "definition": "鸡素烧（牛肉和蔬菜的火锅）",
+        "prompt2": "すき焼きは日本料理の一つです。",
+        "phrase_explain": "日本料理中有一道叫做“涮”（すき焼き）的。",
+        "prompt3": "There is a Japanese dish called 'sukiyaki' in Japanese cuisine."
+    },
+    {
+        "word": "刺身",
+        "pron": "さしみ",
+        "definition": "生鱼片",
+        "prompt2": "刺身は新鮮な魚を食べる料理です。",
+        "phrase_explain": "刺身是一种食用新鲜鱼肉的料理。",
+        "prompt3": "Sashimi is a dish of fresh raw fish."
+    },
+    {
+        "word": "［お］すし",
+        "pron": "［お］すし",
+        "definition": "寿司",
+        "prompt2": "お寿司は日本の代表的な料理です。",
+        "phrase_explain": "寿司是日本的代表性料理。",
+        "prompt3": "Sushi is a representative dish of Japan."
+    },
+    {
+        "word": "てんぷら",
+        "pron": "てんぷら",
+        "definition": "天妇罗",
+        "prompt2": "てんぷらは揚げ物の一つです。",
+        "phrase_explain": "天妇罗是一种炸菜之一。",
+        "prompt3": "Tempura is one of the deep-fried dishes."
+    },
+    {
+        "word": "生け花",
+        "pron": "いけばな",
+        "definition": "花道，插花（～をします：插花）",
+        "prompt2": "彼女は生け花の教室に通っています。",
+        "phrase_explain": "她在插花教室学习。",
+        "prompt3": "She is studying in a flower arrangement class."
+    },
+    {
+        "word": "紅葉",
+        "pron": "もみじ",
+        "definition": "红叶（秋天的各种变色叶）",
+        "prompt2": "秋になると紅葉が綺麗です。",
+        "phrase_explain": "秋天的时候红叶很美。",
+        "prompt3": "The autumn leaves are beautiful."
+    },
+    {
+        "word": "どちらも",
+        "pron": "どちらも",
+        "definition": "二者都",
+        "prompt2": "どちらも美味しそうです。",
+        "phrase_explain": "两家看起来都很好吃。",
+        "prompt3": "Both of them look delicious."
+    },
+    {
+        "word": "ずっと",
+        "pron": "ずっと",
+        "definition": "～得多，～得很",
+        "prompt2": "彼はずっと勉強しています。",
+        "phrase_explain": "他一直在学习。",
+        "prompt3": "He has been studying."
+    },
+    {
+        "word": "初めて",
+        "pron": "はじめて",
+        "definition": "第一次",
+        "prompt2": "私は初めて日本に来ました。",
+        "phrase_explain": "这是我第一次来日本。",
+        "prompt3": "This is my first time coming to Japan."
+    },
+    {
+        "word": "遊びます",
+        "pron": "あそびます",
+        "definition": "玩，游乐",
+        "prompt2": "私たちは公園で遊びます。",
+        "phrase_explain": "我们在公园玩。",
+        "prompt3": "We are playing in the park."
+    },
+    {
+        "word": "泳ぎます",
+        "pron": "およぎます",
+        "definition": "游泳",
+        "prompt2": "彼はプールで泳ぎます。",
+        "phrase_explain": "他在游泳池游泳。",
+        "prompt3": "He is swimming in the pool."
+    },
+    {
+        "word": "迎えます",
+        "pron": "むかえます",
+        "definition": "迎接，欢迎",
+        "prompt2": "彼は空港で友達を迎えます。",
+        "phrase_explain": "他在机场接朋友。",
+        "prompt3": "He is picking up a friend at the airport."
+    },
+    {
+        "word": "疲れます",
+        "pron": "つかれます",
+        "definition": "疲累",
+        "prompt2": "長い旅行で疲れました。",
+        "phrase_explain": "长时间的旅行让我很累。",
+        "prompt3": "Long trips make me tired."
+    },
+    {
+        "word": "出します",
+        "pron": "だします",
+        "definition": "寄〔信〕［てがみを～］［手紙を～］",
+        "prompt2": "彼は手紙をポストに出しました。",
+        "phrase_explain": "他把信放进邮箱里。",
+        "prompt3": "He puts the letter into the mailbox."
+    },
+    {
+        "word": "はいります入ります",
+        "pron": "はいります入ります",
+        "definition": "进入〔咖啡馆〕［きっさてんに～］［喫茶店に～］",
+        "prompt2": "彼は家に入ります。",
+        "phrase_explain": "他走进了房间。",
+        "prompt3": "He walks into the room."
+    },
+    {
+        "word": "でます出ます",
+        "pron": "でます出ます",
+        "definition": "出〔咖啡馆〕［きっさてんを～］［喫茶店を～］",
+        "prompt2": "私は学校から出ます。",
+        "phrase_explain": "我离开学校。",
+        "prompt3": "I leave the school."
+    },
+    {
+        "word": "結婚します",
+        "pron": "けっこんします",
+        "definition": "结婚",
+        "prompt2": "彼女は来月結婚します。",
+        "phrase_explain": "她下个月要结婚。",
+        "prompt3": "She is getting married next month."
+    },
+    {
+        "word": "買い物します",
+        "pron": "かいものします",
+        "definition": "购物，买东西",
+        "prompt2": "私はスーパーに行って色々な食材を買いました。",
+        "phrase_explain": "我去了超市买了各种食材。",
+        "prompt3": "I went to the supermarket and bought various ingredients."
+    },
+    {
+        "word": "食事します",
+        "pron": "しょくじします",
+        "definition": "用餐，吃饭",
+        "prompt2": "友達と一緒に美味しい食事をしました。",
+        "phrase_explain": "我和朋友一起享受了美味的餐点。",
+        "prompt3": "I enjoyed a delicious meal with my friends."
+    },
+    {
+        "word": "散歩します",
+        "pron": "さんぽします",
+        "definition": "〔在公园〕散步",
+        "prompt2": "公園で散歩しながら美しい花を見つけました。",
+        "phrase_explain": "在公园散步的同时，我发现了美丽的花朵。",
+        "prompt3": "While taking a walk in the park, I discovered beautiful flowers."
+    },
+    {
+        "word": "大変［な］",
+        "pron": "たいへん［な］",
+        "definition": "重大〔的〕",
+        "prompt2": "昨日の嵐で家の屋根が大変なことになりました。",
+        "phrase_explain": "由于昨天的暴风雨，房顶出了很大的问题。",
+        "prompt3": "Due to yesterday's storm, the roof has a big problem."
+    },
+    {
+        "word": "欲しい",
+        "pron": "ほしい",
+        "definition": "想要（某事物）",
+        "prompt2": "新しいスマートフォンが欲しいです。",
+        "phrase_explain": "我想要一部新的智能手机。",
+        "prompt3": "I want a new smartphone."
+    },
+    {
+        "word": "寂しい",
+        "pron": "さびしい",
+        "definition": "孤独，寂寞",
+        "prompt2": "一人でいるとき、寂しい気持ちになります。",
+        "phrase_explain": "当我一个人时，会感到寂寞。",
+        "prompt3": "I feel lonely when I am alone."
+    },
+    {
+        "word": "広い",
+        "pron": "ひろい",
+        "definition": "宽广，广阔",
+        "prompt2": "広い部屋でゆったりとくつろぐことができます。",
+        "phrase_explain": "我可以在宽敞的房间里轻松地放松。",
+        "prompt3": "I can relax easily in a spacious room."
+    },
+    {
+        "word": "市役所",
+        "pron": "しやくしょ",
+        "definition": "市政府",
+        "prompt2": "新しい住所を登録するために市役所に行きました。",
+        "phrase_explain": "我去市政府注册了新地址。",
+        "prompt3": "I registered a new address at the city hall."
+    },
+    {
+        "word": "プール",
+        "pron": "プール",
+        "definition": "游泳池",
+        "prompt2": "暑い夏にはプールで涼みたいです。",
+        "phrase_explain": "在炎热的夏天，我想在泳池里消暑。",
+        "prompt3": "In the hot summer, I want to cool off in the swimming pool."
+    },
+    {
+        "word": "川",
+        "pron": "かわ",
+        "definition": "河川",
+        "prompt2": "川のそばでピクニックを楽しみました。",
+        "phrase_explain": "我在河边享受了野餐。",
+        "prompt3": "I enjoyed a picnic by the river."
+    },
+    {
+        "word": "経済",
+        "pron": "けいざい",
+        "definition": "经济",
+        "prompt2": "経済のニュースを読んで世界の動きを知ります。",
+        "phrase_explain": "通过阅读经济新闻，我了解世界的动态。",
+        "prompt3": "By reading economic news, I understand the world's trends."
+    },
+    {
+        "word": "美術",
+        "pron": "びじゅつ",
+        "definition": "美术",
+        "prompt2": "美術展に行って素晴らしい作品を見てきました。",
+        "phrase_explain": "我去参观了艺术展览，看到了一些精彩的作品。",
+        "prompt3": "I visited an art exhibition and saw some amazing works."
+    },
+    {
+        "word": "釣り",
+        "pron": "つり",
+        "definition": "钓鱼（～をします：钓魚）",
+        "prompt2": "友達と一緒に川で釣りを楽しみました。",
+        "phrase_explain": "我和朋友一起在河边钓鱼，玩得很开心。",
+        "prompt3": "I went fishing with my friends by the river and had a great time."
+    },
+    {
+        "word": "スキー",
+        "pron": "スキー",
+        "definition": "滑雪（～をします：滑雪）",
+        "prompt2": "冬にはスキー場で雪を楽しみます。",
+        "phrase_explain": "在冬天，我喜欢在滑雪场享受雪地乐趣。",
+        "prompt3": "In winter, I enjoy skiing in the snowfield."
+    },
+    {
+        "word": "会議",
+        "pron": "かいぎ",
+        "definition": "会议（～をします：开会）",
+        "prompt2": "重要な会議のために準備を始めました。",
+        "phrase_explain": "为了重要的会议，我开始做准备工作。",
+        "prompt3": "I started preparing for an important meeting."
+    },
+    {
+        "word": "登録",
+        "pron": "とうろく",
+        "definition": "登记（～をします：登记）",
+        "prompt2": "新しいアカウントを登録しました。",
+        "phrase_explain": "我注册了一个新账号。",
+        "prompt3": "I registered a new account."
+    },
+    {
+        "word": "週末",
+        "pron": "しゅうまつ",
+        "definition": "周末",
+        "prompt2": "週末にはゆっくり休息を取りたいです。",
+        "phrase_explain": "我希望周末能够好好休息。",
+        "prompt3": "I hope to have a good rest on the weekend."
+    },
+    {
+        "word": "～ごろ～",
+        "pron": "～ごろ～",
+        "definition": "左右（用于时间)",
+        "prompt2": "明日の午後ごろに来てください。",
+        "phrase_explain": "请在明天下午左右来。",
+        "prompt3": "Please come around tomorrow afternoon."
+    },
+    {
+        "word": "何か",
+        "pron": "なにか",
+        "definition": "某事物",
+        "prompt2": "何か特別な予定はありますか？",
+        "phrase_explain": "有什么特别的计划吗？",
+        "prompt3": "Do you have any special plans?"
+    },
+    {
+        "word": "どこか",
+        "pron": "どこか",
+        "definition": "某处，某场所",
+        "prompt2": "休みの日にどこかに出かけたいです。",
+        "phrase_explain": "我想在休息日去某个地方。",
+        "prompt3": "I want to go somewhere on my day off."
+    },
+    {
+        "word": "おなかがすきました。",
+        "pron": "おなかがすきました。",
+        "definition": "肚子饿了。",
+        "prompt2": "おなかがすいたので、美味しい食事をしましょう。",
+        "phrase_explain": "因为肚子饿了，我们来吃顿美味的饭吧。",
+        "prompt3": "Because we are hungry, let's have a delicious meal."
+    },
+    {
+        "word": "おなかがいっぱいです。",
+        "pron": "おなかがいっぱいです。",
+        "definition": "吃饱了。",
+        "prompt2": "たくさん食べたので、おなかがいっぱいです。",
+        "phrase_explain": "我吃了很多，所以肚子很饱。",
+        "prompt3": "I ate a lot, so I am full."
+    },
+    {
+        "word": "のどがかわきました。",
+        "pron": "のどがかわきました。",
+        "definition": "口渴了。",
+        "prompt2": "のどがかわいたので、水を飲みたいです。",
+        "phrase_explain": "因为口渴，我想喝水。",
+        "prompt3": "Because I am thirsty, I want to drink water."
+    },
+    {
+        "word": "そうしましょう。",
+        "pron": "そうしましょう。",
+        "definition": "就这么办吧（表示同意他人的意见）",
+        "prompt2": "それなら、そうしましょう。",
+        "phrase_explain": "那么，就这么办吧。",
+        "prompt3": "Well, let's do it this way."
+    },
+    {
+        "word": "つけます",
+        "pron": "つけます",
+        "definition": "打开（电灯、冷气等）",
+        "prompt2": "電気をつけて明るくしましょう。",
+        "phrase_explain": "让我们打开灯，让房间亮起来。",
+        "prompt3": "Let's turn on the light and make the room bright."
+    },
+    {
+        "word": "消します",
+        "pron": "けします",
+        "definition": "关掉（电灯、冷气等）",
+        "prompt2": "電気を消して省エネしましょう。",
+        "phrase_explain": "让我们关灯，节约能源。",
+        "prompt3": "Let's turn off the light and save energy."
+    },
+    {
+        "word": "開けます",
+        "pron": "あけます",
+        "definition": "打开（门、窗等）",
+        "prompt2": "窓を開けて新鮮な空気を入れましょう。",
+        "phrase_explain": "让我们打开窗户，让新鲜空气进来。",
+        "prompt3": "Let's open the window and let fresh air in."
+    },
+    {
+        "word": "閉めます",
+        "pron": "しめます",
+        "definition": "关闭（门、窗等）",
+        "prompt2": "ドアを閉めてプライバシーを守りましょう。",
+        "phrase_explain": "让我们关上门，保护隐私。",
+        "prompt3": "Let's close the door to protect privacy."
+    },
+    {
+        "word": "急ぎます",
+        "pron": "いそぎます",
+        "definition": "赶快，着急",
+        "prompt2": "バスに乗るために急ぎます。",
+        "phrase_explain": "我赶着去坐公交车。",
+        "prompt3": "I am hurrying to catch the bus."
+    },
+    {
+        "word": "待ちます",
+        "pron": "まちます",
+        "definition": "等",
+        "prompt2": "友達と待ち合わせ場所で待ちます。",
+        "phrase_explain": "我在约定地点等朋友。",
+        "prompt3": "I am waiting for a friend at the agreed location."
+    },
+    {
+        "word": "止めます",
+        "pron": "とめます",
+        "definition": "停止，停车",
+        "prompt2": "雨が降ってきたので、傘を止めましょう。",
+        "phrase_explain": "因为开始下雨了，我们撑起伞吧。",
+        "prompt3": "Because it started raining, let's open the umbrella."
+    },
+    {
+        "word": "曲がります",
+        "pron": "まがります",
+        "definition": "转向〔右边〕［みぎへ～］［右へ～］",
+        "prompt2": "次の角を右に曲がります。",
+        "phrase_explain": "在下个拐角向右转。",
+        "prompt3": "Turn right at the next corner."
+    },
+    {
+        "word": "持ちます",
+        "pron": "もちます",
+        "definition": "持有，携带",
+        "prompt2": "重い荷物を持っているので、手伝ってください。",
+        "phrase_explain": "因为拿着沉重的行李，所以请帮个忙。",
+        "prompt3": "Please help me because I am carrying heavy luggage."
+    },
+    {
+        "word": "取ります",
+        "pron": "とります",
+        "definition": "拿，持",
+        "prompt2": "本を取って読みましょう。",
+        "phrase_explain": "让我们拿起书来阅读。",
+        "prompt3": "Let's pick up a book and read."
+    },
+    {
+        "word": "手伝います",
+        "pron": "てつだいます",
+        "definition": "帮忙，帮助",
+        "prompt2": "友達の引っ越しを手伝います。",
+        "phrase_explain": "我帮助朋友搬家。",
+        "prompt3": "I help my friend move."
+    },
+    {
+        "word": "呼びます",
+        "pron": "よびます",
+        "definition": "呼叫，呼唤",
+        "prompt2": "彼女を電話で呼びます。",
+        "phrase_explain": "我会给她打电话。",
+        "prompt3": "I will call her."
+    },
+    {
+        "word": "話します",
+        "pron": "はなします",
+        "definition": "讲，说",
+        "prompt2": "日本語で会話をします。",
+        "phrase_explain": "我们用日语交谈。",
+        "prompt3": "We converse in Japanese."
+    },
+    {
+        "word": "見せます",
+        "pron": "みせます",
+        "definition": "出示，让人看",
+        "prompt2": "写真を見せてください。",
+        "phrase_explain": "请给我看照片。",
+        "prompt3": "Please show me the photos."
+    },
+    {
+        "word": "始めます",
+        "pron": "はじめます",
+        "definition": "开始",
+        "prompt2": "プロジェクトを始めましょう。",
+        "phrase_explain": "让我们开始项目。",
+        "prompt3": "Let's start the project."
+    },
+    {
+        "word": "降ります",
+        "pron": "ふります",
+        "definition": "下（雨）［あめが～］［雨が～］",
+        "prompt2": "バスから降ります。",
+        "phrase_explain": "我下了公共汽车。",
+        "prompt3": "I got off the bus."
+    },
+    {
+        "word": "コピーします",
+        "pron": "コピーします",
+        "definition": "影印",
+        "prompt2": "重要な書類をコピーします。",
+        "phrase_explain": "我要复印重要文件。",
+        "prompt3": "I need to make copies of important documents."
+    },
+    {
+        "word": "エアコン",
+        "pron": "エアコン",
+        "definition": "冷暖气机，空调机",
+        "prompt2": "暑い日にはエアコンを使います。",
+        "phrase_explain": "在炎热的日子里我会使用空调。",
+        "prompt3": "I will use the air conditioner on hot days."
+    },
+    {
+        "word": "パスポート",
+        "pron": "パスポート",
+        "definition": "护照",
+        "prompt2": "海外旅行に行くので、パスポートを準備しました。",
+        "phrase_explain": "我要去海外旅行，所以准备好了护照。",
+        "prompt3": "I am going to travel abroad, so I have prepared my passport."
+    },
+    {
+        "word": "名前",
+        "pron": "なまえ",
+        "definition": "名字，姓名",
+        "prompt2": "私の名前は山田です。",
+        "phrase_explain": "我的名字叫山田。",
+        "prompt3": "My name is Yamada."
+    },
+    {
+        "word": "住所",
+        "pron": "じゅうしょ",
+        "definition": "地址，住址",
+        "prompt2": "新しい住所を教えてください。",
+        "phrase_explain": "请告诉我新的住址。",
+        "prompt3": "Please tell me the new address."
+    },
+    {
+        "word": "地図",
+        "pron": "ちず",
+        "definition": "地图",
+        "prompt2": "地図を見ながら目的地に行きます。",
+        "phrase_explain": "我会看地图去目的地。",
+        "prompt3": "I will look at the map to get to the destination."
+    },
+    {
+        "word": "塩",
+        "pron": "しお",
+        "definition": "盐",
+        "prompt2": "料理に塩を少し加えます。",
+        "phrase_explain": "我会在菜里加一点盐。",
+        "prompt3": "I will add a bit of salt to the dish."
+    },
+    {
+        "word": "砂糖",
+        "pron": "さとう",
+        "definition": "砂糖",
+        "prompt2": "お茶に砂糖を入れます。",
+        "phrase_explain": "我会在茶里放糖。",
+        "prompt3": "I will put sugar in the tea."
+    },
+    {
+        "word": "読み方",
+        "pron": "よみかた",
+        "definition": "念法，读法",
+        "prompt2": "難しい漢字の読み方を覚えます。",
+        "phrase_explain": "我会记住难读的汉字的读音。",
+        "prompt3": "I will remember the pronunciation of difficult Chinese characters."
+    },
+    {
+        "word": "～方",
+        "pron": "～かた",
+        "definition": "～方式",
+        "prompt2": "料理の作り方を教えてください。",
+        "phrase_explain": "请告诉我烹饪的方法。",
+        "prompt3": "Please tell me the cooking method."
+    },
+    {
+        "word": "ゆっくり",
+        "pron": "ゆっくり",
+        "definition": "慢慢地",
+        "prompt2": "忙しい日常から離れてゆっくりと過ごしたいです。",
+        "phrase_explain": "我想摆脱繁忙的日常，慢慢度过。",
+        "prompt3": "I want to escape from the busy daily life and take it easy."
+    },
+    {
+        "word": "すぐ",
+        "pron": "すぐ",
+        "definition": "马上，立刻",
+        "prompt2": "すぐに返事をください。",
+        "phrase_explain": "请立即回复。",
+        "prompt3": "Please reply immediately."
+    },
+    {
+        "word": "また",
+        "pron": "また",
+        "definition": "再，又",
+        "prompt2": "また会いましょう。",
+        "phrase_explain": "再会。",
+        "prompt3": "Goodbye."
+    },
+    {
+        "word": "あとで",
+        "pron": "あとで",
+        "definition": "等一下，稍后",
+        "prompt2": "仕事が終わったら、あとで連絡します。",
+        "phrase_explain": "工作结束后，我会联系你。",
+        "prompt3": "I will contact you after work."
+    },
+    {
+        "word": "もう少し",
+        "pron": "もうすこし",
+        "definition": "再多一些",
+        "prompt2": "もう少し時間が必要です。",
+        "phrase_explain": "我还需要一点时间。",
+        "prompt3": "I still need some time."
+    },
+    {
+        "word": "もう～",
+        "pron": "もう～",
+        "definition": "再～，另外的～",
+        "prompt2": "もう寝ます。",
+        "phrase_explain": "我要睡觉了。",
+        "prompt3": "I'm going to sleep."
+    },
+    {
+        "word": "いいですよ。",
+        "pron": "いいですよ。",
+        "definition": "好呀。／可以呀。",
+        "prompt2": "その提案はいいですよ。",
+        "phrase_explain": "那个提案不错。",
+        "prompt3": "That proposal is good."
+    },
+    {
+        "word": "さあ",
+        "pron": "さあ",
+        "definition": "好啦（提议做某事时用）",
+        "prompt2": "さあ、始めましょう。",
+        "phrase_explain": "好了，开始吧。",
+        "prompt3": "Okay, let's start."
+    },
+    {
+        "word": "あれ？",
+        "pron": "あれ？",
+        "definition": "什么？（表示惊讶）",
+        "prompt2": "あれ？何か忘れている気がします。",
+        "phrase_explain": "嗯？感觉忘了什么。",
+        "prompt3": "Hmm? I feel like I forgot something."
+    },
+    {
+        "word": "立ちます",
+        "pron": "たちます",
+        "definition": "站，立",
+        "prompt2": "電車が来たので、立ち上がりました。",
+        "phrase_explain": "因为火车来了，我站了起来。",
+        "prompt3": "I stood up because the train arrived."
+    },
+    {
+        "word": "座ります",
+        "pron": "すわります",
+        "definition": "坐",
+        "prompt2": "疲れたので、ベンチに座ります。",
+        "phrase_explain": "我累了，坐在长椅上。",
+        "prompt3": "I'm tired, sitting on the bench."
+    },
+    {
+        "word": "使います",
+        "pron": "つかいます",
+        "definition": "使用，用",
+        "prompt2": "新しい携帯電話を使ってみたいです。",
+        "phrase_explain": "我想试用新手机。",
+        "prompt3": "I want to try out the new phone."
+    },
+    {
+        "word": "置きます",
+        "pron": "おきます",
+        "definition": "放置，摆放",
+        "prompt2": "鍵をテーブルに置いておきます。",
+        "phrase_explain": "我会把钥匙放在桌子上。",
+        "prompt3": "I will put the keys on the table."
+    },
+    {
+        "word": "作ります、造ります",
+        "pron": "つくります",
+        "definition": "做，制造",
+        "prompt2": "手作りのケーキを作ります。",
+        "phrase_explain": "我会做手工蛋糕。",
+        "prompt3": "I will make a homemade cake."
+    },
+    {
+        "word": "売ります",
+        "pron": "うります",
+        "definition": "卖，销售",
+        "prompt2": "不要な物をネットで売ります。",
+        "phrase_explain": "我会在网上卖掉不需要的物品。",
+        "prompt3": "I will sell unwanted items online."
+    },
+    {
+        "word": "知ります",
+        "pron": "しります",
+        "definition": "得知",
+        "prompt2": "友達が結婚したことを知りました。",
+        "phrase_explain": "我听说朋友结婚了。",
+        "prompt3": "I heard that my friend got married."
+    },
+    {
+        "word": "住みます",
+        "pron": "すみます",
+        "definition": "居住",
+        "prompt2": "新しいアパートに引っ越して住みます。",
+        "phrase_explain": "我会搬到新公寓住。",
+        "prompt3": "I will move to a new apartment."
+    },
+    {
+        "word": "研究します",
+        "pron": "けんきゅうします",
+        "definition": "研究",
+        "prompt2": "新しい技術を研究しています。",
+        "phrase_explain": "我正在研究新技术。",
+        "prompt3": "I am researching new technologies."
+    },
+    {
+        "word": "知っています",
+        "pron": "しっています",
+        "definition": "知道",
+        "prompt2": "その有名な映画を知っています。",
+        "phrase_explain": "我知道那个著名的电影。",
+        "prompt3": "I know that famous movie."
+    },
+    {
+        "word": "住んでいます",
+        "pron": "すんでいます",
+        "definition": "居住〔在大阪〕［おおさかに～］［大阪に～］",
+        "prompt2": "東京に住んでいます。",
+        "phrase_explain": "我住在东京。",
+        "prompt3": "I live in Tokyo."
+    },
+    {
+        "word": "資料",
+        "pron": "しりょう",
+        "definition": "资料",
+        "prompt2": "プレゼンテーションのために資料を作成しました。",
+        "phrase_explain": "我为演示准备了资料。",
+        "prompt3": "I prepared materials for the presentation."
+    },
+    {
+        "word": "カタログ",
+        "pron": "カタログ",
+        "definition": "产品目录",
+        "prompt2": "新しい商品のカタログを見ました。",
+        "phrase_explain": "我看了新商品的目录。",
+        "prompt3": "I looked at the catalog of new products."
+    },
+    {
+        "word": "時刻表",
+        "pron": "じこくひょう",
+        "definition": "时刻表",
+        "prompt2": "電車の時刻表を確認しました。",
+        "phrase_explain": "我确认了火车时刻表。",
+        "prompt3": "I checked the train schedule."
+    },
+    {
+        "word": "服",
+        "pron": "ふく",
+        "definition": "衣服",
+        "prompt2": "新しい服を買いたいです。",
+        "phrase_explain": "我想买新衣服。",
+        "prompt3": "I want to buy new clothes."
+    },
+    {
+        "word": "製品",
+        "pron": "せいひん",
+        "definition": "产品",
+        "prompt2": "新しい製品を開発しています。",
+        "phrase_explain": "我们正在开发新产品。",
+        "prompt3": "We are developing a new product."
+    },
+    {
+        "word": "ソフト",
+        "pron": "ソフト",
+        "definition": "柔软，软和；软件，程序",
+        "prompt2": "新しいソフトウェアをダウンロードしました。",
+        "phrase_explain": "我下载了新软件。",
+        "prompt3": "I downloaded new software."
+    },
+    {
+        "word": "専門",
+        "pron": "せんもん",
+        "definition": "专业，专长",
+        "prompt2": "私の専門はコンピューターサイエンスです。",
+        "phrase_explain": "我的专业是计算机科学。",
+        "prompt3": "My major is computer science."
+    },
+    {
+        "word": "歯医者",
+        "pron": "はいしゃ",
+        "definition": "牙科医生",
+        "prompt2": "歯が痛いので、歯医者に行きます。",
+        "phrase_explain": "因为牙疼，我要去看牙医。",
+        "prompt3": "Because of toothache, I need to see a dentist."
+    },
+    {
+        "word": "床屋",
+        "pron": "とこや",
+        "definition": "理发店，理发师",
+        "prompt2": "髪を切るために床屋に行きました。",
+        "phrase_explain": "我去了理发店剪头发。",
+        "prompt3": "I went to the hair salon to get a haircut."
+    },
+    {
+        "word": "プレイガイド",
+        "pron": "プレイガイド",
+        "definition": "（剧场等的）预售",
+        "prompt2": "コンサートのチケットをプレイガイドで買いました。",
+        "phrase_explain": "我在票务指南处买了音乐会的票。",
+        "prompt3": "I bought concert tickets at the ticket guide."
+    },
+    {
+        "word": "独身",
+        "pron": "どくしん",
+        "definition": "单身，未婚",
+        "prompt2": "まだ独身です。",
+        "phrase_explain": "我还是单身。",
+        "prompt3": "I am still single."
+    },
+    {
+        "word": "乗ります",
+        "pron": "のります",
+        "definition": "搭乘〔电车〕［でんしゃに～］［電車に～］",
+        "prompt2": "新幹線に乗って旅行します。",
+        "phrase_explain": "我要乘坐新干线去旅行。",
+        "prompt3": "I am going to travel by Shinkansen."
+    },
+    {
+        "word": "乗り換えます",
+        "pron": "のりかえます",
+        "definition": "换车",
+        "prompt2": "駅で電車を乗り換えます。",
+        "phrase_explain": "我要在车站换乘火车。",
+        "prompt3": "I will transfer trains at the station."
+    },
+    {
+        "word": "浴びます",
+        "pron": "あびます",
+        "definition": "冲〔淋浴〕［シャワーを～］",
+        "prompt2": "シャワーを浴びます。",
+        "phrase_explain": "我要洗淋浴。",
+        "prompt3": "I want to take a shower."
+    },
+    {
+        "word": "入れます",
+        "pron": "いれます",
+        "definition": "放入，放进",
+        "prompt2": "お湯を入れてお茶を淹れます。",
+        "phrase_explain": "我要烧水泡茶。",
+        "prompt3": "I want to boil water to make tea."
+    },
+    {
+        "word": "入ります",
+        "pron": "はいります",
+        "definition": "进入，上〔大学〕［だいがくに～］［大学に～］",
+        "prompt2": "彼は部屋に入ります。",
+        "phrase_explain": "他进入房间。",
+        "prompt3": "He entered the room."
+    },
+    {
+        "word": "出ます",
+        "pron": "でます",
+        "definition": "出，〔大学〕毕业",
+        "prompt2": "私は毎朝、家を出ます。",
+        "phrase_explain": "我每天早上离开家。",
+        "prompt3": "I leave home every morning."
+    },
+    {
+        "word": "やめます",
+        "pron": "やめます",
+        "definition": "〔职〕，停止，放弃［かいしゃを～］［会社を～］",
+        "prompt2": "彼は仕事をやめました。",
+        "phrase_explain": "他辞职了工作。",
+        "prompt3": "He quit his job."
+    },
+    {
+        "word": "押します",
+        "pron": "おします",
+        "definition": "推，按",
+        "prompt2": "彼はボタンを押しました。",
+        "phrase_explain": "他按下了按钮。",
+        "prompt3": "He pressed the button."
+    },
+    {
+        "word": "若い",
+        "pron": "わかい",
+        "definition": "年轻",
+        "prompt2": "彼女は若くて美しいです。",
+        "phrase_explain": "她年轻而美丽。",
+        "prompt3": "She is young and beautiful."
+    },
+    {
+        "word": "長い",
+        "pron": "ながい",
+        "definition": "长",
+        "prompt2": "その道はとても長いです。",
+        "phrase_explain": "那条路很长。",
+        "prompt3": "That road is long."
+    },
+    {
+        "word": "短い",
+        "pron": "みじかい",
+        "definition": "短",
+        "prompt2": "彼の髪は短いです。",
+        "phrase_explain": "他的头发很短。",
+        "prompt3": "His hair is short."
+    },
+    {
+        "word": "明るい",
+        "pron": "あかるい",
+        "definition": "明亮",
+        "prompt2": "部屋は明るくて暖かいです。",
+        "phrase_explain": "房间明亮而温暖。",
+        "prompt3": "The room is bright and warm."
+    },
+    {
+        "word": "暗い",
+        "pron": "くらい",
+        "definition": "昏暗",
+        "prompt2": "夜は暗くて怖いです。",
+        "phrase_explain": "夜晚很暗很可怕。",
+        "prompt3": "The night is dark and scary."
+    },
+    {
+        "word": "背が高い",
+        "pron": "せがたかい",
+        "definition": "个子高",
+        "prompt2": "彼は背が高くてスポーツが得意です。",
+        "phrase_explain": "他个子高，擅长运动。",
+        "prompt3": "He is tall and good at sports."
+    },
+    {
+        "word": "頭がいい",
+        "pron": "あたまがいい",
+        "definition": "头脑好，聪明",
+        "prompt2": "彼女は頭が良くて賢いです。",
+        "phrase_explain": "她聪明而聪明。",
+        "prompt3": "She is smart and intelligent."
+    },
+    {
+        "word": "体",
+        "pron": "からだ",
+        "definition": "身体",
+        "prompt2": "私は健康な体を持っています。",
+        "phrase_explain": "我有健康的身体。",
+        "prompt3": "I have a healthy body."
+    },
+    {
+        "word": "頭",
+        "pron": "あたま",
+        "definition": "头",
+        "prompt2": "彼は頭を使って問題を解決します。",
+        "phrase_explain": "他用脑子解决问题。",
+        "prompt3": "He solves problems using his brain."
+    },
+    {
+        "word": "髪",
+        "pron": "かみ",
+        "definition": "头发",
+        "prompt2": "彼女の髪は美しいです。",
+        "phrase_explain": "她的头发很美。",
+        "prompt3": "Her hair is beautiful."
+    },
+    {
+        "word": "顔",
+        "pron": "かお",
+        "definition": "脸",
+        "prompt2": "彼の顔は笑っています。",
+        "phrase_explain": "他的脸笑了。",
+        "prompt3": "His face smiled."
+    },
+    {
+        "word": "目",
+        "pron": "め",
+        "definition": "眼睛",
+        "prompt2": "私は目を閉じて深呼吸します。",
+        "phrase_explain": "我闭上眼睛深呼吸。",
+        "prompt3": "I closed my eyes and took a deep breath."
+    },
+    {
+        "word": "耳",
+        "pron": "みみ",
+        "definition": "耳朵",
+        "prompt2": "彼女は音楽を耳で聞きます。",
+        "phrase_explain": "她用耳朵听音乐。",
+        "prompt3": "She listens to music with her ears."
+    },
+    {
+        "word": "口",
+        "pron": "くち",
+        "definition": "嘴巴",
+        "prompt2": "私は歌を口で歌います。",
+        "phrase_explain": "我用嘴唱歌。",
+        "prompt3": "I sing with my mouth."
+    },
+    {
+        "word": "歯",
+        "pron": "は",
+        "definition": "牙齿",
+        "prompt2": "彼は歯を磨いています。",
+        "phrase_explain": "他在刷牙。",
+        "prompt3": "He is brushing his teeth."
+    },
+    {
+        "word": "おなか",
+        "pron": "おなか",
+        "definition": "肚子",
+        "prompt2": "私はおなかがすいています。",
+        "phrase_explain": "我饿了。",
+        "prompt3": "I am hungry."
+    },
+    {
+        "word": "足",
+        "pron": "あし",
+        "definition": "脚，腿",
+        "prompt2": "彼は早く走るために足を鍛えます。",
+        "phrase_explain": "他锻炼腿部以便跑得更快。",
+        "prompt3": "He exercises his legs to run faster."
+    },
+    {
+        "word": "サービス",
+        "pron": "サービス",
+        "definition": "服务",
+        "prompt2": "そのレストランのサービスは素晴らしいです。",
+        "phrase_explain": "那家餐厅的服务很好。",
+        "prompt3": "The service at that restaurant is good."
+    },
+    {
+        "word": "ジョギング",
+        "pron": "ジョギング",
+        "definition": "慢跑（～をします：慢跑）",
+        "prompt2": "私は毎朝ジョギングをします。",
+        "phrase_explain": "我每天早上慢跑。",
+        "prompt3": "I go jogging every morning."
+    },
+    {
+        "word": "シャワー",
+        "pron": "シャワー",
+        "definition": "淋浴",
+        "prompt2": "彼はシャワーを浴びてスッキリしました。",
+        "phrase_explain": "他洗了淋浴感觉很清爽。",
+        "prompt3": "He took a shower and felt refreshed."
+    },
+    {
+        "word": "緑",
+        "pron": "みどり",
+        "definition": "绿色，绿意",
+        "prompt2": "公園にはたくさんの緑があります。",
+        "phrase_explain": "公园里有很多绿色。",
+        "prompt3": "There is a lot of green in the park."
+    },
+    {
+        "word": "［お］寺",
+        "pron": "［お］てら",
+        "definition": "寺庙",
+        "prompt2": "私はお寺でお参りをします。",
+        "phrase_explain": "我去寺庙参拜。",
+        "prompt3": "I went to the temple to worship."
+    },
+    {
+        "word": "神社",
+        "pron": "じんじゃ",
+        "definition": "神社",
+        "prompt2": "彼らは神社で結婚式を挙げました。",
+        "phrase_explain": "他们在神社举办了婚礼。",
+        "prompt3": "They had their wedding ceremony at the shrine."
+    },
+    {
+        "word": "留学生",
+        "pron": "りゅうがくせい",
+        "definition": "留学生",
+        "prompt2": "彼はアメリカの大学で留学生です。",
+        "phrase_explain": "他是美国大学的留学生。",
+        "prompt3": "He is an international student at an American university."
+    },
+    {
+        "word": "…番",
+        "pron": "…ばん",
+        "definition": "…号",
+        "prompt2": "彼はテレビ番組の司会者です。",
+        "phrase_explain": "他是电视节目的主持人。",
+        "prompt3": "He is the host of a television program."
+    },
+    {
+        "word": "どうやって",
+        "pron": "どうやって",
+        "definition": "怎样，如何",
+        "prompt2": "あなたはどうやって日本語を勉強しましたか？",
+        "phrase_explain": "你是怎么学习日语的？",
+        "prompt3": "How did you learn Japanese?"
+    },
+    {
+        "word": "どの～",
+        "pron": "どの～",
+        "definition": "哪个～（用于三者或以上）",
+        "prompt2": "どの本を読みますか？",
+        "phrase_explain": "你要读哪本书？",
+        "prompt3": "Which book do you want to read?"
+    },
+    {
+        "word": "［いいえ、］まだまだです。",
+        "pron": "［いいえ、］まだまだです。",
+        "definition": "（不,〕还不行。还差得远。",
+        "prompt2": "彼はまだまだ上手ではありません。",
+        "phrase_explain": "他还不够熟练。",
+        "prompt3": "He is not proficient enough yet."
+    },
+    {
+        "word": "覚えます",
+        "pron": "おぼえます",
+        "definition": "记住",
+        "prompt2": "私は新しい言葉を覚えます。",
+        "phrase_explain": "我学习新词汇。",
+        "prompt3": "I study new vocabulary."
+    },
+    {
+        "word": "忘れます",
+        "pron": "わすれます",
+        "definition": "忘记",
+        "prompt2": "彼はパスワードを忘れました。",
+        "phrase_explain": "他忘记了密码。",
+        "prompt3": "He forgot the password."
+    },
+    {
+        "word": "なくします",
+        "pron": "なくします",
+        "definition": "遗失",
+        "prompt2": "私は財布をなくしました。",
+        "phrase_explain": "我把钱包弄丢了。",
+        "prompt3": "I accidentally lost my wallet."
+    },
+    {
+        "word": "払います",
+        "pron": "はらいます",
+        "definition": "支付，付款",
+        "prompt2": "私はレストランでお金を払います。",
+        "phrase_explain": "我在餐厅付钱。",
+        "prompt3": "I paid at the restaurant."
+    },
+    {
+        "word": "返します",
+        "pron": "かえします",
+        "definition": "归还，还",
+        "prompt2": "彼は本を図書館に返します。",
+        "phrase_explain": "他把书还给图书馆。",
+        "prompt3": "He returned the book to the library."
+    },
+    {
+        "word": "出かけます",
+        "pron": "でかけます",
+        "definition": "出门，外出",
+        "prompt2": "私たちは一緒に出かけます。",
+        "phrase_explain": "我们一起出去。",
+        "prompt3": "Let's go out together."
+    },
+    {
+        "word": "脱ぎます",
+        "pron": "ぬぎます",
+        "definition": "脱（衣服、鞋等）",
+        "prompt2": "彼女は靴を脱ぎます。",
+        "phrase_explain": "她脱鞋。",
+        "prompt3": "She takes off her shoes."
+    },
+    {
+        "word": "持って行きます",
+        "pron": "もっていきます",
+        "definition": "带（某物）去",
+        "prompt2": "私は友達にプレゼントを持って行きます。",
+        "phrase_explain": "我带礼物去给朋友。",
+        "prompt3": "I bring a gift for my friend."
+    },
+    {
+        "word": "持って来ます",
+        "pron": "もってきます",
+        "definition": "带（某物）来",
+        "prompt2": "彼は新しい本を持って来ました。",
+        "phrase_explain": "他带来了一本新书。",
+        "prompt3": "He brought a new book."
+    },
+    {
+        "word": "心配します",
+        "pron": "しんぱいします",
+        "definition": "担心",
+        "prompt2": "私は彼のことを心配します。",
+        "phrase_explain": "我为他担心。",
+        "prompt3": "I worry about him."
+    },
+    {
+        "word": "残業します",
+        "pron": "ざんぎょうします",
+        "definition": "加班",
+        "prompt2": "彼は毎日残業します。",
+        "phrase_explain": "他每天加班。",
+        "prompt3": "He works overtime every day."
+    },
+    {
+        "word": "出張します",
+        "pron": "しゅっちょうします",
+        "definition": "出差",
+        "prompt2": "彼は海外に出張します。",
+        "phrase_explain": "他出国出差。",
+        "prompt3": "He goes on a business trip abroad."
+    },
+    {
+        "word": "大切［な］",
+        "pron": "たいせつ［な］",
+        "definition": "重要的",
+        "prompt2": "家族はとても大切です。",
+        "phrase_explain": "家人非常重要。",
+        "prompt3": "Family is very important."
+    },
+    {
+        "word": "大丈夫［な］",
+        "pron": "だいじょうぶ［な］",
+        "definition": "放心，没关系的",
+        "prompt2": "彼は大丈夫ですか？",
+        "phrase_explain": "他没事吧？",
+        "prompt3": "Is he okay?"
+    },
+    {
+        "word": "危ない",
+        "pron": "あぶない",
+        "definition": "危险",
+        "prompt2": "その道は危ないので気をつけてください。",
+        "phrase_explain": "那条路很危险，请小心。",
+        "prompt3": "That road is dangerous, please be careful."
+    },
+    {
+        "word": "問題",
+        "pron": "もんだい",
+        "definition": "问题",
+        "prompt2": "私たちは問題を解決します。",
+        "phrase_explain": "我们解决问题。",
+        "prompt3": "We solve problems."
+    },
+    {
+        "word": "答え",
+        "pron": "こたえ",
+        "definition": "回答",
+        "prompt2": "彼女は質問に答えました。",
+        "phrase_explain": "她回答了问题。",
+        "prompt3": "She answered the question."
+    },
+    {
+        "word": "禁煙",
+        "pron": "きんえん",
+        "definition": "禁烟",
+        "prompt2": "この場所は禁煙です。",
+        "phrase_explain": "这个地方禁止吸烟。",
+        "prompt3": "Smoking is prohibited in this area."
+    },
+    {
+        "word": "［健康］保険証",
+        "pron": "［けんこう］ほけんしょう",
+        "definition": "健康保险证",
+        "prompt2": "私は健康保険証を持っています。",
+        "phrase_explain": "我有健康保险证明。",
+        "prompt3": "I have proof of health insurance."
+    },
+    {
+        "word": "かぜ",
+        "pron": "かぜ",
+        "definition": "感冒",
+        "prompt2": "彼は風邪を引いています。",
+        "phrase_explain": "他感冒了。",
+        "prompt3": "He caught a cold."
+    },
+    {
+        "word": "熱",
+        "pron": "ねつ",
+        "definition": "发烧",
+        "prompt2": "彼は熱を出しているようです。",
+        "phrase_explain": "他似乎发烧了。",
+        "prompt3": "He seems to have a fever."
+    },
+    {
+        "word": "病気",
+        "pron": "びょうき",
+        "definition": "病，生病",
+        "prompt2": "彼は病気で学校を休んでいます。",
+        "phrase_explain": "他因病请假。",
+        "prompt3": "He took a sick leave."
+    },
+    {
+        "word": "薬",
+        "pron": "くすり",
+        "definition": "药",
+        "prompt2": "医者は薬を処方しました。",
+        "phrase_explain": "医生开了药方。",
+        "prompt3": "The doctor prescribed medication."
+    },
+    {
+        "word": "［お］ふろ",
+        "pron": "［お］ふろ",
+        "definition": "洗澡",
+        "prompt2": "私はお風呂に入ります。",
+        "phrase_explain": "我去洗澡。",
+        "prompt3": "I'm going to take a shower."
+    },
+    {
+        "word": "上着",
+        "pron": "うわぎ",
+        "definition": "夹克，外套",
+        "prompt2": "彼は上着を着て外に出かけました。",
+        "phrase_explain": "他穿上外套出门了。",
+        "prompt3": "He put on a coat and went out."
+    },
+    {
+        "word": "下着",
+        "pron": "したぎ",
+        "definition": "內衣",
+        "prompt2": "彼女は下着を買いに行きました。",
+        "phrase_explain": "她去买内衣了。",
+        "prompt3": "She went to buy underwear."
+    },
+    {
+        "word": "2、3日",
+        "pron": "2、3にち",
+        "definition": "两三天",
+        "prompt2": "私は2、3日休みます。",
+        "phrase_explain": "我休息两三天。",
+        "prompt3": "I will rest for a couple of days."
+    },
+    {
+        "word": "2、3～",
+        "pron": "2、3～",
+        "definition": "二三～（用于不定数量的计算）",
+        "prompt2": "彼らは2、3人の友達を招待します。",
+        "phrase_explain": "他们邀请了两三个朋友。",
+        "prompt3": "They invited a few friends."
+    },
+    {
+        "word": "～までに",
+        "pron": "～までに",
+        "definition": "～在之前（表示时间的期限）",
+        "prompt2": "このレポートは明日までに提出してください。",
+        "phrase_explain": "请在明天之前提交这份报告。",
+        "prompt3": "Please submit this report before tomorrow."
+    },
+    {
+        "word": "ですから",
+        "pron": "ですから",
+        "definition": "所以，因此",
+        "prompt2": "天気が悪いですから、外出しない方がいいです。",
+        "phrase_explain": "天气不好，最好不要外出。",
+        "prompt3": "The weather is bad, it's best not to go out."
+    },
+    {
+        "word": "できます",
+        "pron": "できます",
+        "definition": "会，能够，可以",
+        "prompt2": "私は日本語が話せます。",
+        "phrase_explain": "我会说日语。",
+        "prompt3": "I can speak Japanese."
+    },
+    {
+        "word": "洗います",
+        "pron": "あらいます",
+        "definition": "洗",
+        "prompt2": "私は服を洗います。",
+        "phrase_explain": "我洗衣服。",
+        "prompt3": "I do the laundry."
+    },
+    {
+        "word": "弾きます",
+        "pron": "ひきます",
+        "definition": "弹（钢琴等）",
+        "prompt2": "彼はギターを弾きます。",
+        "phrase_explain": "他弹吉他。",
+        "prompt3": "He plays the guitar."
+    },
+    {
+        "word": "歌います",
+        "pron": "うたいます",
+        "definition": "唱",
+        "prompt2": "私はシャワーを浴びながら歌います。",
+        "phrase_explain": "我边洗澡边唱歌。",
+        "prompt3": "I sing while taking a shower."
+    },
+    {
+        "word": "集めます",
+        "pron": "あつめます",
+        "definition": "收集",
+        "prompt2": "彼は切手を集めます。",
+        "phrase_explain": "他收集邮票。",
+        "prompt3": "He collects stamps."
+    },
+    {
+        "word": "捨てます",
+        "pron": "すてます",
+        "definition": "丢掉，舍弃",
+        "prompt2": "私は古い服を捨てます。",
+        "phrase_explain": "我要扔掉旧衣服。",
+        "prompt3": "I want to throw away old clothes."
+    },
+    {
+        "word": "換えます",
+        "pron": "かえます",
+        "definition": "交换，变换",
+        "prompt2": "彼は電球を換えます。",
+        "phrase_explain": "他要换灯泡。",
+        "prompt3": "He wants to change the light bulb."
+    },
+    {
+        "word": "運転します",
+        "pron": "うんてんします",
+        "definition": "驾驶",
+        "prompt2": "私は車を運転します。",
+        "phrase_explain": "我会开车。",
+        "prompt3": "I can drive."
+    },
+    {
+        "word": "予約します",
+        "pron": "よやくします",
+        "definition": "预约",
+        "prompt2": "彼らはレストランを予約します。",
+        "phrase_explain": "他们要预订餐厅。",
+        "prompt3": "They want to make a restaurant reservation."
+    },
+    {
+        "word": "見学します",
+        "pron": "けんがくします",
+        "definition": "参观见习",
+        "prompt2": "私たちは博物館を見学します。",
+        "phrase_explain": "我们要参观博物馆。",
+        "prompt3": "We want to visit the museum."
+    },
+    {
+        "word": "ピアノ",
+        "pron": "ピアノ",
+        "definition": "钢琴",
+        "prompt2": "彼女はピアノを習っています。",
+        "phrase_explain": "她在学习弹钢琴。",
+        "prompt3": "She is learning to play the piano."
+    },
+    {
+        "word": "…メートル",
+        "pron": "…メートル",
+        "definition": "…公尺",
+        "prompt2": "この建物は高さ100メートルです。",
+        "phrase_explain": "这座建筑物高度100米。",
+        "prompt3": "This building is 100 meters tall."
+    },
+    {
+        "word": "国際～",
+        "pron": "こくさい～",
+        "definition": "国际～",
+        "prompt2": "彼は国際的なビジネスマンです。",
+        "phrase_explain": "他是国际商人。",
+        "prompt3": "He is an international businessman."
+    },
+    {
+        "word": "現金",
+        "pron": "げんきん",
+        "definition": "现金",
+        "prompt2": "私は現金で支払います。",
+        "phrase_explain": "我会用现金支付。",
+        "prompt3": "I will pay in cash."
+    },
+    {
+        "word": "趣味",
+        "pron": "しゅみ",
+        "definition": "爱好，嗜好",
+        "prompt2": "彼の趣味は釣りです。",
+        "phrase_explain": "他的爱好是钓鱼。",
+        "prompt3": "His hobby is fishing."
+    },
+    {
+        "word": "日記",
+        "pron": "にっき",
+        "definition": "日记",
+        "prompt2": "私は毎日日記を書きます。",
+        "phrase_explain": "我每天写日记。",
+        "prompt3": "I write a diary every day."
+    },
+    {
+        "word": "［お］祈り",
+        "pron": "［お］いのり",
+        "definition": "祈祷（～をします：祈祷）",
+        "prompt2": "彼らはお祈りを捧げました。",
+        "phrase_explain": "他们祈祷了。",
+        "prompt3": "They prayed."
+    },
+    {
+        "word": "課長",
+        "pron": "かちょう",
+        "definition": "课长，科长",
+        "prompt2": "彼は会社で課長です。",
+        "phrase_explain": "他在公司是科长。",
+        "prompt3": "He is the section chief in the company."
+    },
+    {
+        "word": "部長",
+        "pron": "ぶちょう",
+        "definition": "经理，部长",
+        "prompt2": "彼女は部長に昇進しました。",
+        "phrase_explain": "她升任为部长。",
+        "prompt3": "She was promoted to minister."
+    },
+    {
+        "word": "社長",
+        "pron": "しゃちょう",
+        "definition": "总经理，社长",
+        "prompt2": "彼は自分の会社の社長です。",
+        "phrase_explain": "他是自己公司的总裁。",
+        "prompt3": "He is the president of his own company."
+    },
+    {
+        "word": "登ります",
+        "pron": "のぼります",
+        "definition": "登，爬〔山〕［やまに～］［山に～］",
+        "prompt2": "私たちは山に登ります。",
+        "phrase_explain": "我们要爬山。",
+        "prompt3": "We want to go mountain climbing."
+    },
+    {
+        "word": "泊まります",
+        "pron": "とまります",
+        "definition": "住（饭店）［ホテルに～］",
+        "prompt2": "私はホテルに泊まります。",
+        "phrase_explain": "我会在酒店住宿。",
+        "prompt3": "I will stay at a hotel."
+    },
+    {
+        "word": "掃除します",
+        "pron": "そうじします",
+        "definition": "打扫",
+        "prompt2": "彼は部屋を掃除します。",
+        "phrase_explain": "他会打扫房间。",
+        "prompt3": "He will clean the room."
+    },
+    {
+        "word": "洗濯します",
+        "pron": "せんたくします",
+        "definition": "洗衣服",
+        "prompt2": "私は洗濯物を干します。",
+        "phrase_explain": "我会晾晒衣物。",
+        "prompt3": "I will hang the clothes to dry."
+    },
+    {
+        "word": "練習します",
+        "pron": "れんしゅうします",
+        "definition": "练习",
+        "prompt2": "彼は毎日ピアノの練習をします。",
+        "phrase_explain": "他每天练习钢琴。",
+        "prompt3": "He practices the piano every day."
+    },
+    {
+        "word": "なります",
+        "pron": "なります",
+        "definition": "成为",
+        "prompt2": "私は花屋で働いています。",
+        "phrase_explain": "我在花店工作。",
+        "prompt3": "I work at a flower shop."
+    },
+    {
+        "word": "眠い",
+        "pron": "ねむい",
+        "definition": "想睡，困",
+        "prompt2": "昨夜は寝不足で眠いです。",
+        "phrase_explain": "昨晚没睡够，很困。",
+        "prompt3": "I didn't get enough sleep last night and I am very tired."
+    },
+    {
+        "word": "強い",
+        "pron": "つよい",
+        "definition": "强",
+        "prompt2": "彼はとても強い選手です。",
+        "phrase_explain": "他是非常强的运动员。",
+        "prompt3": "He is a very strong athlete."
+    },
+    {
+        "word": "弱い",
+        "pron": "よわい",
+        "definition": "弱",
+        "prompt2": "彼女は体が弱く、よく風邪を引きます。",
+        "phrase_explain": "她身体很弱，经常感冒。",
+        "prompt3": "She has a weak body and often catches a cold."
+    },
+    {
+        "word": "調子がいい",
+        "pron": "ちょうしがいい",
+        "definition": "情況好",
+        "prompt2": "最近、私の調子がいいです。仕事も順調です。",
+        "phrase_explain": "最近我感觉很好，工作也顺利。",
+        "prompt3": "Lately, I feel good and work is going smoothly."
+    },
+    {
+        "word": "調子が悪い",
+        "pron": "ちょうしがわるい",
+        "definition": "情況差",
+        "prompt2": "今日は調子が悪くて集中できません。",
+        "phrase_explain": "今天状态不好，无法集中。",
+        "prompt3": "I am not feeling well today and cannot concentrate."
+    },
+    {
+        "word": "調子",
+        "pron": "ちょうし",
+        "definition": "情况，状态",
+        "prompt2": "彼の調子がいいときは、いつも笑顔です。",
+        "phrase_explain": "他状态好的时候总是笑容满面。",
+        "prompt3": "He always has a smile on his face when he is in a good mood."
+    },
+    {
+        "word": "ゴルフ",
+        "pron": "ゴルフ",
+        "definition": "高尔夫球（～をします：打高尔夫球）",
+        "prompt2": "週末は友達とゴルフに行きます。",
+        "phrase_explain": "周末我会和朋友一起去打高尔夫。",
+        "prompt3": "I will play golf with friends on the weekend."
+    },
+    {
+        "word": "相撲",
+        "pron": "すもう",
+        "definition": "相扑",
+        "prompt2": "相撲は日本の伝統的なスポーツです。",
+        "phrase_explain": "相扑是日本的传统运动。",
+        "prompt3": "Sumo wrestling is a traditional sport in Japan."
+    },
+    {
+        "word": "パチンコ",
+        "pron": "パチンコ",
+        "definition": "小钢珠（～をします：打小钢珠）",
+        "prompt2": "日本ではパチンコが人気のあるギャンブルです。",
+        "phrase_explain": "在日本，弹珠游戏非常受欢迎。",
+        "prompt3": "Marble games are very popular in Japan."
+    },
+    {
+        "word": "日",
+        "pron": "ひ",
+        "definition": "日，日子",
+        "prompt2": "日本の国旗は白地に赤い日の丸です。",
+        "phrase_explain": "日本的国旗是白底红圆。",
+        "prompt3": "The flag of Japan is a white background with a red circle."
+    },
+    {
+        "word": "一度",
+        "pron": "いちど",
+        "definition": "一次",
+        "prompt2": "一度行ったことのある場所に再び行きたいです。",
+        "phrase_explain": "我想再次去曾经去过的地方。",
+        "prompt3": "I want to go back to the places I have been before."
+    },
+    {
+        "word": "一度も",
+        "pron": "いちども",
+        "definition": "连一次也（表否定）",
+        "prompt2": "彼は一度も遅刻したことがありません。",
+        "phrase_explain": "他从未迟到过。",
+        "prompt3": "He has never been late."
+    },
+    {
+        "word": "だんだん",
+        "pron": "だんだん",
+        "definition": "逐渐",
+        "prompt2": "だんだん日が暮れてきて、寒くなってきました。",
+        "phrase_explain": "太阳渐渐落下，天气变冷。",
+        "prompt3": "The sun is gradually setting and the weather is getting colder."
+    },
+    {
+        "word": "もうすぐ",
+        "pron": "もうすぐ",
+        "definition": "马上",
+        "prompt2": "もうすぐ夏休みが始まります。",
+        "phrase_explain": "暑假即将开始。",
+        "prompt3": "The summer vacation is about to begin."
+    },
+    {
+        "word": "おかげさまで",
+        "pron": "おかげさまで",
+        "definition": "托您的福（略带感谢意思的客气说法）",
+        "prompt2": "おかげさまで、元気に過ごしています。",
+        "phrase_explain": "多亏了您的关心，我过得很好。",
+        "prompt3": "Thanks to your concern, I am doing well."
+    },
+    {
+        "word": "要ります",
+        "pron": "いります",
+        "definition": "要，需要〔签证〕［ビザが～］",
+        "prompt2": "この仕事には経験が要ります。",
+        "phrase_explain": "这份工作需要经验。",
+        "prompt3": "This job requires experience."
+    },
+    {
+        "word": "調べます",
+        "pron": "しらべます",
+        "definition": "调查",
+        "prompt2": "インターネットで情報を調べます。",
+        "phrase_explain": "我会在互联网上查找信息。",
+        "prompt3": "I will search for information on the internet."
+    },
+    {
+        "word": "直します",
+        "pron": "なおします",
+        "definition": "修理，改正",
+        "prompt2": "故障した機械を直します。",
+        "phrase_explain": "我会修理坏了的机器。",
+        "prompt3": "I can repair broken machines."
+    },
+    {
+        "word": "修理します",
+        "pron": "しゅうりします",
+        "definition": "修理",
+        "prompt2": "家の壁を修理する必要があります。",
+        "phrase_explain": "家里的墙壁需要修理。",
+        "prompt3": "The walls at home need to be repaired."
+    },
+    {
+        "word": "電話します",
+        "pron": "でんわします",
+        "definition": "打电话",
+        "prompt2": "友達に電話して予定を確認しましょう。",
+        "phrase_explain": "给朋友打电话确认计划。",
+        "prompt3": "Call a friend to confirm the plans."
+    },
+    {
+        "word": "僕",
+        "pron": "ぼく",
+        "definition": "我（男性用语，不如わたし礼貌）",
+        "prompt2": "僕は学生です。",
+        "phrase_explain": "我是学生。",
+        "prompt3": "I am a student."
+    },
+    {
+        "word": "君",
+        "pron": "きみ",
+        "definition": "你（男性对晚辈或同辈用，不如あなた礼貌）",
+        "prompt2": "君は何をしていますか？",
+        "phrase_explain": "你在做什么？",
+        "prompt3": "What are you doing?"
+    },
+    {
+        "word": "うん",
+        "pron": "うん",
+        "definition": "对（不如はい礼貌）",
+        "prompt2": "うん、わかりました。",
+        "phrase_explain": "嗯，我明白了。",
+        "prompt3": "Hmm, I understand."
+    },
+    {
+        "word": "ううん",
+        "pron": "ううん",
+        "definition": "不对（不如いいえ礼貌）",
+        "prompt2": "ううん、ちょっと違うと思います。",
+        "phrase_explain": "嗯，我觉得有点不同。",
+        "prompt3": "Hmm, I feel a bit different."
+    },
+    {
+        "word": "サラリーマン",
+        "pron": "サラリーマン",
+        "definition": "薪水阶级，上班族",
+        "prompt2": "彼はサラリーマンで忙しい日々を送っています。",
+        "phrase_explain": "他是个上班族，过着忙碌的日子。",
+        "prompt3": "He is an office worker leading a busy life."
+    },
+    {
+        "word": "ことば",
+        "pron": "ことば",
+        "definition": "单字，语言",
+        "prompt2": "言葉は人と人を繋げる大切なものです。",
+        "phrase_explain": "语言是连接人与人的重要的东西。",
+        "prompt3": "Language is an important thing that connects people."
+    },
+    {
+        "word": "物価",
+        "pron": "ぶっか",
+        "definition": "物价",
+        "prompt2": "最近の物価の上昇が心配です。",
+        "phrase_explain": "最近物价上涨让人担心。",
+        "prompt3": "Recent price increases are worrying."
+    },
+    {
+        "word": "着物",
+        "pron": "きもの",
+        "definition": "和服（传统的日本服装）",
+        "prompt2": "日本の伝統的な着物は美しいです。",
+        "phrase_explain": "日本的传统服装很美。",
+        "prompt3": "Traditional Japanese clothing is beautiful."
+    },
+    {
+        "word": "ビザ",
+        "pron": "ビザ",
+        "definition": "签证",
+        "prompt2": "日本に留学するためにはビザが必要です。",
+        "phrase_explain": "为了留学日本，需要签证。",
+        "prompt3": "A visa is required to study in Japan."
+    },
+    {
+        "word": "初め",
+        "pron": "はじめ",
+        "definition": "开始",
+        "prompt2": "初めは緊張しましたが、だんだん慣れてきました。",
+        "phrase_explain": "一开始很紧张，但逐渐适应了。",
+        "prompt3": "I was nervous at first, but gradually adapted."
+    },
+    {
+        "word": "終わり",
+        "pron": "おわり",
+        "definition": "结束",
+        "prompt2": "長い旅行の終わりには帰りたくなります。",
+        "phrase_explain": "长时间旅行结束时会想要回家。",
+        "prompt3": "After a long journey, I want to go home."
+    },
+    {
+        "word": "こっち",
+        "pron": "こっち",
+        "definition": "这边（不如こちら礼貌）",
+        "prompt2": "こっちに来てください。",
+        "phrase_explain": "请过来这边。",
+        "prompt3": "Please come over here."
+    },
+    {
+        "word": "そっち",
+        "pron": "そっち",
+        "definition": "那边（不如そちら礼貌）",
+        "prompt2": "そっちに行く予定です。",
+        "phrase_explain": "计划去那边。",
+        "prompt3": "I plan to go there."
+    },
+    {
+        "word": "あっち",
+        "pron": "あっち",
+        "definition": "那边（不如あちら礼貌）",
+        "prompt2": "あっちに何か見えますか？",
+        "phrase_explain": "那边有什么可见吗？",
+        "prompt3": "What can be seen over there?"
+    },
+    {
+        "word": "どっち",
+        "pron": "どっち",
+        "definition": "哪边（不如どちら礼貌）",
+        "prompt2": "どっちの道を選びますか？",
+        "phrase_explain": "你会选择哪条路？",
+        "prompt3": "Which road will you choose?"
+    },
+    {
+        "word": "この間",
+        "pron": "このあいだ",
+        "definition": "日前，前些天",
+        "prompt2": "この間、友達と映画を観に行きました。",
+        "phrase_explain": "最近和朋友去看了电影。",
+        "prompt3": "I recently went to see a movie with a friend."
+    },
+    {
+        "word": "みんなで",
+        "pron": "みんなで",
+        "definition": "大家一起",
+        "prompt2": "みんなで楽しく遊びましょう。",
+        "phrase_explain": "让我们大家一起开心地玩吧。",
+        "prompt3": "Let's all play happily together."
+    },
+    {
+        "word": "～けど",
+        "pron": "～けど",
+        "definition": "但是（不如が正式）",
+        "prompt2": "忙しいけど、頑張ります。",
+        "phrase_explain": "虽然很忙，但我会努力。",
+        "prompt3": "Although busy, I will try my best."
+    },
+    {
+        "word": "思います",
+        "pron": "おもいます",
+        "definition": "想，认为，觉得",
+        "prompt2": "彼女のことをいつも思っています。",
+        "phrase_explain": "我一直在想着她。",
+        "prompt3": "I have been thinking about her."
+    },
+    {
+        "word": "言います",
+        "pron": "いいます",
+        "definition": "说",
+        "prompt2": "ありがとうと言ってみましょう。",
+        "phrase_explain": "试着说声谢谢。",
+        "prompt3": "Try saying thank you."
+    },
+    {
+        "word": "足ります",
+        "pron": "たります",
+        "definition": "足够",
+        "prompt2": "この量は足りますか？",
+        "phrase_explain": "这个数量够吗？",
+        "prompt3": "Is this quantity enough?"
+    },
+    {
+        "word": "勝ちます",
+        "pron": "かちます",
+        "definition": "赢，得胜",
+        "prompt2": "彼は頑張って試合に勝ちました。",
+        "phrase_explain": "他努力赢得了比赛。",
+        "prompt3": "He worked hard to win the game."
+    },
+    {
+        "word": "負けます",
+        "pron": "まけます",
+        "definition": "输，落败",
+        "prompt2": "残念ながら、試合に負けました。",
+        "phrase_explain": "可惜，输掉了比赛。",
+        "prompt3": "Unfortunately, he lost the game."
+    },
+    {
+        "word": "役に立ちます",
+        "pron": "やくにたちます",
+        "definition": "有用，起作用",
+        "prompt2": "この本は役に立ちます。",
+        "phrase_explain": "这本书很有用。",
+        "prompt3": "This book is very useful."
+    },
+    {
+        "word": "むだ［な］",
+        "pron": "むだ［な］",
+        "definition": "沒用〔的〕",
+        "prompt2": "時間を無駄にしないようにしましょう。",
+        "phrase_explain": "让我们不要浪费时间。",
+        "prompt3": "Let's not waste time."
+    },
+    {
+        "word": "不便［な］",
+        "pron": "ふべん［な］",
+        "definition": "不便〔的〕",
+        "prompt2": "駅から家までの交通が不便です。",
+        "phrase_explain": "从车站到家的交通不便。",
+        "prompt3": "The transportation from the station to home is inconvenient."
+    },
+    {
+        "word": "同じ",
+        "pron": "おなじ",
+        "definition": "相同，一样",
+        "prompt2": "私たちは同じ学校に通っています。",
+        "phrase_explain": "我们上的是同一所学校。",
+        "prompt3": "We go to the same school."
+    },
+    {
+        "word": "すごい",
+        "pron": "すごい",
+        "definition": "厉害（的）（有褒或贬的意思）",
+        "prompt2": "彼のピアノの腕前はすごいです。",
+        "phrase_explain": "他的钢琴技术很厉害。",
+        "prompt3": "His piano skills are impressive."
+    },
+    {
+        "word": "首相",
+        "pron": "しゅしょう",
+        "definition": "总理，首相",
+        "prompt2": "日本の首相は政治のトップです。",
+        "phrase_explain": "日本的首相是政治的顶头上司。",
+        "prompt3": "The Prime Minister of Japan is the political superior."
+    },
+    {
+        "word": "大統領",
+        "pron": "だいとうりょう",
+        "definition": "总统",
+        "prompt2": "アメリカの大統領選挙が注目されています。",
+        "phrase_explain": "美国的总统选举备受关注。",
+        "prompt3": "The presidential elections in the United States are highly regarded."
+    },
+    {
+        "word": "政治",
+        "pron": "せいじ",
+        "definition": "政治",
+        "prompt2": "政治に興味がありますか？",
+        "phrase_explain": "你对政治感兴趣吗？",
+        "prompt3": "Are you interested in politics?"
+    },
+    {
+        "word": "ニュース",
+        "pron": "ニュース",
+        "definition": "新闻",
+        "prompt2": "最新のニュースを教えてください。",
+        "phrase_explain": "请告诉我最新的新闻。",
+        "prompt3": "Please tell me the latest news."
+    },
+    {
+        "word": "スピーチ",
+        "pron": "スピーチ",
+        "definition": "演讲（～をします：进行演讲）",
+        "prompt2": "彼は感動的なスピーチをしました。",
+        "phrase_explain": "他发表了感人的演讲。",
+        "prompt3": "He gave an inspiring speech."
+    },
+    {
+        "word": "試合",
+        "pron": "しあい",
+        "definition": "比赛",
+        "prompt2": "明日は大切な試合があります。",
+        "phrase_explain": "明天有一场重要的比赛。",
+        "prompt3": "There is an important match tomorrow."
+    },
+    {
+        "word": "アルバイト",
+        "pron": "アルバイト",
+        "definition": "打工（～をします：打工）",
+        "prompt2": "学生時代、アルバイトでお金を稼ぎました。",
+        "phrase_explain": "在我学生时代，通过打工赚钱。",
+        "prompt3": "During my student days, I earned money by working part-time."
+    },
+    {
+        "word": "意見",
+        "pron": "いけん",
+        "definition": "意见",
+        "prompt2": "あなたの意見を聞かせてください。",
+        "phrase_explain": "请告诉我你的意见。",
+        "prompt3": "Please tell me your opinion."
+    },
+    {
+        "word": "［お］話",
+        "pron": "［お］はなし",
+        "definition": "讲话，演讲，故事",
+        "prompt2": "面白いお話を教えてください。",
+        "phrase_explain": "请给我讲个有趣的故事。",
+        "prompt3": "Please tell me an interesting story."
+    },
+    {
+        "word": "ユーモア",
+        "pron": "ユーモア",
+        "definition": "幽默",
+        "prompt2": "彼のユーモアのセンスは抜群です。",
+        "phrase_explain": "他的幽默感非常出色。",
+        "prompt3": "His sense of humor is excellent."
+    },
+    {
+        "word": "むだ",
+        "pron": "むだ",
+        "definition": "浪费",
+        "prompt2": "この仕事はむだな時間と労力です。",
+        "phrase_explain": "这份工作是浪费时间和精力的。",
+        "prompt3": "This job is a waste of time and energy."
+    },
+    {
+        "word": "デザイン",
+        "pron": "デザイン",
+        "definition": "设计",
+        "prompt2": "この家のデザインが素晴らしいです。",
+        "phrase_explain": "这个房子的设计非常出色。",
+        "prompt3": "The design of this house is excellent."
+    },
+    {
+        "word": "交通",
+        "pron": "こうつう",
+        "definition": "交通",
+        "prompt2": "交通渋滞には注意が必要です。",
+        "phrase_explain": "需要注意交通堵塞。",
+        "prompt3": "Traffic congestion should be paid attention to."
+    },
+    {
+        "word": "ラッシュ",
+        "pron": "ラッシュ",
+        "definition": "交通巅峰时间",
+        "prompt2": "ラッシュ時には電車が混雑します。",
+        "phrase_explain": "在高峰时期，电车会非常拥挤。",
+        "prompt3": "Trams will be very crowded during peak hours."
+    },
+    {
+        "word": "最近",
+        "pron": "さいきん",
+        "definition": "最近",
+        "prompt2": "最近、天気が良くなってきました。",
+        "phrase_explain": "最近天气变好了。",
+        "prompt3": "The weather has improved recently."
+    },
+    {
+        "word": "たぶん",
+        "pron": "たぶん",
+        "definition": "大概，可能",
+        "prompt2": "たぶん明日は雨が降るでしょう。",
+        "phrase_explain": "明天可能会下雨。",
+        "prompt3": "It may rain tomorrow."
+    },
+    {
+        "word": "きっと",
+        "pron": "きっと",
+        "definition": "一定",
+        "prompt2": "彼はきっと成功するでしょう。",
+        "phrase_explain": "他一定会成功的。",
+        "prompt3": "He will definitely succeed."
+    },
+    {
+        "word": "ほんとうに",
+        "pron": "ほんとうに",
+        "definition": "真的，的确",
+        "prompt2": "ほんとうにありがとう！",
+        "phrase_explain": "非常感谢！",
+        "prompt3": "Thank you very much!"
+    },
+    {
+        "word": "そんなに",
+        "pron": "そんなに",
+        "definition": "并不（用于否定）",
+        "prompt2": "そんなに簡単にはできません。",
+        "phrase_explain": "不可能那么容易。",
+        "prompt3": "It's not that easy."
+    },
+    {
+        "word": "～について",
+        "pron": "～について",
+        "definition": "关于～",
+        "prompt2": "その問題について話し合いましょう。",
+        "phrase_explain": "让我们讨论一下这个问题。",
+        "prompt3": "Let's discuss this issue."
+    },
+    {
+        "word": "しかたがありません。",
+        "pron": "しかたがありません。",
+        "definition": "没办法",
+        "prompt2": "雨が降ってしまったので、仕方がありません。",
+        "phrase_explain": "因为下雨了，没办法。",
+        "prompt3": "Because it's raining, there's no way."
+    },
+    {
+        "word": "着ます",
+        "pron": "きます",
+        "definition": "穿（衬衫等）［シャツを～］",
+        "prompt2": "冬にはコートを着ます。",
+        "phrase_explain": "冬天穿外套。",
+        "prompt3": "Wear a coat in winter."
+    },
+    {
+        "word": "はきます",
+        "pron": "はきます",
+        "definition": "穿〔鞋，裤子〕［くつを～］［靴を～］",
+        "prompt2": "学校では制服のスーツをはきます。",
+        "phrase_explain": "在学校穿制服套装。",
+        "prompt3": "Wear a school uniform."
+    },
+    {
+        "word": "かぶります",
+        "pron": "かぶります",
+        "definition": "戴〔帽子等〕［ぼうしを～］［帽子を～］",
+        "prompt2": "夏には帽子をかぶります。",
+        "phrase_explain": "夏天戴帽子。",
+        "prompt3": "Wear a hat in summer."
+    },
+    {
+        "word": "生まれます",
+        "pron": "うまれます",
+        "definition": "出生",
+        "prompt2": "私は日本で生まれました。",
+        "phrase_explain": "我在日本出生。",
+        "prompt3": "I was born in Japan."
+    },
+    {
+        "word": "コート",
+        "pron": "コート",
+        "definition": "大衣，外套",
+        "prompt2": "寒い日にはコートが必要です。",
+        "phrase_explain": "寒冷的日子需要外套。",
+        "prompt3": "A coat is needed on cold days."
+    },
+    {
+        "word": "スーツ",
+        "pron": "スーツ",
+        "definition": "西裝",
+        "prompt2": "ビジネスシーンではスーツが必要です。",
+        "phrase_explain": "在商务场合需要穿西装。",
+        "prompt3": "Wear a suit on formal occasions."
+    },
+    {
+        "word": "セーター",
+        "pron": "セーター",
+        "definition": "毛衣",
+        "prompt2": "冬にはセーターを着ます。",
+        "phrase_explain": "冬天穿毛衣。",
+        "prompt3": "Wear a sweater in winter."
+    },
+    {
+        "word": "帽子",
+        "pron": "ぼうし",
+        "definition": "帽子",
+        "prompt2": "夏には帽子をかぶります。",
+        "phrase_explain": "夏天戴帽子。",
+        "prompt3": "Wear a hat in summer."
+    },
+    {
+        "word": "眼鏡",
+        "pron": "めがね",
+        "definition": "眼镜",
+        "prompt2": "視力が悪いので眼鏡をかけています。",
+        "phrase_explain": "因为视力不好所以戴眼镜。",
+        "prompt3": "Wear glasses because of poor eyesight."
+    },
+    {
+        "word": "おめでとうございます。",
+        "pron": "おめでとうございます。",
+        "definition": "恭喜。（用于生日，婚礼，新年等时）",
+        "prompt2": "おめでとうございます！お祝いします。",
+        "phrase_explain": "恭喜！祝贺你。",
+        "prompt3": "Congratulations! I congratulate you."
+    },
+    {
+        "word": "回します",
+        "pron": "まわします",
+        "definition": "转动",
+        "prompt2": "鍵を時計回りに回してください。",
+        "phrase_explain": "请顺时针转动钥匙。",
+        "prompt3": "Please turn the key clockwise."
+    },
+    {
+        "word": "引きます",
+        "pron": "ひきます",
+        "definition": "拉",
+        "prompt2": "引き出しを開けて中身を確認します。",
+        "phrase_explain": "打开抽屉并确认里面的内容。",
+        "prompt3": "Open the drawer and confirm its contents."
+    },
+    {
+        "word": "変えます",
+        "pron": "かえます",
+        "definition": "改变，换",
+        "prompt2": "テレビのチャンネルを変えてください。",
+        "phrase_explain": "请换电视频道。",
+        "prompt3": "Please change the TV channel."
+    },
+    {
+        "word": "触ります",
+        "pron": "さわります",
+        "definition": "摸，碰触〔门〕［ドアに～］",
+        "prompt2": "犬に触ってみたいです。",
+        "phrase_explain": "我想摸一下狗。",
+        "prompt3": "I want to touch the dog."
+    },
+    {
+        "word": "動きます",
+        "pron": "うごきます",
+        "definition": "（钟表）转动［とけいが～］［時計が～］",
+        "prompt2": "犬が庭で動きます。",
+        "phrase_explain": "狗在院子里移动。",
+        "prompt3": "The dog is moving in the yard."
+    },
+    {
+        "word": "歩きます",
+        "pron": "あるきます",
+        "definition": "走〔路〕［みちを～］［道を～］",
+        "prompt2": "毎朝、公園で歩きます。",
+        "phrase_explain": "每天早上在公园散步。",
+        "prompt3": "Take a walk in the park every morning."
+    },
+    {
+        "word": "渡ります",
+        "pron": "わたります",
+        "definition": "过（桥）［はしを～］［橋を～］",
+        "prompt2": "川を渡ります。",
+        "phrase_explain": "过河。",
+        "prompt3": "Cross the river."
+    },
+    {
+        "word": "気をつけます",
+        "pron": "きをつけます",
+        "definition": "小心〔车辆〕，注意〔车辆〕［くるまに～］［車に～］",
+        "prompt2": "道路を渡る時、気をつけます。",
+        "phrase_explain": "过马路时要小心。",
+        "prompt3": "Be careful when crossing the road."
+    },
+    {
+        "word": "引っ越しします",
+        "pron": "ひっこしします",
+        "definition": "搬家",
+        "prompt2": "友達と一緒に新しい家に引っ越しします。",
+        "phrase_explain": "和朋友一起搬到新家。",
+        "prompt3": "Move to a new house with friends."
+    },
+    {
+        "word": "電気屋",
+        "pron": "でんきや",
+        "definition": "电器行",
+        "prompt2": "新しいテレビを買うために電気屋に行きます。",
+        "phrase_explain": "为了买新电视去电器店。",
+        "prompt3": "Go to the electronics store to buy a new TV."
+    },
+    {
+        "word": "サイズ",
+        "pron": "サイズ",
+        "definition": "尺寸",
+        "prompt2": "このシャツのサイズは大きすぎます。",
+        "phrase_explain": "这件衬衫尺寸太大了。",
+        "prompt3": "This shirt is too big in size."
+    },
+    {
+        "word": "音",
+        "pron": "おと",
+        "definition": "声音",
+        "prompt2": "夜には静かな音が聞こえます。",
+        "phrase_explain": "晚上能听到安静的声音。",
+        "prompt3": "You can hear quiet sounds at night."
+    },
+    {
+        "word": "機械",
+        "pron": "きかい",
+        "definition": "机械，机器",
+        "prompt2": "新しい機械を使って料理を作ります。",
+        "phrase_explain": "用新机器做饭。",
+        "prompt3": "Cook with a new machine."
+    },
+    {
+        "word": "つまみ",
+        "pron": "つまみ",
+        "definition": "旋转钮",
+        "prompt2": "テレビのつまみで音量を調整します。",
+        "phrase_explain": "用电视旋钮调整音量。",
+        "prompt3": "Adjust the volume with the TV knob."
+    },
+    {
+        "word": "故障",
+        "pron": "こしょう",
+        "definition": "故障（～します：发生故障）",
+        "prompt2": "コンピュータが故障しました。",
+        "phrase_explain": "电脑出故障了。",
+        "prompt3": "The computer is malfunctioning."
+    },
+    {
+        "word": "道",
+        "pron": "みち",
+        "definition": "道路",
+        "prompt2": "学校へ行く道は短いです。",
+        "phrase_explain": "去学校的路很短。",
+        "prompt3": "The way to school is short."
+    },
+    {
+        "word": "交差点",
+        "pron": "こうさてん",
+        "definition": "十字路口",
+        "prompt2": "交差点で信号を待ちます。",
+        "phrase_explain": "在十字路口等红绿灯。",
+        "prompt3": "Wait for the traffic lights at the intersection."
+    },
+    {
+        "word": "信号",
+        "pron": "しんごう",
+        "definition": "红绿灯",
+        "prompt2": "歩行者は信号を守って渡ります。",
+        "phrase_explain": "行人遵守交通信号通过。",
+        "prompt3": "Pedestrians pass according to traffic signals."
+    },
+    {
+        "word": "角",
+        "pron": "かど",
+        "definition": "转角",
+        "prompt2": "公園の角に美しい花が咲いています。",
+        "phrase_explain": "公园角落里开满了美丽的花。",
+        "prompt3": "The corner of the park is full of beautiful flowers."
+    },
+    {
+        "word": "橋",
+        "pron": "はし",
+        "definition": "桥",
+        "prompt2": "川の上に長い橋があります。",
+        "phrase_explain": "河上有一座长长的桥。",
+        "prompt3": "There is a long bridge over the river."
+    },
+    {
+        "word": "駐車場",
+        "pron": "ちゅうしゃじょう",
+        "definition": "停车场",
+        "prompt2": "車を駐車場に停めます。",
+        "phrase_explain": "将车停在停车场。",
+        "prompt3": "Park the car in the parking lot."
+    },
+    {
+        "word": "…目",
+        "pron": "…め",
+        "definition": "第…",
+        "prompt2": "二階から遠くの山が見えます。",
+        "phrase_explain": "从二楼可以看到远处的山。",
+        "prompt3": "You can see the distant mountains from the second floor."
+    },
+    {
+        "word": "［お］正月",
+        "pron": "［お］しょうがつ",
+        "definition": "新年",
+        "prompt2": "お正月には家族と一緒に祝います。",
+        "phrase_explain": "新年的时候和家人一起庆祝。",
+        "prompt3": "Celebrate the New Year with family."
+    },
+    {
+        "word": "ごちそうさま［でした］。",
+        "pron": "ごちそうさま［でした］。",
+        "definition": "谢谢你的款待。（用于饮食后）",
+        "prompt2": "美味しいご飯を食べて、ごちそうさまでした。",
+        "phrase_explain": "吃了美味的饭菜，谢谢款待。",
+        "prompt3": "Thank you for the delicious meal and hospitality."
+    },
+    {
+        "word": "くれます",
+        "pron": "くれます",
+        "definition": "给（我）",
+        "prompt2": "友達が私にプレゼントをくれます。",
+        "phrase_explain": "朋友给了我一份礼物。",
+        "prompt3": "A friend gave me a gift."
+    },
+    {
+        "word": "連れて行きます",
+        "pron": "つれていきます",
+        "definition": "带（某人）去",
+        "prompt2": "犬を公園に連れて行きます。",
+        "phrase_explain": "带狗去公园。",
+        "prompt3": "Take the dog to the park."
+    },
+    {
+        "word": "連れて来ます",
+        "pron": "つれてきます",
+        "definition": "带（某人）来",
+        "prompt2": "友達を家に連れて来ます。",
+        "phrase_explain": "带朋友来家里。",
+        "prompt3": "Bring a friend to the house."
+    },
+    {
+        "word": "紹介します",
+        "pron": "しょうかいします",
+        "definition": "介绍",
+        "prompt2": "新しい友達を紹介します。",
+        "phrase_explain": "介绍新朋友。",
+        "prompt3": "Introduce a new friend."
+    },
+    {
+        "word": "案内します",
+        "pron": "あんないします",
+        "definition": "带路，引路",
+        "prompt2": "観光客を美術館に案内します。",
+        "phrase_explain": "给游客带领到美术馆。",
+        "prompt3": "Guide the tourists to the art museum."
+    },
+    {
+        "word": "説明します",
+        "pron": "せつめいします",
+        "definition": "说明",
+        "prompt2": "先生が新しい授業の内容を説明します。",
+        "phrase_explain": "老师解释新课程的内容。",
+        "prompt3": "The teacher explains the content of the new course."
+    },
+    {
+        "word": "いれます",
+        "pron": "いれます",
+        "definition": "冲，泡〔咖啡〕［コーヒーを～］",
+        "prompt2": "キッチンに新しい冷蔵庫をいれます。",
+        "phrase_explain": "在厨房里放了一台新冰箱。",
+        "prompt3": "Put a new refrigerator in the kitchen."
+    },
+    {
+        "word": "おじいさん／おじいちゃん",
+        "pron": "おじいさん／おじいちゃん",
+        "definition": "祖父，老爷爷",
+        "prompt2": "公園でおじいさんがベンチに座っています。",
+        "phrase_explain": "公园里有位老爷爷坐在长凳上。",
+        "prompt3": "There is an old man sitting on a bench in the park."
+    },
+    {
+        "word": "おばあさん／おばあちゃん",
+        "pron": "おばあさん／おばあちゃん",
+        "definition": "祖母，老奶奶",
+        "prompt2": "公園でおばあさんが花を見ています。",
+        "phrase_explain": "公园里有位奶奶在看花。",
+        "prompt3": "There is a grandmother looking at flowers in the park."
+    },
+    {
+        "word": "準備",
+        "pron": "じゅんび",
+        "definition": "准备（～します：做准备）",
+        "prompt2": "旅行の準備をします。",
+        "phrase_explain": "做旅行的准备。",
+        "prompt3": "Prepare for the trip."
+    },
+    {
+        "word": "意味",
+        "pron": "いみ",
+        "definition": "意思",
+        "prompt2": "新しい言葉の意味を辞書で調べます。",
+        "phrase_explain": "用词典查新词的意思。",
+        "prompt3": "Look up the meaning of new words in the dictionary."
+    },
+    {
+        "word": "［お］菓子",
+        "pron": "［お］かし",
+        "definition": "糕点，点心",
+        "prompt2": "お菓子を買って友達にあげます。",
+        "phrase_explain": "买了点心给朋友。",
+        "prompt3": "Buy some snacks for friends."
+    },
+    {
+        "word": "全部",
+        "pron": "ぜんぶ",
+        "definition": "全部",
+        "prompt2": "全部の宿題が終わりました。",
+        "phrase_explain": "所有的作业都做完了。",
+        "prompt3": "All the homework is done."
+    },
+    {
+        "word": "自分で",
+        "pron": "じぶんで",
+        "definition": "自己～",
+        "prompt2": "自分で料理を作ります。",
+        "phrase_explain": "自己做饭。",
+        "prompt3": "Cook by yourself."
+    },
+    {
+        "word": "考えます",
+        "pron": "かんがえます",
+        "definition": "思考，想",
+        "prompt2": "将来の夢について考えます。",
+        "phrase_explain": "考虑未来的梦想。",
+        "prompt3": "Consider future dreams."
+    },
+    {
+        "word": "着きます",
+        "pron": "つきます",
+        "definition": "到达，抵达（车站）［えきに～］［駅に～］",
+        "prompt2": "友達の家に着きました。",
+        "phrase_explain": "到达朋友家。",
+        "prompt3": "Arrive at a friend's house."
+    },
+    {
+        "word": "留学します",
+        "pron": "りゅうがくします",
+        "definition": "留学",
+        "prompt2": "大学で留学することに決めました。",
+        "phrase_explain": "决定在大学留学。",
+        "prompt3": "Decide to study abroad in university."
+    },
+    {
+        "word": "田舎",
+        "pron": "いなか",
+        "definition": "乡下，故乡",
+        "prompt2": "田舎でのんびり過ごしたいです。",
+        "phrase_explain": "想在乡村悠闲地度过。",
+        "prompt3": "Want to spend leisurely in the countryside."
+    },
+    {
+        "word": "大使館",
+        "pron": "たいしかん",
+        "definition": "大使馆",
+        "prompt2": "パスポートを大使館で更新します。",
+        "phrase_explain": "在大使馆更新护照。",
+        "prompt3": "Renew the passport at the embassy."
+    },
+    {
+        "word": "グループ",
+        "pron": "グループ",
+        "definition": "组，群",
+        "prompt2": "友達と一緒にグループで遊びます。",
+        "phrase_explain": "和朋友一起组成团体玩耍。",
+        "prompt3": "Play together in a group with friends."
+    },
+    {
+        "word": "チャンス",
+        "pron": "チャンス",
+        "definition": "机会",
+        "prompt2": "試験に合格するためのチャンスがあります。",
+        "phrase_explain": "有通过考试的机会。",
+        "prompt3": "Have a chance to pass the exam."
+    },
+    {
+        "word": "億",
+        "pron": "おく",
+        "definition": "亿",
+        "prompt2": "宝くじで億円当たりました。",
+        "phrase_explain": "中了一亿日元的彩票。",
+        "prompt3": "Won a hundred million yen in the lottery."
+    },
+    {
+        "word": "もし［～たら］",
+        "pron": "もし［～たら］",
+        "definition": "如果～",
+        "prompt2": "もし雨が降ったら、傘を持って行きます。",
+        "phrase_explain": "如果下雨了，就带上雨伞。",
+        "prompt3": "If it rains, take an umbrella."
+    },
+    {
+        "word": "いくら［～ても］",
+        "pron": "いくら［～ても］",
+        "definition": "无论～也，怎么～也",
+        "prompt2": "いくら勉強しても分からないことがあります。",
+        "phrase_explain": "不管怎么学习也有不懂的事情。",
+        "prompt3": "No matter how much you study, there are things you don't understand."
+    }
+]

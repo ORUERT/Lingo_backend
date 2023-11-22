@@ -1,0 +1,11 @@
+{
+  "groups": [
+    {
+      "name": "jwt",
+      "type": "com.example.lingo.util.JwtUtil",
+      "sourceType": "com.example.lingo.util.JwtUtil"
+    }
+  ],
+  "properties": [],
+  "hints": []
+}

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.example.lingo.mapper.TMessageMapper">
+    <resultMap id="BaseResultMap" type="com.example.lingo.model.TMessage">
+        <id column="user_id" jdbcType="BIGINT" property="userId" />
+        <id column="created_at" jdbcType="DATE" property="createdAt" />
+        <result column="content" jdbcType="VARCHAR" property="content" />
+        <result column="answer" jdbcType="VARCHAR" property="answer" />
+    </resultMap>
+    <insert id="insert" parameterType="com.example.lingo.model.TMessage">
+        insert into t_message (user_id, created_at, content,answer
+          )
+        values (#{userId,jdbcType=BIGINT}, #{createdAt,jdbcType=DATETIMEOFFSET}, #{content,jdbcType=VARCHAR},#{answer,jdbcType=VARCHAR}
+          )
+    </insert>
+    <select id="selectByUserId"  parameterType="java.lang.Long" resultMap="BaseResultMap">
+        select user_id, created_at, content,answer
+        from t_user_memory
+        where user_id = #{userId,jdbcType=BIGINT}
+    </select>
+</mapper>

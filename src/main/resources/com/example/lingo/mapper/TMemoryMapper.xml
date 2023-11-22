@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.example.lingo.mapper.TMemoryMapper">
+  <resultMap id="BaseResultMap" type="com.example.lingo.model.TMemory">
+    <id column="user_id" jdbcType="BIGINT" property="userId" />
+    <id column="word_id" jdbcType="BIGINT" property="wordId" />
+    <result column="memory_count" jdbcType="INTEGER" property="memoryCount" />
+    <result column="memory_status" jdbcType="INTEGER" property="memoryStatus" />
+  </resultMap>
+  <insert id="insert" parameterType="com.example.lingo.model.TMemory">
+    insert into t_memory (user_id, word_id, memory_count,
+      memory_status)
+    values (#{userId,jdbcType=BIGINT}, #{wordId,jdbcType=BIGINT}, #{memoryCount,jdbcType=INTEGER},
+      #{memoryStatus,jdbcType=INTEGER})
+  </insert>
+  <select id="selectAll" resultMap="BaseResultMap">
+    select user_id, word_id, memory_count, memory_status
+    from t_memory
+  </select>
+  <update id="updateByPrimaryKey" parameterType="com.example.lingo.model.TMemory">
+    update t_memory
+    set memory_count = #{memoryCount,jdbcType=INTEGER},
+      memory_status = #{memoryStatus,jdbcType=INTEGER}
+    where user_id = #{userId,jdbcType=BIGINT}
+      and word_id = #{wordId,jdbcType=BIGINT}
+  </update>
+</mapper>
